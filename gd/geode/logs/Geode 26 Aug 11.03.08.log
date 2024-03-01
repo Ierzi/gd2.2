@@ -1,0 +1,478 @@
+11:03:08 [Geode]: Set up platform crash logger
+11:03:08 [Geode]: Setting up Loader...
+11:03:08 [Geode]: Set up internal mod representation
+11:03:08 [Geode]: Loading hooks... 
+11:03:08 [Geode]: Enabling hook at function cocos2d::CCFileUtils::sharedFileUtils with address 699F5DC0
+11:03:08 [Geode]: Enabling hook at function cocos2d::CCNode::getUserObject with address 6998F570
+11:03:08 [Geode]: Enabling hook at function cocos2d::CCNode::setUserObject with address 69990700
+11:03:08 [Geode]: Enabling hook at function LoadingLayer::init with address 008DC080
+11:03:08 [Geode]: Enabling hook at function LoadingLayer::loadAssets with address 008DC8E0
+11:03:08 [Geode]: Enabling hook at function GJBaseGameLayer::collectItem with address 00861890
+11:03:08 [Geode]: Enabling hook at function GJBaseGameLayer::collectedObject with address 00861830
+11:03:08 [Geode]: Enabling hook at function cocos2d::CCTouchDispatcher::addTargetedDelegate with address 69A25020
+11:03:08 [Geode]: Enabling hook at function cocos2d::CCTouchDispatcher::decrementForcePrio with address 69A250A0
+11:03:08 [Geode]: Enabling hook at function cocos2d::CCTouchDispatcher::incrementForcePrio with address 69A25320
+11:03:08 [Geode]: Enabling hook at function AchievementNotifier::willSwitchToScene with address 0075FEA0
+11:03:08 [Geode]: Enabling hook at function AppDelegate::trySaveGame with address 0078D5E0
+11:03:08 [Geode]: Enabling hook at function cocos2d::CCScheduler::update with address 69A33430
+11:03:08 [Geode]: Enabling hook at function LoadingLayer::loadAssets with address 008DC8E0
+11:03:08 [Geode]: Enabling hook at function CCTextInputNode::init with address 00770E50
+11:03:08 [Geode]: Enabling hook at function CCTextInputNode::updateLabel with address 00771190
+11:03:08 [Geode]: Enabling hook at function CreatorLayer::init with address 0079DE40
+11:03:08 [Geode]: Enabling hook at function CustomSongWidget::init with address 007B85B0
+11:03:08 [Geode]: Enabling hook at function CustomizeObjectLayer::init with address 007A3E00
+11:03:08 [Geode]: Enabling hook at function CustomizeObjectLayer::toggleVisible with address 007A6FB0
+11:03:08 [Geode]: Enabling hook at function EditLevelLayer::init with address 007BF5D0
+11:03:08 [Geode]: Enabling hook at function EditorPauseLayer::init with address 007C30E0
+11:03:08 [Geode]: Enabling hook at function EditorUI::init with address 007C6310
+11:03:08 [Geode]: Enabling hook at function GJGarageLayer::init with address 008755D0
+11:03:08 [Geode]: Enabling hook at function LevelBrowserLayer::init with address 008AA040
+11:03:08 [Geode]: Enabling hook at function LevelInfoLayer::init with address 008C5DF0
+11:03:08 [Geode]: Enabling hook at function LevelSearchLayer::init with address 008CDA60
+11:03:08 [Geode]: Enabling hook at function LevelSettingsLayer::init with address 008C0E50
+11:03:08 [Geode]: Enabling hook at function PauseLayer::customSetup with address 00934620
+11:03:08 [Geode]: Enabling hook at function UILayer::init with address 009AF3B0
+11:03:08 [Geode]: Enabling hook at function LoadingLayer::loadAssets with address 008DC8E0
+11:03:08 [Geode]: Enabling hook at function MenuLayer::init with address 008E07B0
+11:03:08 [Geode]: Loaded hooks
+11:03:08 [Geode]: Setting up IPC...
+11:03:08 [Geode]: IPC set up
+11:03:08 [Geode]: Refreshing mod graph...
+11:03:08 [Geode]:   Queueing mods
+11:03:08 [Geode]:     Searching "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Geometry Dash\\geode\\mods"
+11:03:08 [Geode]:       Found "alk.editorcollab.geode"
+11:03:08 [Geode]:         id: alk.editorcollab
+11:03:08 [Geode]:         version: v1.12.4-beta
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "alk.fps-shower.geode"
+11:03:08 [Geode]:         id: alk.fps-shower
+11:03:08 [Geode]:         version: v1.0.1
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "camila314.acbypass.geode"
+11:03:08 [Geode]:         id: camila314.acbypass
+11:03:08 [Geode]:         version: v1.0.0
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "camila314.demonlist-button.geode"
+11:03:08 [Geode]:         id: camila314.demonlist-button
+11:03:08 [Geode]:         version: v1.0.0
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "camila314.noclip.geode"
+11:03:08 [Geode]:         camila314.noclip: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+11:03:08 [Geode]:         id: camila314.noclip
+11:03:08 [Geode]:         version: v1.0.0
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "chs.confirmquit.geode"
+11:03:08 [Geode]:         id: chs.confirmquit
+11:03:08 [Geode]:         version: v1.0.0
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "chs000.modmenutest.geode"
+11:03:08 [Geode]:         chs000.modmenutest: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+11:03:08 [Geode]:         chs000.modmenutest: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+11:03:08 [Geode]:         id: chs000.modmenutest
+11:03:08 [Geode]:         version: v0.1.2
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "cvolton.betterinfo.geode"
+11:03:08 [Geode]:         id: cvolton.betterinfo
+11:03:08 [Geode]:         version: v3.0.2
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "cvolton.capacity_fix.geode"
+11:03:08 [Geode]:         id: cvolton.capacity_fix
+11:03:08 [Geode]:         version: v1.0.1
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "hjfod.custom-keybinds.geode"
+11:03:08 [Geode]:         id: hjfod.custom-keybinds
+11:03:08 [Geode]:         version: v1.0.0
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "mat.fps-bypass.geode"
+11:03:08 [Geode]:         id: mat.fps-bypass
+11:03:08 [Geode]:         version: v1.0.3
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "mat.practice-music.geode"
+11:03:08 [Geode]:         id: mat.practice-music
+11:03:08 [Geode]:         version: v1.0.3
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "mat.scroll-zoom.geode"
+11:03:08 [Geode]:         id: mat.scroll-zoom
+11:03:08 [Geode]:         version: v1.0.0
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "rlt.gd-platformer.geode"
+11:03:08 [Geode]:         id: rlt.gd-platformer
+11:03:08 [Geode]:         version: v1.0.0
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "ruslan.apm.geode"
+11:03:08 [Geode]:         id: ruslan.apm
+11:03:08 [Geode]:         version: v1.0.0
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:       Found "ruslan.nm.geode"
+11:03:08 [Geode]:         id: ruslan.nm
+11:03:08 [Geode]:         version: v1.0.0
+11:03:08 [Geode]:         early: no
+11:03:08 [Geode]:   Populating mod list
+11:03:08 [Geode]:     alk.editorcollab v1.12.4-beta
+11:03:09 [Geode]:     alk.fps-shower v1.0.1
+11:03:09 [Geode]:     camila314.acbypass v1.0.0
+11:03:09 [Geode]:     camila314.demonlist-button v1.0.0
+11:03:09 [Geode]:     camila314.noclip v1.0.0
+11:03:09 [Geode]:     chs.confirmquit v1.0.0
+11:03:09 [Geode]:     chs000.modmenutest v0.1.2
+11:03:09 [Geode]:     cvolton.betterinfo v3.0.2
+11:03:10 [Geode]:     cvolton.capacity_fix v1.0.1
+11:03:10 [Geode]:     hjfod.custom-keybinds v1.0.0
+11:03:10 [Geode]:     mat.fps-bypass v1.0.3
+11:03:10 [Geode]:     mat.practice-music v1.0.3
+11:03:10 [Geode]:     mat.scroll-zoom v1.0.0
+11:03:10 [Geode]:     rlt.gd-platformer v1.0.0
+11:03:10 [Geode]:     ruslan.apm v1.0.0
+11:03:10 [Geode]:     ruslan.nm v1.0.0
+11:03:10 [Geode]:   Building mod graph
+11:03:10 [Geode]:     camila314.acbypass
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:     chs.confirmquit
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:     geode.loader
+11:03:10 [Geode]:     alk.editorcollab
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:     alk.fps-shower
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:     camila314.demonlist-button
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:     camila314.noclip
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:       camila314.acbypass
+11:03:10 [Geode]:     chs000.modmenutest
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:       camila314.acbypass
+11:03:10 [Geode]:       hjfod.custom-keybinds
+11:03:10 [Geode]:     cvolton.betterinfo
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:     cvolton.capacity_fix
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:     hjfod.custom-keybinds
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:     mat.fps-bypass
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:     mat.practice-music
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:     mat.scroll-zoom
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:     rlt.gd-platformer
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:     ruslan.apm
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:     ruslan.nm
+11:03:10 [Geode]:       geode.loader
+11:03:10 [Geode]:   Loading early mods
+11:03:10 [Geode]:   Took 2.247s. Continuing next frame...
+11:03:10 [Geode]: Set up loader
+11:03:10 [Geode]: Entry done.
+11:03:16 [Geode]: Adding resources for alk.editorcollab
+11:03:16 [Geode]: Adding sheet alk.editorcollab/TulipEditor
+11:03:16 [Geode]: Continuing mod graph refresh...
+11:03:16 [Geode]:   Loading mods
+11:03:16 [Geode]:     camila314.acbypass v1.0.0
+11:03:16 [Geode]:       Load
+11:03:16 [Geode]:       Loading binary for mod camila314.acbypass
+11:03:16 [Geode]:       Enable
+11:03:16 [Geode]:       Enabling hook at function PlayLayer::update with address 009529C0
+11:03:16 [Geode]:       camila314.noclip v1.0.0
+11:03:16 [Geode]:         Load
+11:03:16 [Geode]:         Loading binary for mod camila314.noclip
+11:03:16 [Geode]:   Took 0.129s
+11:03:16 [Geode]: Continuing mod graph refresh...
+11:03:16 [Geode]:   Loading mods
+11:03:16 [Geode]:     chs.confirmquit v1.0.0
+11:03:16 [Geode]:       Load
+11:03:16 [Geode]:       Loading binary for mod chs.confirmquit
+11:03:16 [Geode]:       Enable
+11:03:16 [Geode]:       Enabling hook at function PauseLayer::onQuit with address 009363D0
+11:03:16 [Geode]:   Took 0.071s
+11:03:16 [Geode]: Continuing mod graph refresh...
+11:03:16 [Geode]:   Loading mods
+11:03:16 [Geode]:     alk.editorcollab v1.12.4-beta
+11:03:16 [Geode]:       Load
+11:03:16 [Geode]:       Loading binary for mod alk.editorcollab
+11:03:16 [Editor Collab]:       Loaded
+11:03:16 [Geode]:       Enable
+11:03:16 [Geode]:       Enabling hook at function EditorUI::moveObject with address 007DDDB0
+11:03:16 [Geode]:       Enabling hook at function EditorUI::init with address 007C6310
+11:03:16 [Geode]:       Enabling hook at function EditorUI::onPause with address 007C8020
+11:03:16 [Geode]:       Enabling hook at function EditorUI::showUI with address 007D7180
+11:03:16 [Geode]:       Enabling hook at function LevelBrowserLayer::init with address 008AA040
+11:03:16 [Geode]:       Enabling hook at function GManager::saveGMTo with address 00779250
+11:03:16 [Geode]:       Enabling hook at function EditorPauseLayer::init with address 007C30E0
+11:03:16 [Geode]:       Enabling hook at function EditorPauseLayer::onSave with address 007C55A0
+11:03:16 [Geode]:       Enabling hook at function EditorPauseLayer::onSaveAndExit with address 007C5620
+11:03:16 [Geode]:       Enabling hook at function EditorPauseLayer::onSaveAndPlay with address 007C53D0
+11:03:16 [Geode]:       Enabling hook at function PauseLayer::goEdit with address 009362F0
+11:03:16 [Geode]:       Enabling hook at function PauseLayer::onQuit with address 009363D0
+11:03:16 [Geode]:       Enabling hook at function CreatorLayer::init with address 0079DE40
+11:03:16 [Geode]:       Enabling hook at function GameManager::returnToLastScene with address 0081E6A0
+11:03:16 [Geode]:       Enabling hook at function SetGroupIDLayer::init with address 0097B670
+11:03:16 [Geode]:       Enabling hook at function EndLevelLayer::onEdit with address 007E6D30
+11:03:16 [Geode]:       Enabling hook at function EndLevelLayer::onMenu with address 007E6C10
+11:03:16 [Geode]:       Enabling hook at function LevelEditorLayer::addToUndoList with address 008B2410
+11:03:16 [Geode]:       Enabling hook at function LevelEditorLayer::handleAction with address 008B2010
+11:03:16 [Geode]:       Enabling hook at function EditorUI::updateButtons with address 007C8280
+11:03:16 [Geode]:       Enabling hook at function EditorUI::onDelete with address 007CB8D0
+11:03:16 [Geode]:       Enabling hook at function EditorUI::onDeleteSelected with address 007CBF50
+11:03:16 [Geode]:       Enabling hook at function EditorUI::onDeleteSelectedType with address 007CC480
+11:03:16 [Geode]:       Enabling hook at function EditorUI::onDuplicate with address 007D7D20
+11:03:16 [Geode]:       Enabling hook at function EditorUI::onPaste with address 007D80C0
+11:03:16 [Geode]:       Enabling hook at function CCMenuItemSpriteExtra::activate with address 007691C0
+11:03:16 [Geode]:       Enabling hook at function CCMenuItemToggler::activate with address 007698D0
+11:03:16 [Geode]:       Enabling hook at function ColorSelectPopup::closeColorSelect with address 00796D80
+11:03:16 [Geode]:       Enabling hook at function ColorSelectPopup::init with address 00793AE0
+11:03:16 [Geode]:       Enabling hook at function ColorSelectLiveOverlay::init with address 00791DB0
+11:03:16 [Geode]:       Enabling hook at function EditorUI::rotateObjects with address 007DEE80
+11:03:16 [Geode]:       Enabling hook at function EditorUI::scaleObjects with address 007DF150
+11:03:16 [Geode]:       Enabling hook at function GameObject::deselectObject with address 0083EE50
+11:03:16 [Geode]:       Enabling hook at function EditorUI::deleteObject with address 007CBED0
+11:03:16 [Geode]:       Enabling hook at function GameObject::createWithKey with address 0081F4F0
+11:03:16 [Geode]:       Enabling hook at function EditorUI::createCustomItems with address 007CA370
+11:03:16 [Geode]:       Enabling hook at function EditorUI::onCreate with address 007D5680
+11:03:16 [Geode]:       Enabling hook at function EditorUI::setupCreateMenu with address 007CCAF0
+11:03:16 [Geode]:       Enabling hook at function EditorUI::selectObject with address 007D6250
+11:03:16 [Geode]:       Enabling hook at function EditorUI::selectObjects with address 007D64A0
+11:03:16 [Geode]:       Enabling hook at function EditorUI::deselectAll with address 007D6AF0
+11:03:16 [Geode]:       Enabling hook at function EditorUI::deselectObject with address 007D6A50
+11:03:16 [Geode]:       Enabling hook at function EditorUI::keyDown with address 007E1A30
+11:03:16 [Geode]:       Enabling hook at function EditorUI::ccTouchBegan with address 007E07B0
+11:03:16 [Geode]:       Enabling hook at function EditorUI::ccTouchEnded with address 007E11A0
+11:03:16 [Geode]:       Enabling hook at function cocos2d::CCLayerColor::initWithColor with address 699D2AE0
+11:03:16 [Geode]:       Enabling hook at function cocos2d::CCLayer::setKeypadEnabled with address 699D3450
+11:03:16 [Geode]:       Enabling hook at function LevelEditorLayer::init with address 008AEE00
+11:03:16 [Editor Collab]:       Enabled
+11:03:16 [Geode]:   Took 0.125s
+11:03:16 [Geode]: Continuing mod graph refresh...
+11:03:16 [Geode]:   Loading mods
+11:03:16 [Geode]:     alk.fps-shower v1.0.1
+11:03:16 [Geode]:       Load
+11:03:16 [Geode]:       Loading binary for mod alk.fps-shower
+11:03:16 [Geode]:       Enable
+11:03:16 [Geode]:       Enabling hook at function LoadingLayer::init with address 008DC080
+11:03:16 [Geode]:       Enabling hook at function MenuLayer::init with address 008E07B0
+11:03:16 [FPS Shower]:       Enabled
+11:03:16 [Geode]:   Took 0.103s
+11:03:16 [Geode]: Continuing mod graph refresh...
+11:03:16 [Geode]:   Loading mods
+11:03:16 [Geode]:     camila314.demonlist-button v1.0.0
+11:03:16 [Geode]:       Load
+11:03:16 [Geode]:       Loading binary for mod camila314.demonlist-button
+11:03:16 [Geode]:       Enable
+11:03:16 [Geode]:       Enabling hook at function LevelSearchLayer::init with address 008CDA60
+11:03:16 [Geode]:       Enabling hook at function GameLevelManager::ProcessHttpRequest with address 007EF8E0
+11:03:16 [Geode]:   Took 0.073s
+11:03:16 [Geode]: Continuing mod graph refresh...
+11:03:16 [Geode]:   Loading mods
+11:03:16 [Geode]:     camila314.noclip v1.0.0
+11:03:16 [Geode]:   Took 0s
+11:03:16 [Geode]: Continuing mod graph refresh...
+11:03:16 [Geode]:   Loading mods
+11:03:16 [Geode]:   Took 0s
+11:03:16 [Geode]: Continuing mod graph refresh...
+11:03:16 [Geode]:   Loading mods
+11:03:16 [Geode]:     cvolton.betterinfo v3.0.2
+11:03:16 [Geode]:       Load
+11:03:16 [Geode]:       Loading binary for mod cvolton.betterinfo
+11:03:16 [BetterInfo]:       Setting up Page Limit Bypass
+11:03:16 [BetterInfo]:       Performing Windows specific loading steps
+11:03:17 [Geode]:       Enable
+11:03:17 [Geode]:       Enabling hook at function CommentCell::FLAlert_Clicked with address 007B1260
+11:03:17 [Geode]:       Enabling hook at function CommentCell::loadFromComment with address 007AF3D0
+11:03:17 [Geode]:       Enabling hook at function CommentCell::onConfirmDelete with address 007B1140
+11:03:17 [Geode]:       Enabling hook at function CommentCell::onLike with address 007B0F90
+11:03:17 [Geode]:       Enabling hook at function CreatorLayer::init with address 0079DE40
+11:03:17 [Geode]:       Enabling hook at function CreatorLayer::onChallenge with address 0079F1B0
+11:03:17 [Geode]:       Enabling hook at function CreatorLayer::sceneWillResume with address 0079FB50
+11:03:17 [Geode]:       Enabling hook at function DailyLevelPage::init with address 007BA900
+11:03:17 [Geode]:       Enabling hook at function DailyLevelPage::updateTimers with address 007BBEF0
+11:03:17 [Geode]:       Enabling hook at function EditLevelLayer::init with address 007BF5D0
+11:03:17 [Geode]:       Enabling hook at function EditLevelLayer::onLevelInfo with address 007C0660
+11:03:17 [Geode]:       Enabling hook at function GameLevelManager::getCompletedLevels with address 007F2D20
+11:03:17 [Geode]:       Enabling hook at function GameLevelManager::getSavedLevels with address 007F2960
+11:03:17 [Geode]:       Enabling hook at function GameLevelManager::limitSavedLevels with address 007F43B0
+11:03:17 [Geode]:       Enabling hook at function GameLevelManager::userNameForUserID with address 007F1C20
+11:03:17 [Geode]:       Enabling hook at function InfoLayer::init with address 0089F5A0
+11:03:17 [Geode]:       Enabling hook at function InfoLayer::loadPage with address 008A1E70
+11:03:17 [Geode]:       Enabling hook at function InfoLayer::onLevelInfo with address 008A1850
+11:03:17 [Geode]:       Enabling hook at function InfoLayer::onMore with address 008A1500
+11:03:17 [Geode]:       Enabling hook at function InfoLayer::setupCommentsBrowser with address 008A2270
+11:03:17 [Geode]:       Enabling hook at function LeaderboardsLayer::init with address 008A87B0
+11:03:17 [Geode]:       Enabling hook at function LevelBrowserLayer::init with address 008AA040
+11:03:17 [Geode]:       Enabling hook at function LevelBrowserLayer::updateLevelsLabel with address 008AC350
+11:03:17 [Geode]:       Enabling hook at function LevelCell::loadCustomLevelCell with address 007AA020
+11:03:17 [Geode]:       Enabling hook at function LevelCell::onViewProfile with address 007AC790
+11:03:17 [Geode]:       Enabling hook at function LevelInfoLayer::init with address 008C5DF0
+11:03:17 [Geode]:       Enabling hook at function LevelInfoLayer::onLevelInfo with address 008CACF0
+11:03:17 [Geode]:       Enabling hook at function LevelInfoLayer::onViewProfile with address 008CAC90
+11:03:17 [Geode]:       Enabling hook at function LevelLeaderboard::init with address 008CC4F0
+11:03:17 [Geode]:       Enabling hook at function LevelPage::onInfo with address 008D9070
+11:03:17 [Geode]:       Enabling hook at function LevelSearchLayer::getSearchObject with address 008D05F0
+11:03:17 [Geode]:       Enabling hook at function MoreSearchLayer::init with address 008D25C0
+11:03:17 [Geode]:       Enabling hook at function PlayLayer::init with address 0094B780
+11:03:17 [Geode]:       Enabling hook at function PlayLayer::levelComplete with address 0094D3D0
+11:03:17 [Geode]:       Enabling hook at function PlayLayer::onQuit with address 0095D810
+11:03:17 [Geode]:       Enabling hook at function PlayLayer::resetLevel with address 0095BF00
+11:03:17 [Geode]:       Enabling hook at function ProfilePage::getUserInfoFailed with address 009633E0
+11:03:17 [Geode]:       Enabling hook at function ProfilePage::init with address 0095EF00
+11:03:17 [Geode]:       Enabling hook at function ProfilePage::keyBackClicked with address 00799C80
+11:03:17 [Geode]:       Enabling hook at function ProfilePage::loadPageFromUserInfo with address 00960040
+11:03:17 [Geode]:       Enabling hook at function ProfilePage::onClose with address 00799C60
+11:03:17 [Geode]:       Enabling hook at function RewardsPage::init with address 009678F0
+11:03:17 [Geode]:   Took 0.198s
+11:03:17 [Geode]: Continuing mod graph refresh...
+11:03:17 [Geode]:   Loading mods
+11:03:17 [Geode]:     cvolton.capacity_fix v1.0.1
+11:03:17 [Geode]:       Load
+11:03:17 [Geode]:       Loading binary for mod cvolton.capacity_fix
+11:03:17 [Geode]:       Enable
+11:03:17 [Geode]:   Took 0.104s
+11:03:17 [Geode]: Continuing mod graph refresh...
+11:03:17 [Geode]:   Loading mods
+11:03:17 [Geode]:     hjfod.custom-keybinds v1.0.0
+11:03:17 [Geode]:       Load
+11:03:17 [Geode]:       Loading binary for mod hjfod.custom-keybinds
+11:03:17 [Geode]:       Enable
+11:03:17 [Geode]:       Enabling hook at function EditorUI::init with address 007C6310
+11:03:17 [Geode]:       Enabling hook at function EditorUI::keyDown with address 007E1A30
+11:03:17 [Geode]:       Enabling hook at function EditorUI::keyUp with address 007E2180
+11:03:17 [Geode]:       Enabling hook at function UILayer::init with address 009AF3B0
+11:03:17 [Geode]:       Enabling hook at function UILayer::keyDown with address 009AF890
+11:03:17 [Geode]:       Enabling hook at function UILayer::keyUp with address 009AFA10
+11:03:17 [Geode]:       Enabling hook at function cocos2d::CCKeyboardDispatcher::dispatchKeyboardMSG with address 699C9F30
+11:03:17 [Geode]:       Enabling hook at function MoreOptionsLayer::onKeybindings with address 007C49D0
+11:03:17 [Geode]:       chs000.modmenutest v0.1.2
+11:03:17 [Geode]:         Load
+11:03:17 [Geode]:         Loading binary for mod chs000.modmenutest
+11:03:17 [Cobalt Menu]:         PatchGame Called
+11:03:17 [Geode]:   Took 0.202s
+11:03:17 [Geode]: Continuing mod graph refresh...
+11:03:17 [Geode]:   Loading mods
+11:03:17 [Geode]:     mat.fps-bypass v1.0.3
+11:03:17 [Geode]:       Load
+11:03:17 [Geode]:       Loading binary for mod mat.fps-bypass
+11:03:17 [Geode]:       Enable
+11:03:17 [Geode]:       Enabling hook at function AppDelegate::applicationWillEnterForeground with address 0078D130
+11:03:17 [Geode]:       Enabling hook at function PlayLayer::init with address 0094B780
+11:03:17 [Geode]:   Took 0.072s
+11:03:17 [Geode]: Continuing mod graph refresh...
+11:03:17 [Geode]:   Loading mods
+11:03:17 [Geode]:     mat.practice-music v1.0.3
+11:03:17 [Geode]:       Load
+11:03:17 [Geode]:       Loading binary for mod mat.practice-music
+11:03:17 [Geode]:       Enable
+11:03:17 [Geode]:       Enabling hook at function PlayLayer::destroyPlayer with address 0095A1A0
+11:03:17 [Geode]:       Enabling hook at function PlayLayer::startMusic with address 0095C8F0
+11:03:17 [Geode]:       Enabling hook at function PlayLayer::togglePracticeMode with address 0095D0D0
+11:03:17 [Geode]:   Took 0.067s
+11:03:17 [Geode]: Continuing mod graph refresh...
+11:03:17 [Geode]:   Loading mods
+11:03:17 [Geode]:     mat.scroll-zoom v1.0.0
+11:03:17 [Geode]:       Load
+11:03:17 [Geode]:       Loading binary for mod mat.scroll-zoom
+11:03:17 [Geode]:       Enable
+11:03:17 [Geode]:       Enabling hook at function EditorUI::scrollWheel with address 007E21D0
+11:03:17 [Geode]:   Took 0.074s
+11:03:17 [Geode]: Continuing mod graph refresh...
+11:03:17 [Geode]:   Loading mods
+11:03:17 [Geode]:     rlt.gd-platformer v1.0.0
+11:03:17 [Geode]:       Load
+11:03:17 [Geode]:       Loading binary for mod rlt.gd-platformer
+11:03:17 [Geode]:   Took 0.11s
+11:03:17 [Geode]: Continuing mod graph refresh...
+11:03:17 [Geode]:   Loading mods
+11:03:17 [Geode]:     ruslan.apm v1.0.0
+11:03:17 [Geode]:       Load
+11:03:17 [Geode]:       Loading binary for mod ruslan.apm
+11:03:17 [Geode]:   Took 0.089s
+11:03:17 [Geode]: Continuing mod graph refresh...
+11:03:17 [Geode]:   Loading mods
+11:03:17 [Geode]:     ruslan.nm v1.0.0
+11:03:17 [Geode]:       Load
+11:03:17 [Geode]:       Loading binary for mod ruslan.nm
+11:03:17 [Geode]:       Enable
+11:03:17 [Geode]:       Enabling hook at function PlayLayer::toggleFlipped with address 0095AB20
+11:03:17 [Geode]:   Took 0.085s
+11:03:17 [Geode]: Continuing mod graph refresh...
+11:03:17 [Geode]:   Finding problems
+11:03:17 [Geode]:     camila314.acbypass
+11:03:17 [Geode]:     chs.confirmquit
+11:03:17 [Geode]:     geode.loader
+11:03:17 [Geode]:     alk.editorcollab
+11:03:17 [Geode]:     alk.fps-shower
+11:03:17 [Geode]:     camila314.demonlist-button
+11:03:17 [Geode]:     camila314.noclip
+11:03:17 [Geode]:     chs000.modmenutest
+11:03:17 [Geode]:     cvolton.betterinfo
+11:03:17 [Geode]:     cvolton.capacity_fix
+11:03:17 [Geode]:     hjfod.custom-keybinds
+11:03:17 [Geode]:     mat.fps-bypass
+11:03:17 [Geode]:     mat.practice-music
+11:03:17 [Geode]:     mat.scroll-zoom
+11:03:17 [Geode]:     rlt.gd-platformer
+11:03:17 [Geode]:     ruslan.apm
+11:03:17 [Geode]:     ruslan.nm
+11:03:17 [Geode]:   Took 0.001s
+11:03:20 [Geode]: Adding resources
+11:03:20 [Geode]: Adding resources for geode.loader
+11:03:20 [Geode]: Adding sheet geode.loader/LogoSheet
+11:03:20 [Geode]: Adding sheet geode.loader/APISheet
+11:03:20 [Geode]: Adding sheet geode.loader/BlankSheet
+11:03:20 [Geode]: Adding resources for alk.editorcollab
+11:03:20 [Geode]: Adding sheet alk.editorcollab/TulipEditor
+11:03:20 [Geode]: Checking updates for index
+11:03:20 [Geode]: Downloading index
+11:03:29 [Geode]: Updating local index cache
+11:03:30 [Geode]: balt.freewindow: [mod.json].binary has been removed.
+11:03:30 [Geode]: camila314.noclip: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+11:03:30 [Geode]: camila314.startswitcher: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+11:03:30 [Geode]: chs000.modmenutest: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+11:03:30 [Geode]: chs000.modmenutest: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+11:03:30 [Geode]: hjfod.gdshare: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+11:03:43 [Geode]: Saving...
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check if auto-check-updates is saved
+11:03:43 [Geode]: Check if show-platform-console is saved
+11:03:43 [Geode]: Check if disable-last-crashed-popup is saved
+11:03:43 [Geode]: Check if auto-update-mods is saved
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check if normal-undo-shared is saved
+11:03:43 [Geode]: Check if move-button is saved
+11:03:43 [Geode]: Check if normal-undo-local is saved
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check if text-color is saved
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check if ShowOnStartup is saved
+11:03:43 [Geode]: Check if isDebugOn is saved
+11:03:43 [Geode]: Check if FontSize is saved
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check if fix-green-users is saved
+11:03:43 [Geode]: Check if show-comment-ids is saved
+11:03:43 [Geode]: Check if white-id is saved
+11:03:43 [Geode]: Check if level-info is saved
+11:03:43 [Geode]: Check if alt-button is saved
+11:03:43 [Geode]: Check if auto-submit is saved
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check if enabled is saved
+11:03:43 [Geode]: Check if fps-value is saved
+11:03:43 [Geode]: Check if fps-label is saved
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check covered
+11:03:43 [Geode]: Check if auto-check-updates is saved
+11:03:43 [Geode]: Check if show-platform-console is saved
+11:03:43 [Geode]: Check if disable-last-crashed-popup is saved
+11:03:43 [Geode]: Check if auto-update-mods is saved
+11:03:43 [Geode]: Saved
+11:03:44 [Editor Collab]: Run thread joined
+11:03:44 [Editor Collab]: Heartbeat thread joined
+11:03:44 [Editor Collab]: Reconnect thread joined

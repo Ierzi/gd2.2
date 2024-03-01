@@ -1,0 +1,350 @@
+16:10:06 INFO  [Main] [Geode]: Running Geode v2.0.0-beta.20 in Geometry Dash v2.204
+16:10:06 INFO  [Main] [Geode]: Setting up internal mod
+16:10:06 INFO  [Main] [Geode]: Setting up loader
+16:10:06 DEBUG [Main] [Geode]:   Loading launch arguments
+16:10:06 DEBUG [Main] [Geode]:   Setting up crash handler
+16:10:06 DEBUG [Main] [Geode]:   Loading hooks
+16:10:06 DEBUG [Main] [Geode]:     Enabled cocos2d::CCFileUtils::fullPathForFilename hook at 0x74460f40 for geode.loader
+16:10:06 DEBUG [Main] [Geode]:     Enabled cocos2d::CCFileUtils::sharedFileUtils hook at 0x74469770 for geode.loader
+16:10:06 DEBUG [Main] [Geode]:     Enabled cocos2d::CCNode::getUserObject hook at 0x744b31f0 for geode.loader
+16:10:06 DEBUG [Main] [Geode]:     Enabled cocos2d::CCNode::setUserObject hook at 0x744015a0 for geode.loader
+16:10:06 DEBUG [Main] [Geode]:     Enabled LoadingLayer::init hook at 0x476370 for geode.loader
+16:10:06 DEBUG [Main] [Geode]:     Enabled LoadingLayer::loadAssets hook at 0x476bd0 for geode.loader
+16:10:06 DEBUG [Main] [Geode]:     Enabled MenuLayer::init hook at 0x47b450 for geode.loader
+16:10:06 DEBUG [Main] [Geode]:     Enabled ProfilePage::getUserInfoFinished hook at 0x4f1db0 for geode.loader
+16:10:06 DEBUG [Main] [Geode]:     Enabled AchievementNotifier::willSwitchToScene hook at 0x21c200 for geode.loader
+16:10:06 DEBUG [Main] [Geode]:     Enabled AppDelegate::trySaveGame hook at 0x25b790 for geode.loader
+16:10:06 DEBUG [Main] [Geode]:     Enabled cocos2d::CCScheduler::update hook at 0x744a6db0 for geode.loader
+16:10:06 DEBUG [Main] [Geode]:     Enabled CCTextInputNode::ccTouchBegan hook at 0x2304f0 for geode.loader
+16:10:06 DEBUG [Main] [Geode]:     Enabled LoadingLayer::loadAssets hook at 0x476bd0 for geode.loader
+16:10:06 DEBUG [Main] [Geode]:   Setting up directories
+16:10:06 INFO  [Main] [Geode]:   Refreshing mod graph
+16:10:06 DEBUG [Main] [Geode]:     Queueing mods
+16:10:06 DEBUG [Main] [Geode]:       Searching C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods
+16:10:06 DEBUG [Main] [Geode]:         Found abb2k.backup.geode
+16:10:06 DEBUG [Main] [Geode]:           id: abb2k.backup
+16:10:06 DEBUG [Main] [Geode]:           version: v1.0.4
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found absolllute.megahack.geode
+16:10:06 DEBUG [Main] [Geode]:           id: absolllute.megahack
+16:10:06 DEBUG [Main] [Geode]:           version: v8.0.0-alpha.10
+16:10:06 DEBUG [Main] [Geode]:           early: yes
+16:10:06 DEBUG [Main] [Geode]:         Found alk.editorcollab.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\alk.editorcollab.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found alk.fps-shower.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\alk.fps-shower.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found bitz.customprofiles.geode
+16:10:06 DEBUG [Main] [Geode]:           id: bitz.customprofiles
+16:10:06 DEBUG [Main] [Geode]:           version: v1.0.5
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found camila314.acbypass.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\camila314.acbypass.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found camila314.demonlist-button.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\camila314.demonlist-button.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found camila314.noclip.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\camila314.noclip.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found capeling.icon_profile_2.2.geode
+16:10:06 DEBUG [Main] [Geode]:           id: capeling.icon_profile_2.2
+16:10:06 DEBUG [Main] [Geode]:           version: v1.1.4
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found chs.confirmquit.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\chs.confirmquit.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found cj_link.fakemoderator.geode
+16:10:06 DEBUG [Main] [Geode]:           id: cj_link.fakemoderator
+16:10:06 DEBUG [Main] [Geode]:           version: v1.0.1
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found coderqc.gdswearfilter.geode
+16:10:06 DEBUG [Main] [Geode]:           id: coderqc.gdswearfilter
+16:10:06 DEBUG [Main] [Geode]:           version: v1.0.1
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found colon.gold_user_coins.geode
+16:10:06 DEBUG [Main] [Geode]:           id: colon.gold_user_coins
+16:10:06 DEBUG [Main] [Geode]:           version: v1.0.1
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found cvolton.betterinfo.geode
+16:10:06 DEBUG [Main] [Geode]:           id: cvolton.betterinfo
+16:10:06 DEBUG [Main] [Geode]:           version: v4.0.0-alpha.13
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found cvolton.capacity_fix.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\cvolton.capacity_fix.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found dankmeme.globed2.geode
+16:10:06 DEBUG [Main] [Geode]:           id: dankmeme.globed2
+16:10:06 DEBUG [Main] [Geode]:           version: v1.2.2
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found elnexreal.auto_priority.geode
+16:10:06 DEBUG [Main] [Geode]:           id: elnexreal.auto_priority
+16:10:06 DEBUG [Main] [Geode]:           version: v1.0.0
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found elnexreal.copy_song_id.geode
+16:10:06 DEBUG [Main] [Geode]:           id: elnexreal.copy_song_id
+16:10:06 DEBUG [Main] [Geode]:           version: v1.2.3
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found elohmrow.death_tracker.geode
+16:10:06 DEBUG [Main] [Geode]:           id: elohmrow.death_tracker
+16:10:06 DEBUG [Main] [Geode]:           version: v1.4.3
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found firee.PrismMenu.geode
+16:10:06 DEBUG [Main] [Geode]:           id: firee.PrismMenu
+16:10:06 DEBUG [Main] [Geode]:           version: v1.4.2
+16:10:06 DEBUG [Main] [Geode]:           early: yes
+16:10:06 DEBUG [Main] [Geode]:         Found fleym.nongd.geode
+16:10:06 DEBUG [Main] [Geode]:           id: fleym.nongd
+16:10:06 DEBUG [Main] [Geode]:           version: v2.4.0
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found gdutilsdevs.gdutils.geode
+16:10:06 DEBUG [Main] [Geode]:           id: gdutilsdevs.gdutils
+16:10:06 DEBUG [Main] [Geode]:           version: v1.2.14
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found geode.custom-keybinds.geode
+16:10:06 DEBUG [Main] [Geode]:           id: geode.custom-keybinds
+16:10:06 DEBUG [Main] [Geode]:           version: v1.4.0
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found geode.node-ids.geode
+16:10:06 DEBUG [Main] [Geode]:           id: geode.node-ids
+16:10:06 DEBUG [Main] [Geode]:           version: v1.3.0
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found geode.texture-loader.geode
+16:10:06 DEBUG [Main] [Geode]:           id: geode.texture-loader
+16:10:06 DEBUG [Main] [Geode]:           version: v1.5.0
+16:10:06 DEBUG [Main] [Geode]:           early: yes
+16:10:06 DEBUG [Main] [Geode]:         Found hjfod.custom-keybinds.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\hjfod.custom-keybinds.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found hjfod.gdshare.geode
+16:10:06 DEBUG [Main] [Geode]:           id: hjfod.gdshare
+16:10:06 DEBUG [Main] [Geode]:           version: v1.0.4
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found hjfod.gmd-api.geode
+16:10:06 DEBUG [Main] [Geode]:           id: hjfod.gmd-api
+16:10:06 DEBUG [Main] [Geode]:           version: v1.0.1
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found hjfod.quick-volume-controls.geode
+16:10:06 DEBUG [Main] [Geode]:           id: hjfod.quick-volume-controls
+16:10:06 DEBUG [Main] [Geode]:           version: v1.0.1
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found lexi.visiblecheckpoints.geode
+16:10:06 DEBUG [Main] [Geode]:           id: lexi.visiblecheckpoints
+16:10:06 DEBUG [Main] [Geode]:           version: v0.1.4
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found mat.fps-bypass.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.fps-bypass.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found mat.practice-music.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.practice-music.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found mat.run-info.geode
+16:10:06 DEBUG [Main] [Geode]:           id: mat.run-info
+16:10:06 DEBUG [Main] [Geode]:           version: v1.0.2
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found mat.scroll-zoom.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.scroll-zoom.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found muhammadgames.bettermenu.geode
+16:10:06 DEBUG [Main] [Geode]:           id: muhammadgames.bettermenu
+16:10:06 DEBUG [Main] [Geode]:           version: v1.0.4-beta.12
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found rlt.gd-platformer.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\rlt.gd-platformer.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found ruslan.apm.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\ruslan.apm.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found ruslan.nm.geode
+16:10:06 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\ruslan.nm.geode" - [mod.json] is missing target GD version
+16:10:06 DEBUG [Main] [Geode]:         Found thesillydoggo.animatedprofiles.geode
+16:10:06 DEBUG [Main] [Geode]:           id: thesillydoggo.animatedprofiles
+16:10:06 DEBUG [Main] [Geode]:           version: v1.0.1
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found thesillydoggo.better_startpos_menu.geode
+16:10:06 DEBUG [Main] [Geode]:           id: thesillydoggo.better_startpos_menu
+16:10:06 DEBUG [Main] [Geode]:           version: v1.1.0
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found thesillydoggo.entersearch.geode
+16:10:06 DEBUG [Main] [Geode]:           id: thesillydoggo.entersearch
+16:10:06 DEBUG [Main] [Geode]:           version: v1.0.0
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found TheSillyDoggo.GradientPages.geode
+16:10:06 DEBUG [Main] [Geode]:           id: TheSillyDoggo.GradientPages
+16:10:06 DEBUG [Main] [Geode]:           version: v2.1.0
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found tpdea.betterpause-Better.geode
+16:10:06 DEBUG [Main] [Geode]:           id: tpdea.betterpause-Better
+16:10:06 DEBUG [Main] [Geode]:           version: v1.5.5
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:         Found zilko.xdbot.geode
+16:10:06 DEBUG [Main] [Geode]:           id: zilko.xdbot
+16:10:06 DEBUG [Main] [Geode]:           version: v1.4.8
+16:10:06 DEBUG [Main] [Geode]:           early: no
+16:10:06 DEBUG [Main] [Geode]:     Populating mod list
+16:10:06 DEBUG [Main] [Geode]:       abb2k.backup v1.0.4
+16:10:06 DEBUG [Main] [Geode]:       absolllute.megahack v8.0.0-alpha.10
+16:10:06 DEBUG [Main] [Geode]:       bitz.customprofiles v1.0.5
+16:10:06 DEBUG [Main] [Geode]:       capeling.icon_profile_2.2 v1.1.4
+16:10:06 DEBUG [Main] [Geode]:       cj_link.fakemoderator v1.0.1
+16:10:06 DEBUG [Main] [Geode]:       coderqc.gdswearfilter v1.0.1
+16:10:06 DEBUG [Main] [Geode]:       colon.gold_user_coins v1.0.1
+16:10:06 DEBUG [Main] [Geode]:       cvolton.betterinfo v4.0.0-alpha.13
+16:10:06 DEBUG [Main] [Geode]:       dankmeme.globed2 v1.2.2
+16:10:06 DEBUG [Main] [Geode]:       elnexreal.auto_priority v1.0.0
+16:10:06 DEBUG [Main] [Geode]:       elnexreal.copy_song_id v1.2.3
+16:10:06 DEBUG [Main] [Geode]:       elohmrow.death_tracker v1.4.3
+16:10:06 DEBUG [Main] [Geode]:       firee.PrismMenu v1.4.2
+16:10:06 DEBUG [Main] [Geode]:       fleym.nongd v2.4.0
+16:10:06 DEBUG [Main] [Geode]:       gdutilsdevs.gdutils v1.2.14
+16:10:06 WARN  [Main] [GDUtils]:       Encountered unknown setting "spotify-section" while loading settings
+16:10:06 WARN  [Main] [GDUtils]:       Encountered unknown setting "misc-section" while loading settings
+16:10:06 WARN  [Main] [GDUtils]:       Encountered unknown setting "spotifyApp" while loading settings
+16:10:06 WARN  [Main] [GDUtils]:       Encountered unknown setting "test-notification" while loading settings
+16:10:06 WARN  [Main] [GDUtils]:       Encountered unknown setting "notificationPlacement" while loading settings
+16:10:06 WARN  [Main] [GDUtils]:       Encountered unknown setting "notification-section" while loading settings
+16:10:06 WARN  [Main] [GDUtils]:       Encountered unknown setting "notification-placement-section" while loading settings
+16:10:06 WARN  [Main] [GDUtils]:       Encountered unknown setting "notification-appearance-section" while loading settings
+16:10:06 WARN  [Main] [GDUtils]:       Encountered unknown setting "credits-section" while loading settings
+16:10:06 WARN  [Main] [GDUtils]:       Encountered unknown setting "credit-buttons" while loading settings
+16:10:06 DEBUG [Main] [Geode]:       geode.custom-keybinds v1.4.0
+16:10:06 DEBUG [Main] [Geode]:       geode.node-ids v1.3.0
+16:10:06 DEBUG [Main] [Geode]:       geode.texture-loader v1.5.0
+16:10:06 DEBUG [Main] [Geode]:       hjfod.gdshare v1.0.4
+16:10:06 DEBUG [Main] [Geode]:       hjfod.gmd-api v1.0.1
+16:10:06 DEBUG [Main] [Geode]:       hjfod.quick-volume-controls v1.0.1
+16:10:06 DEBUG [Main] [Geode]:       lexi.visiblecheckpoints v0.1.4
+16:10:06 DEBUG [Main] [Geode]:       mat.run-info v1.0.2
+16:10:06 DEBUG [Main] [Geode]:       muhammadgames.bettermenu v1.0.4-beta.12
+16:10:06 DEBUG [Main] [Geode]:       thesillydoggo.animatedprofiles v1.0.1
+16:10:06 DEBUG [Main] [Geode]:       thesillydoggo.better_startpos_menu v1.1.0
+16:10:06 DEBUG [Main] [Geode]:       thesillydoggo.entersearch v1.0.0
+16:10:06 DEBUG [Main] [Geode]:       TheSillyDoggo.GradientPages v2.1.0
+16:10:06 DEBUG [Main] [Geode]:       tpdea.betterpause-Better v1.5.5
+16:10:06 DEBUG [Main] [Geode]:       zilko.xdbot v1.4.8
+16:10:06 DEBUG [Main] [Geode]:     Building mod graph
+16:10:06 DEBUG [Main] [Geode]:       capeling.icon_profile_2.2
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       geode.loader
+16:10:06 DEBUG [Main] [Geode]:       elohmrow.death_tracker
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       absolllute.megahack
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       elnexreal.auto_priority
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       abb2k.backup
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       coderqc.gdswearfilter
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       zilko.xdbot
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:         geode.node-ids
+16:10:06 DEBUG [Main] [Geode]:       bitz.customprofiles
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:         geode.node-ids
+16:10:06 DEBUG [Main] [Geode]:       colon.gold_user_coins
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       cj_link.fakemoderator
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       lexi.visiblecheckpoints
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       cvolton.betterinfo
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:         geode.node-ids
+16:10:06 DEBUG [Main] [Geode]:       tpdea.betterpause-Better
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:         geode.node-ids
+16:10:06 DEBUG [Main] [Geode]:       dankmeme.globed2
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:         geode.custom-keybinds
+16:10:06 DEBUG [Main] [Geode]:       elnexreal.copy_song_id
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       firee.PrismMenu
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       fleym.nongd
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       gdutilsdevs.gdutils
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       thesillydoggo.better_startpos_menu
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       geode.custom-keybinds
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       geode.node-ids
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       geode.texture-loader
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       hjfod.gdshare
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:         hjfod.gmd-api
+16:10:06 DEBUG [Main] [Geode]:         geode.node-ids
+16:10:06 DEBUG [Main] [Geode]:       hjfod.gmd-api
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       hjfod.quick-volume-controls
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       mat.run-info
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       muhammadgames.bettermenu
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       thesillydoggo.animatedprofiles
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:         geode.node-ids
+16:10:06 DEBUG [Main] [Geode]:       thesillydoggo.entersearch
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:       TheSillyDoggo.GradientPages
+16:10:06 DEBUG [Main] [Geode]:         geode.loader
+16:10:06 DEBUG [Main] [Geode]:     Loading early mods
+16:10:06 DEBUG [Main] [Geode]:       absolllute.megahack v8.0.0-alpha.10
+16:10:06 DEBUG [Main] [Geode]:         Unzip
+16:10:06 DEBUG [Main] [Geode]:         Same hash detected, skipping unzip
+16:10:06 DEBUG [Main] [Geode]:         Load
+16:10:06 DEBUG [Main] [Geode]:         Loading binary for mod absolllute.megahack
+16:10:13 DEBUG [Main] [Geode]:       firee.PrismMenu v1.4.2
+16:10:13 DEBUG [Main] [Geode]:         Unzip
+16:10:13 DEBUG [Main] [Geode]:         Hash mismatch detected, unzipping
+16:10:13 DEBUG [Main] [Geode]:         Load
+16:10:13 DEBUG [Main] [Geode]:         Loading binary for mod firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled GameManager::isColorUnlocked hook at 0x322490 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled GameManager::isIconUnlocked hook at 0x321f90 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled EditLevelLayer::onShare hook at 0x29ee00 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled LevelInfoLayer::init hook at 0x4516a0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled GameStatsManager::isItemUnlocked hook at 0x376570 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled cocos2d::CCScheduler::update hook at 0x744a6db0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayLayer::addObject hook at 0x4e19b0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled GameObject::setVisible hook at 0x33b890 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled GJGameLevel::savePercentage hook at 0x313d70 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled cocos2d::CCTransitionFade::initWithDuration hook at 0x744493d0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled cocos2d::CCSprite::initWithFile hook at 0x744771d0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled cocos2d::CCSprite::setColor hook at 0x744778a0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayerObject::activateStreak hook at 0x4d89c0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayerObject::init hook at 0x4c24c0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayerObject::playerDestroyed hook at 0x4d1b30 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayerObject::pushButton hook at 0x4d1d30 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayerObject::toggleDartMode hook at 0x4d42f0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayerObject::update hook at 0x4c41b0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled GJBaseGameLayer::toggleFlipped hook at 0x3c87e0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled cocos2d::CCDrawNode::drawPolygon hook at 0x7440d670 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled MenuLayer::init hook at 0x47b450 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled MenuLayer::init hook at 0x47b450 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled cocos2d::CCKeyboardDispatcher::dispatchKeyboardMSG hook at 0x7443be70 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PauseLayer::customSetup hook at 0x4b89f0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayLayer::destroyPlayer hook at 0x4e6730 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayLayer::init hook at 0x4dc4a0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayLayer::levelComplete hook at 0x4ddb60 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayLayer::onQuit hook at 0x4eb480 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayLayer::postUpdate hook at 0x4e7220 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayLayer::resetLevel hook at 0x4ea130 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled PlayLayer::updateProgressbar hook at 0x4e5440 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled cocos2d::CCMouseDispatcher::dispatchScrollMSG hook at 0x74454970 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled cocos2d::CCIMEDispatcher::dispatchDeleteBackward hook at 0x74499f70 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled cocos2d::CCIMEDispatcher::dispatchInsertText hook at 0x74499fb0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled cocos2d::CCKeyboardDispatcher::dispatchKeyboardMSG hook at 0x7443be70 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled cocos2d::CCTouchDispatcher::touches hook at 0x74498a10 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled cocos2d::CCEGLView::swapBuffers hook at 0x744681b0 for firee.PrismMenu
+16:10:13 DEBUG [Main] [Geode]:         Enabled cocos2d::CCEGLView::toggleFullScreen hook at 0x744681d0 for firee.PrismMenu
+16:10:14 DEBUG [Main] [Geode]:       geode.texture-loader v1.5.0
+16:10:14 DEBUG [Main] [Geode]:         Unzip
+16:10:14 DEBUG [Main] [Geode]:         Same hash detected, skipping unzip
+16:10:14 DEBUG [Main] [Geode]:         Load
+16:10:14 DEBUG [Main] [Geode]:         Loading binary for mod geode.texture-loader
+16:10:14 DEBUG [Main] [Geode]:         Enabled MenuLayer::init hook at 0x47b450 for geode.texture-loader
+16:10:14 INFO  [Ma>] [Texture Loader]: Loading texture packs
+16:10:14 INFO  [Ma>] [Texture Loader]: Loaded 0 packs
+16:10:14 INFO  [Main] [Geode]:     Took 8.019s. Continuing next frame...
+16:10:14 DEBUG [Main] [Geode]: Setting up IPC
+16:10:14 DEBUG [Main] [Geode]:   IPC set up
+16:10:14 INFO  [Main] [Geode]: Starting loader update check
+16:10:14 INFO  [Main] [Geode]: Entry took 8.065s
+16:10:22 INFO  [Main] [Geode]: Continuing mod graph refresh...
+16:10:22 DEBUG [Main] [Geode]:   Loading mods
+16:10:22 DEBUG [Main] [Geode]:     capeling.icon_profile_2.2 v1.1.4
+16:10:22 ERROR [Main] [Geode]: Failed to fetch updates Empty response
+16:10:22 DEBUG [Mod Unzip] [Geode]:  Unzip
+16:10:22 DEBUG [Mod Unzip] [Geode]:  Same hash detected, skipping unzip

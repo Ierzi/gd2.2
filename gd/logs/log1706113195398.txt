@@ -1,0 +1,103 @@
+[2024-01-24T16:19:59Z DEBUG ytest2] BASE /// GeometryDash.exe 0x5c0000
+[2024-01-24T16:19:59Z DEBUG ytest2] BASE /// libcocos2d.dll 0x67250000
+[2024-01-24T16:19:59Z DEBUG ytest2] BASE /// libExtensions.dll 0x73510000
+[2024-01-24T16:19:59Z DEBUG ytest2] BASE /// msvcr120.dll 0x66e70000
+[2024-01-24T16:19:59Z DEBUG ytest2] BASE /// zlib1.dll 0x5a4c0000
+[2024-01-24T16:19:59Z DEBUG ytest2] BASE /// mimalloc.dll 0x744b0000
+[2024-01-24T16:19:59Z DEBUG ytest2] BASE /// ybot.dll 0x61ea0000
+[2024-01-24T16:19:59Z DEBUG ytest2] yBot 2.1.30-stable
+[2024-01-24T16:19:59Z INFO  ytest2::updater] checking for updates
+[2024-01-24T16:19:59Z DEBUG reqwest::connect] starting new connection: https://ybot.store/
+[2024-01-24T16:20:02Z INFO  ytest2::updater] updating
+[2024-01-24T16:20:02Z INFO  ytest2::updater] yBot is up-to-date
+[2024-01-24T16:20:07Z DEBUG egui_glow::painter] 
+    opengl version: 4.6.0 - Build 30.0.101.1340
+    opengl renderer: Intel(R) UHD Graphics 600
+    opengl vendor: Intel
+[2024-01-24T16:20:07Z DEBUG egui_glow::shader_version] Shader version: Gl140 ("4.60 - Build 30.0.101.1340").
+[2024-01-24T16:20:07Z DEBUG egui_glow::painter] Shader header: "#version 140\n".
+[2024-01-24T16:20:07Z DEBUG egui_glow::painter] SRGB texture Support: true
+[2024-01-24T16:20:07Z DEBUG egui_glow::vao] GL version: "4.6.0 - Build 30.0.101.1340".
+now playing "limbo_fixed_240"
+[2024-01-24T16:21:19Z DEBUG ytest2::hooks] entered level
+[2024-01-24T16:21:26Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+now playing "LIMBO"
+[2024-01-24T16:23:20Z INFO  ytest2::hooks] exited level
+[2024-01-24T16:23:21Z DEBUG ytest2::hooks] entered level
+[2024-01-24T16:23:28Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-01-24T16:26:21Z INFO  ytest2::hooks] exited level
+now recording "congregation_ai"
+[2024-01-24T16:27:04Z DEBUG ytest2::hooks] entered level
+[2024-01-24T16:27:05Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-01-24T16:27:17Z DEBUG pathfinder] got a new best: 513
+[2024-01-24T16:27:29Z DEBUG pathfinder] got a new best: 575
+[2024-01-24T16:27:31Z DEBUG pathfinder] got a new best: 717
+[2024-01-24T16:27:34Z DEBUG pathfinder] got a new best: 836
+[2024-01-24T16:31:23Z DEBUG pathfinder] got a new best: 868
+[2024-01-24T16:31:32Z INFO  ytest2::hooks] exited level
+[2024-01-24T16:31:37Z DEBUG ytest2::hooks] entered level
+[2024-01-24T16:31:37Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-01-24T16:31:39Z INFO  ytest2::hooks] exited level
+now recording "stereo_ai"
+[2024-01-24T16:31:55Z DEBUG ytest2::hooks] entered level
+[2024-01-24T16:31:55Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-01-24T16:32:00Z DEBUG pathfinder] got a new best: 510
+[2024-01-24T16:32:12Z DEBUG pathfinder] got a new best: 3966
+[2024-01-24T16:32:12Z DEBUG pathfinder] got a new best: 3994
+[2024-01-24T16:32:14Z DEBUG pathfinder] got a new best: 4294
+[2024-01-24T16:32:14Z DEBUG pathfinder] got a new best: 4311
+[2024-01-24T16:32:14Z DEBUG pathfinder] got a new best: 4324
+[2024-01-24T16:32:15Z DEBUG pathfinder] got a new best: 4338
+[2024-01-24T16:32:19Z DEBUG pathfinder] got a new best: 4789
+[2024-01-24T16:32:20Z DEBUG pathfinder] got a new best: 4885
+[2024-01-24T16:32:22Z DEBUG pathfinder] got a new best: 5073
+[2024-01-24T16:32:23Z DEBUG pathfinder] got a new best: 5198
+[2024-01-24T16:32:24Z DEBUG pathfinder] got a new best: 5327
+[2024-01-24T16:32:24Z DEBUG pathfinder] got a new best: 5345
+[2024-01-24T16:32:25Z DEBUG pathfinder] got a new best: 5473
+[2024-01-24T16:32:27Z DEBUG pathfinder] got a new best: 5651
+[2024-01-24T16:32:27Z DEBUG pathfinder] got a new best: 5675
+[2024-01-24T16:32:27Z DEBUG pathfinder] got a new best: 5690
+[2024-01-24T16:32:27Z DEBUG pathfinder] got a new best: 5711
+[2024-01-24T16:32:27Z DEBUG pathfinder] got a new best: 5718
+[2024-01-24T16:32:27Z DEBUG pathfinder] got a new best: 5738
+[2024-01-24T16:32:27Z DEBUG pathfinder] got a new best: 5752
+[2024-01-24T16:32:27Z DEBUG pathfinder] got a new best: 5767
+[2024-01-24T16:32:27Z DEBUG pathfinder] got a new best: 5794
+[2024-01-24T16:32:27Z DEBUG pathfinder] got a new best: 5821
+[2024-01-24T16:32:27Z DEBUG pathfinder] got a new best: 5848
+[2024-01-24T16:32:27Z DEBUG pathfinder] got a new best: 5870
+[2024-01-24T16:32:27Z DEBUG pathfinder] got a new best: 5897
+[2024-01-24T16:32:28Z DEBUG pathfinder] got a new best: 5944
+[2024-01-24T16:32:28Z DEBUG pathfinder] got a new best: 6039
+[2024-01-24T16:32:28Z DEBUG pathfinder] got a new best: 6052
+[2024-01-24T16:32:29Z DEBUG pathfinder] got a new best: 6218
+[2024-01-24T16:32:30Z DEBUG pathfinder] got a new best: 6308
+[2024-01-24T16:32:32Z DEBUG pathfinder] got a new best: 6585
+[2024-01-24T16:32:32Z DEBUG pathfinder] got a new best: 6603
+[2024-01-24T16:32:32Z DEBUG pathfinder] got a new best: 6637
+[2024-01-24T16:32:33Z DEBUG pathfinder] got a new best: 6661
+[2024-01-24T16:32:33Z DEBUG pathfinder] got a new best: 6665
+[2024-01-24T16:32:33Z DEBUG pathfinder] got a new best: 6765
+[2024-01-24T16:32:33Z DEBUG pathfinder] got a new best: 6795
+[2024-01-24T16:32:33Z DEBUG pathfinder] got a new best: 6822
+[2024-01-24T16:32:34Z DEBUG pathfinder] got a new best: 6844
+[2024-01-24T16:32:34Z DEBUG pathfinder] got a new best: 6868
+[2024-01-24T16:32:34Z DEBUG pathfinder] got a new best: 6883
+[2024-01-24T16:32:34Z DEBUG pathfinder] got a new best: 6908
+[2024-01-24T16:32:34Z DEBUG pathfinder] got a new best: 6930
+[2024-01-24T16:32:34Z DEBUG pathfinder] got a new best: 6942
+[2024-01-24T16:32:34Z DEBUG pathfinder] got a new best: 6965
+[2024-01-24T16:32:34Z DEBUG pathfinder] got a new best: 6985
+[2024-01-24T16:32:34Z DEBUG pathfinder] got a new best: 6998
+[2024-01-24T16:32:34Z DEBUG pathfinder] got a new best: 7033
+[2024-01-24T16:33:14Z ERROR ytest2] yBot crashed!
+[2024-01-24T16:33:14Z ERROR ytest2] ==== Memory Stats ====
+[2024-01-24T16:33:14Z ERROR ytest2::alloc] == Virtual Memory Statistics ==
+[2024-01-24T16:33:14Z ERROR ytest2::alloc::virt] virtual memory allocated: 1363169280 (1300.0195 MB)
+[2024-01-24T16:33:14Z ERROR ytest2::alloc::virt] virtual memory freed    : 20971520 (20 MB)
+[2024-01-24T16:33:14Z ERROR ytest2::alloc::virt] virtual memory total    : 1342197760 (1280.0195 MB)
+thread '<unnamed>' panicked at src\checkpoint.rs:479:17:
+tried to load a checkpoint other than the latest (loading only 0x1e17bb90, value = 0x1e17bac8)
+stack backtrace:
+   0:  0x3b254db - <unknown>

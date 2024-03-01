@@ -1,0 +1,76 @@
+[2024-02-09T09:06:43Z DEBUG ytest2] BASE /// GeometryDash.exe 0x470000
+[2024-02-09T09:06:43Z DEBUG ytest2] BASE /// libcocos2d.dll 0x66c60000
+[2024-02-09T09:06:43Z DEBUG ytest2] BASE /// libExtensions.dll 0x73840000
+[2024-02-09T09:06:43Z DEBUG ytest2] BASE /// msvcr120.dll 0x67160000
+[2024-02-09T09:06:43Z DEBUG ytest2] BASE /// zlib1.dll 0x5a4c0000
+[2024-02-09T09:06:43Z DEBUG ytest2] BASE /// mimalloc.dll 0x734d0000
+[2024-02-09T09:06:43Z DEBUG ytest2] BASE /// ybot.dll 0x6b710000
+[2024-02-09T09:06:43Z DEBUG ytest2] yBot 2.1.30-stable
+[2024-02-09T09:06:43Z INFO  ytest2::updater] checking for updates
+[2024-02-09T09:06:43Z DEBUG reqwest::connect] starting new connection: https://ybot.store/
+[2024-02-09T09:06:44Z INFO  ytest2::updater] updating
+[2024-02-09T09:06:44Z INFO  ytest2::updater] yBot is up-to-date
+[2024-02-09T09:06:51Z DEBUG egui_glow::painter] 
+    opengl version: 4.6.0 - Build 30.0.101.1340
+    opengl renderer: Intel(R) UHD Graphics 600
+    opengl vendor: Intel
+[2024-02-09T09:06:51Z DEBUG egui_glow::shader_version] Shader version: Gl140 ("4.60 - Build 30.0.101.1340").
+[2024-02-09T09:06:51Z DEBUG egui_glow::painter] Shader header: "#version 140\n".
+[2024-02-09T09:06:51Z DEBUG egui_glow::painter] SRGB texture Support: true
+[2024-02-09T09:06:51Z DEBUG egui_glow::vao] GL version: "4.6.0 - Build 30.0.101.1340".
+[2024-02-09T09:07:52Z DEBUG ytest2::hooks] entered level
+[2024-02-09T09:07:54Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-09T09:08:07Z INFO  ytest2::hooks] exited level
+[2024-02-09T09:08:44Z DEBUG ytest2::hooks] entered level
+[2024-02-09T09:08:44Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-09T09:09:10Z INFO  ytest2::hooks] exited level
+[2024-02-09T09:09:29Z DEBUG ytest2::hooks] entered level
+[2024-02-09T09:09:29Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-09T09:10:13Z INFO  ytest2::hooks] exited level
+[2024-02-09T09:10:31Z DEBUG ytest2::hooks] entered level
+[2024-02-09T09:10:31Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-09T09:10:58Z INFO  ytest2::hooks] exited level
+[2024-02-09T09:11:11Z DEBUG ytest2::hooks] entered level
+[2024-02-09T09:11:11Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-09T09:11:29Z DEBUG ytest2::checkpoint] applying checkpoint 0x15809800
+[2024-02-09T09:11:31Z DEBUG ytest2::checkpoint] applying checkpoint 0x15809800
+[2024-02-09T09:11:34Z DEBUG ytest2::checkpoint] applying checkpoint 0x15808000
+[2024-02-09T09:11:36Z DEBUG ytest2::checkpoint] applying checkpoint 0x15808000
+[2024-02-09T09:11:41Z DEBUG ytest2::checkpoint] applying checkpoint 0x1580b000
+[2024-02-09T09:11:43Z DEBUG ytest2::checkpoint] applying checkpoint 0x1580b000
+[2024-02-09T09:11:45Z DEBUG ytest2::checkpoint] applying checkpoint 0x1580b000
+[2024-02-09T09:11:48Z DEBUG ytest2::checkpoint] applying checkpoint 0x1580b000
+[2024-02-09T09:11:54Z DEBUG ytest2::checkpoint] applying checkpoint 0x1580d400
+[2024-02-09T09:11:56Z DEBUG ytest2::checkpoint] applying checkpoint 0x1580d400
+[2024-02-09T09:12:14Z DEBUG ytest2::checkpoint] applying checkpoint 0xbb90c00
+[2024-02-09T09:12:16Z DEBUG ytest2::checkpoint] applying checkpoint 0xbb90c00
+[2024-02-09T09:12:24Z DEBUG ytest2::checkpoint] applying checkpoint 0xbb91800
+[2024-02-09T09:12:31Z DEBUG ytest2::checkpoint] applying checkpoint 0xbb92400
+[2024-02-09T09:12:35Z INFO  ytest2::hooks] exited level
+[2024-02-09T09:12:41Z DEBUG ytest2::hooks] entered level
+[2024-02-09T09:12:42Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-09T09:12:59Z INFO  ytest2::hooks] exited level
+[2024-02-09T09:13:03Z DEBUG ytest2::hooks] entered level
+[2024-02-09T09:13:03Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-09T09:13:11Z INFO  ytest2::hooks] exited level
+[2024-02-09T09:14:23Z DEBUG ytest2::hooks] entered level
+[2024-02-09T09:14:24Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-09T09:14:40Z INFO  ytest2::hooks] exited level
+now recording "the-swagmare"
+[2024-02-09T09:15:16Z DEBUG ytest2::hooks] entered level
+[2024-02-09T09:15:16Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-09T09:15:49Z DEBUG ytest2::checkpoint] applying checkpoint 0x167f6c00
+[2024-02-09T12:36:43Z INFO  ytest2::hooks] exited level
+now recording "dark-odyssey"
+[2024-02-09T12:40:49Z DEBUG ytest2::hooks] entered level
+[2024-02-09T12:41:01Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-09T12:41:02Z ERROR ytest2] yBot crashed!
+[2024-02-09T12:41:02Z ERROR ytest2] ==== Memory Stats ====
+[2024-02-09T12:41:02Z ERROR ytest2::alloc] == Virtual Memory Statistics ==
+[2024-02-09T12:41:02Z ERROR ytest2::alloc::virt] virtual memory allocated: 3653263360 (3484.0234 MB)
+[2024-02-09T12:41:02Z ERROR ytest2::alloc::virt] virtual memory freed    : 37879808 (36.125 MB)
+[2024-02-09T12:41:02Z ERROR ytest2::alloc::virt] virtual memory total    : 3615383552 (3447.8984 MB)
+thread '<unnamed>' panicked at src\alloc\virt.rs:101:17:
+Os { code: 487, kind: Uncategorized, message: "Tentative d’accès à une adresse non valide." }
+stack backtrace:
+   0:  0x3fe54db - <unknown>

@@ -1,0 +1,16 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+        "win": "2.204"
+    },
+	"version": "8.0.0-alpha.10",
+	"id": "absolllute.megahack",
+	"name": "Mega Hack Pro",
+	"developer": "Absolute",
+	"early-load": true,
+	"description": "#1 Geometry Dash mod menu",
+	"issues": {
+		"url": "https://absolute.zip/",
+		"info": "Contact me here"
+	}
+}

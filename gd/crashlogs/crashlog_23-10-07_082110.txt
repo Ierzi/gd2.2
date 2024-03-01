@@ -1,0 +1,194 @@
+Time: 2023/10/07 @ 08:21:10
+Version: v7.1.1.3
+Code: Access Violation (0xc0000005)
+Fault Address: 60943272
+Fault Module: libcocos2d.dll
+Fault Offset: 000E3272
+
+Stack Walk:
+libcocos2d.dll + 000E3272
+libcocos2d.dll + 0006249E
+libcocos2d.dll + 000630D1
+libcocos2d.dll + 00069360
+GeometryDash.exe + 000259BA
+GeometryDash.exe + 00026E05
+GeometryDash.exe + 000ECCC0
+GeometryDash.exe + 0020155A
+GeometryDash.exe + 001FC42F
+hackpro.dll + 000E9C5C
+run-info.dll + 00001750
+betterinfo.dll + 000344DA
+GeometryDash.exe + 001FB735
+GeometryDash.exe + 001FB6B5
+GeometryDash.exe + 00179B14
+libcocos2d.dll + 00086BEF
+libcocos2d.dll + 0008D5C4
+libcocos2d.dll + 0008F6B4
+libcocos2d.dll + 00103482
+hackpro.dll + 00087AD9
+hackpro.dll + 00088074
+hackpro.dll + 00088279
+libcocos2d.dll + 000FFB2D
+GeometryDash.exe + 00261175
+GeometryDash.exe + 002621FD
+KERNEL32.DLL + 00016BA9
+ntdll.dll + 00068F9F
+ntdll.dll + 00068F6D
+
+Register States:
+EAX: 0
+EBX: 0xd4a034
+ECX: 0x43f000
+EDX: 0
+ESI: 0x7ea50218
+EDI: 0x189eaa8
+ESP: 0x14ffad4
+EBP: 0x14ffadc
+EIP: 0x77458f6d
+EFLAGS: 00000000001000010000001000000010
+
+Loaded Modules (136):
+00AC0000: GeometryDash.exe
+773F0000: ntdll.dll
+762D0000: KERNEL32.DLL
+75C80000: KERNELBASE.dll
+76130000: ADVAPI32.dll
+754E0000: msvcrt.dll
+77000000: sechost.dll
+75EE0000: RPCRT4.dll
+75660000: SHELL32.dll
+75FA0000: msvcp_win.dll
+75360000: ucrtbase.dll
+751B0000: USER32.dll
+763C0000: win32u.dll
+761B0000: GDI32.dll
+761E0000: gdi32full.dll
+61100000: libExtensions.dll
+75140000: WS2_32.dll
+706E0000: OPENGL32.dll
+76530000: combase.dll
+610C0000: steam_api.dll
+62AA0000: glew32.dll
+60F10000: fmod.dll
+60E90000: MSVCP120.dll
+77080000: ole32.dll
+60DA0000: MSVCR120.dll
+10000000: pthreadVCE2.dll
+60C00000: libcurl.dll
+77370000: WLDAP32.dll
+60860000: libcocos2d.dll
+6FAF0000: GLU32.dll
+74480000: MSACM32.dll
+74DA0000: WINMM.dll
+607D0000: sqlite3.dll
+75080000: WSOCK32.dll
+60710000: MSVCR100.dll
+5A4C0000: zlib1.dll
+60680000: libtiff.dll
+6CCA0000: XINPUT9_1_0.dll
+6FAC0000: dxcore.dll
+605D0000: MSVCR90.dll
+77330000: IMM32.DLL
+74D10000: XInput9_1_0.dll
+60420000: hackproldr.dll
+76020000: CRYPT32.dll
+602D0000: gameoverlayrenderer.dll
+767C0000: OLEAUT32.dll
+77310000: PSAPI.DLL
+73020000: windows.storage.dll
+749D0000: wintypes.dll
+76860000: SHCORE.dll
+755B0000: shlwapi.dll
+6D6E0000: steamclient.dll
+77260000: imagehlp.dll
+76B60000: SETUPAPI.dll
+74470000: VERSION.dll
+74FD0000: IPHLPAPI.DLL
+70960000: vstdlib_s.dll
+712F0000: tier0_s.dll
+75000000: MSWSOCK.dll
+74AD0000: bcrypt.dll
+72BF0000: Secur32.dll
+74F90000: SSPICLI.DLL
+74AC0000: CRYPTBASE.DLL
+764C0000: bcryptPrimitives.dll
+57150000: hackpro.dll
+76930000: COMDLG32.dll
+67A00000: dbghelp.dll
+74C80000: dwmapi.dll
+5FFC0000: discord_game_sdk.dll
+5FF30000: COMCTL32.dll
+67610000: MF.dll
+5FE70000: MFReadWrite.dll
+676A0000: dxgi.dll
+67470000: MFPlat.DLL
+65FC0000: d3d11.dll
+69920000: ktmw32.dll
+72CB0000: cfgmgr32.dll
+5FD00000: gdiplus.dll
+5F990000: MFCORE.DLL
+67110000: mfperfhelper.dll
+748C0000: kernel.appcore.dll
+721F0000: RTWorkQ.DLL
+5F890000: steam.dll
+744C0000: uxtheme.dll
+03760000: MSCTF.dll
+60D70000: dbgcore.DLL
+60BD0000: CSERHelper.dll
+72CA0000: XInput1_4.dll
+6F260000: DEVOBJ.dll
+6F130000: inputhost.dll
+72A10000: CoreMessaging.dll
+74D50000: directxdatabasehelper.dll
+75050000: ntmarta.dll
+771D0000: clbcatq.dll
+56480000: ig9icd32.dll
+5F650000: igdml32.dll
+644C0000: igdgmm32.dll
+10020000: igc32.dll
+707E0000: powrprof.dll
+721E0000: UMPDC.dll
+72AE0000: textinputframework.dll
+72770000: CoreUIComponents.dll
+74AF0000: profapi.dll
+5F4C0000: BetterEdit-v4.0.5-min.dll
+5F450000: MSVCP140.dll
+60D50000: VCRUNTIME140.dll
+69910000: minhook.x32.dll
+74BD0000: DNSAPI.dll
+77360000: NSI.dll
+74E60000: rasadhlp.dll
+5F3D0000: betterinfo-wrapper.dll
+77320000: Normaliz.dll
+60BC0000: run-info.dll
+60BA0000: song-search.dll
+60B90000: sum-attempts.dll
+74CB0000: fwpuclnt.dll
+5F340000: betterinfo.dll
+74830000: schannel.dll
+74900000: mskeyprotect.dll
+74800000: NTASN1.dll
+72FF0000: ncrypt.dll
+72FD0000: ncryptsslp.dll
+647C0000: igd10iumd32.dll
+75090000: apphelp.dll
+6D540000: MMDevApi.dll
+6D210000: AUDIOSES.DLL
+6CEF0000: Windows.UI.dll
+707C0000: winmmbase.dll
+6D500000: wdmaud.drv
+6F2E0000: ksuser.dll
+6D4F0000: AVRT.dll
+6D200000: msacm32.drv
+6D1F0000: midimap.dll
+74D40000: resourcepolicyclient.dll
+72640000: TextShaping.dll
+50A40000: Ninput.dll
+
+System:
+CPU: Intel(R) Celeron(R) N4120 CPU @ 1.10GHz
+System RAM: 457 192 KB
+Available RAM: 2 097 024 KB
+GPU: Intel(R) UHD Graphics 600
+
+END OF LOG

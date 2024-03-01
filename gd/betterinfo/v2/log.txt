@@ -1,0 +1,810 @@
+[10-09-2023 12-48-23] --------------------------
+[10-09-2023 12-48-23] Loading BetterInfo Wrapper
+[10-09-2023 12-48-23] Failed to load BetterInfo Mod
+[10-09-2023 12-48-23] Resetting update channel
+[10-09-2023 12-48-23] Current update channel is: stable
+[10-09-2023 12-48-23] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[10-09-2023 12-48-24] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/betterinfo.dll: 200
+[10-09-2023 12-48-24] Found downloaded update, renaming dll
+[10-09-2023 12-48-24] Loaded BetterInfo Mod
+[10-09-2023 12-48-24] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[10-09-2023 12-48-25] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_GameSheet-uhd.plist: 200
+[10-09-2023 12-48-25] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_GameSheet-uhd.png: 200
+[10-09-2023 12-48-25] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_mainButton_001-uhd.png: 200
+[10-09-2023 12-48-26] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_destroyedUsers.plist: 200
+[10-09-2023 12-48-26] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_GameSheet-hd.plist: 200
+[10-09-2023 12-48-26] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_GameSheet-hd.png: 200
+[10-09-2023 12-48-26] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_GameSheet.plist: 200
+[10-09-2023 12-48-27] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_GameSheet.png: 200
+[10-09-2023 12-48-27] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_mainButton_001.png: 200
+[10-09-2023 12-49-04] --------------------------
+[10-09-2023 12-49-04] Loading BetterInfo Wrapper
+[10-09-2023 12-49-04] Loaded BetterInfo Mod
+[10-09-2023 12-49-04] Current update channel is: stable
+[10-09-2023 12-49-05] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[10-09-2023 12-49-05] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[10-09-2023 12-49-05] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_mainButton_001-hd.png: 200
+[10-09-2023 12-49-05] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_blankBtn_001-hd.png: 200
+[10-09-2023 12-49-05] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_blankBtn_001-uhd.png: 200
+[10-09-2023 12-49-06] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_blankBtn_001.png: 200
+[10-09-2023 12-49-06] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_altBtn_001.png: 200
+[10-09-2023 12-49-06] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_altBtn_001-hd.png: 200
+[10-09-2023 12-49-06] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_altBtn_001-uhd.png: 200
+[10-09-2023 12-49-06] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_searchID_001.png: 200
+[10-09-2023 12-49-06] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_searchID_001-hd.png: 200
+[10-09-2023 12-49-07] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_searchID_001-uhd.png: 200
+[10-09-2023 12-49-07] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_searchLevel_001.png: 200
+[10-09-2023 12-49-07] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_searchLevel_001-hd.png: 200
+[10-09-2023 12-49-07] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources/BI_searchLevel_001-uhd.png: 200
+[10-09-2023 14-06-17] --------------------------
+[10-09-2023 14-06-17] Loading BetterInfo Wrapper
+[10-09-2023 14-06-17] Loaded BetterInfo Mod
+[10-09-2023 14-06-17] Current update channel is: stable
+[10-09-2023 14-06-18] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[10-09-2023 14-06-18] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[11-09-2023 18-52-23] --------------------------
+[11-09-2023 18-52-23] Loading BetterInfo Wrapper
+[11-09-2023 18-52-23] Loaded BetterInfo Mod
+[11-09-2023 18-52-23] Current update channel is: stable
+[11-09-2023 18-52-24] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[11-09-2023 18-52-24] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[11-09-2023 20-45-35] --------------------------
+[11-09-2023 20-45-35] Loading BetterInfo Wrapper
+[11-09-2023 20-45-35] Loaded BetterInfo Mod
+[11-09-2023 20-45-35] Current update channel is: stable
+[11-09-2023 20-45-36] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[11-09-2023 20-45-36] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[12-09-2023 20-36-57] --------------------------
+[12-09-2023 20-36-57] Loading BetterInfo Wrapper
+[12-09-2023 20-36-57] Loaded BetterInfo Mod
+[12-09-2023 20-36-57] Current update channel is: stable
+[12-09-2023 20-36-57] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[12-09-2023 20-36-58] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[13-09-2023 09-35-37] --------------------------
+[13-09-2023 09-35-37] Loading BetterInfo Wrapper
+[13-09-2023 09-35-37] Loaded BetterInfo Mod
+[13-09-2023 09-35-37] Current update channel is: stable
+[13-09-2023 09-35-37] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[13-09-2023 09-35-37] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[13-09-2023 20-04-30] --------------------------
+[13-09-2023 20-04-30] Loading BetterInfo Wrapper
+[13-09-2023 20-04-30] Loaded BetterInfo Mod
+[13-09-2023 20-04-30] Current update channel is: stable
+[13-09-2023 20-04-30] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[13-09-2023 20-04-30] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[14-09-2023 19-06-39] --------------------------
+[14-09-2023 19-06-39] Loading BetterInfo Wrapper
+[14-09-2023 19-06-39] Loaded BetterInfo Mod
+[14-09-2023 19-06-39] Current update channel is: stable
+[14-09-2023 19-06-40] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[14-09-2023 19-06-40] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[14-09-2023 20-20-10] --------------------------
+[14-09-2023 20-20-10] Loading BetterInfo Wrapper
+[14-09-2023 20-20-11] Loaded BetterInfo Mod
+[14-09-2023 20-20-11] Current update channel is: stable
+[14-09-2023 20-20-11] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[14-09-2023 20-20-12] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[15-09-2023 15-23-08] --------------------------
+[15-09-2023 15-23-08] Loading BetterInfo Wrapper
+[15-09-2023 15-23-08] Loaded BetterInfo Mod
+[15-09-2023 15-23-09] Current update channel is: stable
+[15-09-2023 15-23-09] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[15-09-2023 15-23-10] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[15-09-2023 15-23-27] --------------------------
+[15-09-2023 15-23-27] Loading BetterInfo Wrapper
+[15-09-2023 15-23-27] Loaded BetterInfo Mod
+[15-09-2023 15-23-27] Current update channel is: stable
+[15-09-2023 15-23-28] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[15-09-2023 15-23-28] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[15-09-2023 20-58-42] --------------------------
+[15-09-2023 20-58-42] Loading BetterInfo Wrapper
+[15-09-2023 20-58-42] Loaded BetterInfo Mod
+[15-09-2023 20-58-42] Current update channel is: stable
+[15-09-2023 20-58-43] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[15-09-2023 20-58-43] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[15-09-2023 20-59-30] --------------------------
+[15-09-2023 20-59-30] Loading BetterInfo Wrapper
+[15-09-2023 20-59-30] Loaded BetterInfo Mod
+[15-09-2023 20-59-30] Current update channel is: stable
+[15-09-2023 20-59-30] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[15-09-2023 20-59-30] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[15-09-2023 21-00-58] --------------------------
+[15-09-2023 21-00-58] Loading BetterInfo Wrapper
+[15-09-2023 21-00-58] Loaded BetterInfo Mod
+[15-09-2023 21-00-58] Current update channel is: stable
+[15-09-2023 21-00-58] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[15-09-2023 21-00-59] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[16-09-2023 07-15-55] --------------------------
+[16-09-2023 07-15-55] Loading BetterInfo Wrapper
+[16-09-2023 07-15-55] Loaded BetterInfo Mod
+[16-09-2023 07-15-55] Current update channel is: stable
+[16-09-2023 07-15-55] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[16-09-2023 07-15-55] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[16-09-2023 09-12-38] --------------------------
+[16-09-2023 09-12-39] Loading BetterInfo Wrapper
+[16-09-2023 09-12-39] Loaded BetterInfo Mod
+[16-09-2023 09-12-39] Current update channel is: stable
+[16-09-2023 09-12-39] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[16-09-2023 09-12-39] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[17-09-2023 17-18-48] --------------------------
+[17-09-2023 17-18-48] Loading BetterInfo Wrapper
+[17-09-2023 17-18-48] Loaded BetterInfo Mod
+[17-09-2023 17-18-48] Current update channel is: stable
+[17-09-2023 17-18-48] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[17-09-2023 17-18-49] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[20-09-2023 15-47-38] --------------------------
+[20-09-2023 15-47-38] Loading BetterInfo Wrapper
+[20-09-2023 15-47-38] Loaded BetterInfo Mod
+[20-09-2023 15-47-38] Current update channel is: stable
+[20-09-2023 15-47-38] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[20-09-2023 15-47-38] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[22-09-2023 10-11-40] --------------------------
+[22-09-2023 10-11-40] Loading BetterInfo Wrapper
+[22-09-2023 10-11-40] Loaded BetterInfo Mod
+[22-09-2023 10-11-40] Current update channel is: stable
+[22-09-2023 10-11-40] Error: Empty file received
+[22-09-2023 10-11-40] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 0
+[22-09-2023 16-07-49] --------------------------
+[22-09-2023 16-07-49] Loading BetterInfo Wrapper
+[22-09-2023 16-07-49] Loaded BetterInfo Mod
+[22-09-2023 16-07-49] Current update channel is: stable
+[22-09-2023 16-07-50] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[22-09-2023 16-07-50] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[22-09-2023 20-38-46] --------------------------
+[22-09-2023 20-38-46] Loading BetterInfo Wrapper
+[22-09-2023 20-38-46] Loaded BetterInfo Mod
+[22-09-2023 20-38-46] Current update channel is: stable
+[22-09-2023 20-38-46] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[22-09-2023 20-38-47] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[23-09-2023 07-11-55] --------------------------
+[23-09-2023 07-11-55] Loading BetterInfo Wrapper
+[23-09-2023 07-11-55] Loaded BetterInfo Mod
+[23-09-2023 07-11-55] Current update channel is: stable
+[23-09-2023 07-11-55] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[23-09-2023 07-11-55] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[23-09-2023 11-39-32] --------------------------
+[23-09-2023 11-39-32] Loading BetterInfo Wrapper
+[23-09-2023 11-39-32] Loaded BetterInfo Mod
+[23-09-2023 11-39-32] Current update channel is: stable
+[23-09-2023 11-39-32] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[23-09-2023 11-39-33] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[24-09-2023 14-05-57] --------------------------
+[24-09-2023 14-05-57] Loading BetterInfo Wrapper
+[24-09-2023 14-05-57] Loaded BetterInfo Mod
+[24-09-2023 14-05-57] Current update channel is: stable
+[24-09-2023 14-05-57] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[24-09-2023 14-05-57] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[24-09-2023 16-33-18] --------------------------
+[24-09-2023 16-33-18] Loading BetterInfo Wrapper
+[24-09-2023 16-33-18] Loaded BetterInfo Mod
+[24-09-2023 16-33-18] Current update channel is: stable
+[24-09-2023 16-33-18] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[24-09-2023 16-33-19] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[24-09-2023 16-40-23] --------------------------
+[24-09-2023 16-40-23] Loading BetterInfo Wrapper
+[24-09-2023 16-40-23] Loaded BetterInfo Mod
+[24-09-2023 16-40-23] Current update channel is: stable
+[24-09-2023 16-40-24] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[24-09-2023 16-40-24] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[25-09-2023 19-12-08] --------------------------
+[25-09-2023 19-12-08] Loading BetterInfo Wrapper
+[25-09-2023 19-12-08] Loaded BetterInfo Mod
+[25-09-2023 19-12-08] Current update channel is: stable
+[25-09-2023 19-12-08] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[25-09-2023 19-12-08] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[26-09-2023 17-28-06] --------------------------
+[26-09-2023 17-28-06] Loading BetterInfo Wrapper
+[26-09-2023 17-28-06] Loaded BetterInfo Mod
+[26-09-2023 17-28-06] Current update channel is: stable
+[26-09-2023 17-28-07] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[26-09-2023 17-28-07] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[29-09-2023 13-21-47] --------------------------
+[29-09-2023 13-21-47] Loading BetterInfo Wrapper
+[29-09-2023 13-21-48] Loaded BetterInfo Mod
+[29-09-2023 13-21-48] Current update channel is: stable
+[29-09-2023 13-21-48] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[29-09-2023 13-21-48] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[29-09-2023 17-13-17] --------------------------
+[29-09-2023 17-13-17] Loading BetterInfo Wrapper
+[29-09-2023 17-13-17] Loaded BetterInfo Mod
+[29-09-2023 17-13-17] Current update channel is: stable
+[29-09-2023 17-13-18] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[29-09-2023 17-13-18] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[01-10-2023 14-00-31] --------------------------
+[01-10-2023 14-00-31] Loading BetterInfo Wrapper
+[01-10-2023 14-00-31] Loaded BetterInfo Mod
+[01-10-2023 14-00-31] Current update channel is: stable
+[01-10-2023 14-00-32] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[01-10-2023 14-00-32] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[01-10-2023 20-33-30] --------------------------
+[01-10-2023 20-33-30] Loading BetterInfo Wrapper
+[01-10-2023 20-33-31] Loaded BetterInfo Mod
+[01-10-2023 20-33-31] Current update channel is: stable
+[01-10-2023 20-33-32] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[01-10-2023 20-33-32] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[02-10-2023 17-00-54] --------------------------
+[02-10-2023 17-00-54] Loading BetterInfo Wrapper
+[02-10-2023 17-00-54] Loaded BetterInfo Mod
+[02-10-2023 17-00-54] Current update channel is: stable
+[02-10-2023 17-00-54] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[02-10-2023 17-00-54] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[03-10-2023 10-55-05] --------------------------
+[03-10-2023 10-55-05] Loading BetterInfo Wrapper
+[03-10-2023 10-55-05] Loaded BetterInfo Mod
+[03-10-2023 10-55-05] Current update channel is: stable
+[03-10-2023 10-55-05] Error: Empty file received
+[03-10-2023 10-55-05] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 0
+[03-10-2023 12-02-01] --------------------------
+[03-10-2023 12-02-01] Loading BetterInfo Wrapper
+[03-10-2023 12-02-01] Loaded BetterInfo Mod
+[03-10-2023 12-02-01] Current update channel is: stable
+[03-10-2023 12-02-01] Error: Empty file received
+[03-10-2023 12-02-01] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 0
+[05-10-2023 18-15-47] --------------------------
+[05-10-2023 18-15-47] Loading BetterInfo Wrapper
+[05-10-2023 18-15-48] Loaded BetterInfo Mod
+[05-10-2023 18-15-48] Current update channel is: stable
+[05-10-2023 18-15-49] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[05-10-2023 18-15-49] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[05-10-2023 18-17-55] --------------------------
+[05-10-2023 18-17-55] Loading BetterInfo Wrapper
+[05-10-2023 18-17-55] Loaded BetterInfo Mod
+[05-10-2023 18-17-55] Current update channel is: stable
+[05-10-2023 18-17-55] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[05-10-2023 18-17-55] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[07-10-2023 08-19-52] --------------------------
+[07-10-2023 08-19-52] Loading BetterInfo Wrapper
+[07-10-2023 08-19-53] Loaded BetterInfo Mod
+[07-10-2023 08-19-53] Current update channel is: stable
+[07-10-2023 08-19-53] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[07-10-2023 08-19-53] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[07-10-2023 08-21-21] --------------------------
+[07-10-2023 08-21-21] Loading BetterInfo Wrapper
+[07-10-2023 08-21-21] Loaded BetterInfo Mod
+[07-10-2023 08-21-21] Current update channel is: stable
+[07-10-2023 08-21-21] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[07-10-2023 08-21-22] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[07-10-2023 10-41-03] --------------------------
+[07-10-2023 10-41-03] Loading BetterInfo Wrapper
+[07-10-2023 10-41-04] Loaded BetterInfo Mod
+[07-10-2023 10-41-04] Current update channel is: stable
+[07-10-2023 10-41-06] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[07-10-2023 10-41-06] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[07-10-2023 11-02-44] --------------------------
+[07-10-2023 11-02-44] Loading BetterInfo Wrapper
+[07-10-2023 11-02-44] Loaded BetterInfo Mod
+[07-10-2023 11-02-44] Current update channel is: stable
+[07-10-2023 11-02-45] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[07-10-2023 11-02-46] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[09-10-2023 18-15-58] --------------------------
+[09-10-2023 18-15-58] Loading BetterInfo Wrapper
+[09-10-2023 18-15-59] Loaded BetterInfo Mod
+[09-10-2023 18-15-59] Current update channel is: stable
+[09-10-2023 18-15-59] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[09-10-2023 18-15-59] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[09-10-2023 18-19-12] --------------------------
+[09-10-2023 18-19-12] Loading BetterInfo Wrapper
+[09-10-2023 18-19-12] Loaded BetterInfo Mod
+[09-10-2023 18-19-12] Current update channel is: stable
+[09-10-2023 18-19-12] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[09-10-2023 18-19-13] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[11-10-2023 09-09-03] --------------------------
+[11-10-2023 09-09-03] Loading BetterInfo Wrapper
+[11-10-2023 09-09-04] Loaded BetterInfo Mod
+[11-10-2023 09-09-04] Current update channel is: stable
+[11-10-2023 09-09-04] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[11-10-2023 09-09-05] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[11-10-2023 22-17-41] --------------------------
+[11-10-2023 22-17-41] Loading BetterInfo Wrapper
+[11-10-2023 22-17-41] Loaded BetterInfo Mod
+[11-10-2023 22-17-41] Current update channel is: stable
+[11-10-2023 22-17-42] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[11-10-2023 22-17-43] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[13-10-2023 15-12-53] --------------------------
+[13-10-2023 15-12-53] Loading BetterInfo Wrapper
+[13-10-2023 15-12-54] Loaded BetterInfo Mod
+[13-10-2023 15-12-54] Current update channel is: stable
+[13-10-2023 15-12-55] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[13-10-2023 15-12-55] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[14-10-2023 09-13-42] --------------------------
+[14-10-2023 09-13-42] Loading BetterInfo Wrapper
+[14-10-2023 09-13-42] Loaded BetterInfo Mod
+[14-10-2023 09-13-42] Current update channel is: stable
+[14-10-2023 09-13-43] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[14-10-2023 09-13-43] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[14-10-2023 15-45-19] --------------------------
+[14-10-2023 15-45-19] Loading BetterInfo Wrapper
+[14-10-2023 15-45-19] Loaded BetterInfo Mod
+[14-10-2023 15-45-19] Current update channel is: stable
+[14-10-2023 15-45-20] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[14-10-2023 15-45-20] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[14-10-2023 15-56-48] --------------------------
+[14-10-2023 15-56-48] Loading BetterInfo Wrapper
+[14-10-2023 15-56-48] Loaded BetterInfo Mod
+[14-10-2023 15-56-48] Current update channel is: stable
+[14-10-2023 15-56-48] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[14-10-2023 15-56-48] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[14-10-2023 16-13-49] --------------------------
+[14-10-2023 16-13-49] Loading BetterInfo Wrapper
+[14-10-2023 16-13-50] Loaded BetterInfo Mod
+[14-10-2023 16-13-50] Current update channel is: stable
+[14-10-2023 16-13-50] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[14-10-2023 16-13-51] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[14-10-2023 16-38-29] --------------------------
+[14-10-2023 16-38-29] Loading BetterInfo Wrapper
+[14-10-2023 16-38-29] Loaded BetterInfo Mod
+[14-10-2023 16-38-29] Current update channel is: stable
+[14-10-2023 16-38-29] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[14-10-2023 16-38-29] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[14-10-2023 17-07-13] --------------------------
+[14-10-2023 17-07-13] Loading BetterInfo Wrapper
+[14-10-2023 17-07-13] Loaded BetterInfo Mod
+[14-10-2023 17-07-13] Current update channel is: stable
+[14-10-2023 17-07-14] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[14-10-2023 17-07-14] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[15-10-2023 09-51-49] --------------------------
+[15-10-2023 09-51-49] Loading BetterInfo Wrapper
+[15-10-2023 09-51-49] Loaded BetterInfo Mod
+[15-10-2023 09-51-49] Current update channel is: stable
+[15-10-2023 09-51-49] Error: Empty file received
+[15-10-2023 09-51-49] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 0
+[15-10-2023 18-08-49] --------------------------
+[15-10-2023 18-08-49] Loading BetterInfo Wrapper
+[15-10-2023 18-08-49] Loaded BetterInfo Mod
+[15-10-2023 18-08-49] Current update channel is: stable
+[15-10-2023 18-08-50] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[15-10-2023 18-08-50] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[15-10-2023 18-22-23] --------------------------
+[15-10-2023 18-22-23] Loading BetterInfo Wrapper
+[15-10-2023 18-22-23] Loaded BetterInfo Mod
+[15-10-2023 18-22-23] Current update channel is: stable
+[15-10-2023 18-22-23] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[15-10-2023 18-22-24] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[15-10-2023 18-24-26] --------------------------
+[15-10-2023 18-24-26] Loading BetterInfo Wrapper
+[15-10-2023 18-24-26] Loaded BetterInfo Mod
+[15-10-2023 18-24-26] Current update channel is: stable
+[15-10-2023 18-24-27] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[15-10-2023 18-24-27] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[15-10-2023 18-27-54] --------------------------
+[15-10-2023 18-27-54] Loading BetterInfo Wrapper
+[15-10-2023 18-27-54] Loaded BetterInfo Mod
+[15-10-2023 18-27-54] Current update channel is: stable
+[15-10-2023 18-27-55] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[15-10-2023 18-27-55] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[15-10-2023 19-09-56] --------------------------
+[15-10-2023 19-09-56] Loading BetterInfo Wrapper
+[15-10-2023 19-09-56] Loaded BetterInfo Mod
+[15-10-2023 19-09-56] Current update channel is: stable
+[15-10-2023 19-09-56] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[15-10-2023 19-09-56] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[15-10-2023 19-16-51] --------------------------
+[15-10-2023 19-16-51] Loading BetterInfo Wrapper
+[15-10-2023 19-16-52] Loaded BetterInfo Mod
+[15-10-2023 19-16-52] Current update channel is: stable
+[15-10-2023 19-16-52] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[15-10-2023 19-16-52] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[16-10-2023 18-00-24] --------------------------
+[16-10-2023 18-00-24] Loading BetterInfo Wrapper
+[16-10-2023 18-00-25] Loaded BetterInfo Mod
+[16-10-2023 18-00-25] Current update channel is: stable
+[16-10-2023 18-00-25] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[16-10-2023 18-00-25] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[17-10-2023 20-12-07] --------------------------
+[17-10-2023 20-12-07] Loading BetterInfo Wrapper
+[17-10-2023 20-12-07] Loaded BetterInfo Mod
+[17-10-2023 20-12-07] Current update channel is: stable
+[17-10-2023 20-12-07] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[17-10-2023 20-12-08] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[17-10-2023 20-14-28] --------------------------
+[17-10-2023 20-14-28] Loading BetterInfo Wrapper
+[17-10-2023 20-14-28] Loaded BetterInfo Mod
+[17-10-2023 20-14-28] Current update channel is: stable
+[17-10-2023 20-14-28] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[17-10-2023 20-14-28] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[17-10-2023 20-29-21] --------------------------
+[17-10-2023 20-29-21] Loading BetterInfo Wrapper
+[17-10-2023 20-29-21] Loaded BetterInfo Mod
+[17-10-2023 20-29-21] Current update channel is: stable
+[17-10-2023 20-29-22] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[17-10-2023 20-29-22] https://geometrydash.eu/mods/betterinfo/v2/v2.4.8/resources.txt: 200
+[18-10-2023 19-06-24] --------------------------
+[18-10-2023 19-06-24] Loading BetterInfo Wrapper
+[18-10-2023 19-06-24] Loaded BetterInfo Mod
+[18-10-2023 19-06-24] Current update channel is: stable
+[18-10-2023 19-06-25] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[18-10-2023 19-06-26] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/betterinfo.dll: 200
+[18-10-2023 19-06-26] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[19-10-2023 18-28-20] --------------------------
+[19-10-2023 18-28-20] Loading BetterInfo Wrapper
+[19-10-2023 18-28-20] Found downloaded update, renaming dll
+[19-10-2023 18-28-22] Loaded BetterInfo Mod
+[19-10-2023 18-28-22] Current update channel is: stable
+[19-10-2023 18-28-23] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[19-10-2023 18-28-23] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[19-10-2023 18-30-34] --------------------------
+[19-10-2023 18-30-34] Loading BetterInfo Wrapper
+[19-10-2023 18-30-34] Loaded BetterInfo Mod
+[19-10-2023 18-30-34] Current update channel is: stable
+[19-10-2023 18-30-34] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[19-10-2023 18-30-34] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[20-10-2023 15-51-02] --------------------------
+[20-10-2023 15-51-02] Loading BetterInfo Wrapper
+[20-10-2023 15-51-02] Loaded BetterInfo Mod
+[20-10-2023 15-51-02] Current update channel is: stable
+[20-10-2023 15-51-03] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[20-10-2023 15-51-03] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[20-10-2023 21-02-40] --------------------------
+[20-10-2023 21-02-40] Loading BetterInfo Wrapper
+[20-10-2023 21-02-41] Loaded BetterInfo Mod
+[20-10-2023 21-02-41] Current update channel is: stable
+[20-10-2023 21-02-41] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[20-10-2023 21-02-42] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[21-10-2023 19-50-32] --------------------------
+[21-10-2023 19-50-32] Loading BetterInfo Wrapper
+[21-10-2023 19-50-32] Loaded BetterInfo Mod
+[21-10-2023 19-50-32] Current update channel is: stable
+[21-10-2023 19-50-33] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[21-10-2023 19-50-33] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[22-10-2023 11-56-55] --------------------------
+[22-10-2023 11-56-55] Loading BetterInfo Wrapper
+[22-10-2023 11-56-55] Loaded BetterInfo Mod
+[22-10-2023 11-56-55] Current update channel is: stable
+[22-10-2023 11-56-56] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[22-10-2023 11-56-56] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[22-10-2023 13-48-57] --------------------------
+[22-10-2023 13-48-57] Loading BetterInfo Wrapper
+[22-10-2023 13-48-57] Loaded BetterInfo Mod
+[22-10-2023 13-48-57] Current update channel is: stable
+[22-10-2023 13-48-57] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[22-10-2023 13-48-57] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[25-10-2023 22-37-30] --------------------------
+[25-10-2023 22-37-30] Loading BetterInfo Wrapper
+[25-10-2023 22-37-31] Loaded BetterInfo Mod
+[25-10-2023 22-37-31] Current update channel is: stable
+[25-10-2023 22-37-32] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[25-10-2023 22-37-32] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[26-10-2023 09-33-37] --------------------------
+[26-10-2023 09-33-37] Loading BetterInfo Wrapper
+[26-10-2023 09-33-37] Loaded BetterInfo Mod
+[26-10-2023 09-33-37] Current update channel is: stable
+[26-10-2023 09-33-37] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[26-10-2023 09-33-38] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[27-10-2023 15-22-44] --------------------------
+[27-10-2023 15-22-44] Loading BetterInfo Wrapper
+[27-10-2023 15-22-44] Loaded BetterInfo Mod
+[27-10-2023 15-22-44] Current update channel is: stable
+[27-10-2023 15-22-44] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[27-10-2023 15-22-45] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[03-11-2023 14-17-56] --------------------------
+[03-11-2023 14-17-56] Loading BetterInfo Wrapper
+[03-11-2023 14-17-57] Loaded BetterInfo Mod
+[03-11-2023 14-17-57] Current update channel is: stable
+[03-11-2023 14-17-59] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[03-11-2023 14-17-59] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[03-11-2023 14-48-16] --------------------------
+[03-11-2023 14-48-16] Loading BetterInfo Wrapper
+[03-11-2023 14-48-16] Loaded BetterInfo Mod
+[03-11-2023 14-48-16] Current update channel is: stable
+[03-11-2023 14-48-16] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[03-11-2023 14-48-16] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[03-11-2023 15-16-09] --------------------------
+[03-11-2023 15-16-09] Loading BetterInfo Wrapper
+[03-11-2023 15-16-09] Loaded BetterInfo Mod
+[03-11-2023 15-16-09] Current update channel is: stable
+[03-11-2023 15-16-10] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[03-11-2023 15-16-10] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[03-11-2023 16-56-52] --------------------------
+[03-11-2023 16-56-52] Loading BetterInfo Wrapper
+[03-11-2023 16-56-53] Loaded BetterInfo Mod
+[03-11-2023 16-56-53] Current update channel is: stable
+[03-11-2023 16-56-53] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[03-11-2023 16-56-53] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[04-11-2023 17-08-41] --------------------------
+[04-11-2023 17-08-41] Loading BetterInfo Wrapper
+[04-11-2023 17-08-42] Loaded BetterInfo Mod
+[04-11-2023 17-08-42] Current update channel is: stable
+[04-11-2023 17-08-43] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[04-11-2023 17-08-43] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[05-11-2023 13-03-40] --------------------------
+[05-11-2023 13-03-40] Loading BetterInfo Wrapper
+[05-11-2023 13-03-40] Loaded BetterInfo Mod
+[05-11-2023 13-03-40] Current update channel is: stable
+[05-11-2023 13-03-40] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[05-11-2023 13-03-40] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[07-11-2023 19-37-26] --------------------------
+[07-11-2023 19-37-26] Loading BetterInfo Wrapper
+[07-11-2023 19-37-26] Loaded BetterInfo Mod
+[07-11-2023 19-37-26] Current update channel is: stable
+[07-11-2023 19-37-38] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[07-11-2023 19-37-39] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[08-11-2023 21-02-22] --------------------------
+[08-11-2023 21-02-22] Loading BetterInfo Wrapper
+[08-11-2023 21-02-23] Loaded BetterInfo Mod
+[08-11-2023 21-02-23] Current update channel is: stable
+[08-11-2023 21-02-23] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[08-11-2023 21-02-23] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[09-11-2023 19-56-01] --------------------------
+[09-11-2023 19-56-01] Loading BetterInfo Wrapper
+[09-11-2023 19-56-01] Loaded BetterInfo Mod
+[09-11-2023 19-56-01] Current update channel is: stable
+[09-11-2023 19-56-04] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[09-11-2023 19-56-04] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[11-11-2023 15-54-48] --------------------------
+[11-11-2023 15-54-48] Loading BetterInfo Wrapper
+[11-11-2023 15-54-49] Loaded BetterInfo Mod
+[11-11-2023 15-54-49] Current update channel is: stable
+[11-11-2023 15-54-50] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[11-11-2023 15-54-50] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[11-11-2023 19-06-56] --------------------------
+[11-11-2023 19-06-56] Loading BetterInfo Wrapper
+[11-11-2023 19-06-57] Loaded BetterInfo Mod
+[11-11-2023 19-06-57] Current update channel is: stable
+[11-11-2023 19-06-57] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[11-11-2023 19-06-57] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[11-11-2023 20-39-00] --------------------------
+[11-11-2023 20-39-00] Loading BetterInfo Wrapper
+[11-11-2023 20-39-00] Loaded BetterInfo Mod
+[11-11-2023 20-39-00] Current update channel is: stable
+[11-11-2023 20-39-00] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[11-11-2023 20-39-00] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[12-11-2023 14-23-51] --------------------------
+[12-11-2023 14-23-51] Loading BetterInfo Wrapper
+[12-11-2023 14-23-51] Loaded BetterInfo Mod
+[12-11-2023 14-23-51] Current update channel is: stable
+[12-11-2023 14-23-53] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[12-11-2023 14-23-53] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[12-11-2023 17-04-07] --------------------------
+[12-11-2023 17-04-07] Loading BetterInfo Wrapper
+[12-11-2023 17-04-07] Loaded BetterInfo Mod
+[12-11-2023 17-04-07] Current update channel is: stable
+[12-11-2023 17-04-08] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[12-11-2023 17-04-08] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[13-11-2023 17-17-19] --------------------------
+[13-11-2023 17-17-19] Loading BetterInfo Wrapper
+[13-11-2023 17-17-20] Loaded BetterInfo Mod
+[13-11-2023 17-17-20] Current update channel is: stable
+[13-11-2023 17-17-21] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[13-11-2023 17-17-22] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[13-11-2023 17-18-53] --------------------------
+[13-11-2023 17-18-53] Loading BetterInfo Wrapper
+[13-11-2023 17-18-53] Loaded BetterInfo Mod
+[13-11-2023 17-18-53] Current update channel is: stable
+[13-11-2023 17-18-53] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[13-11-2023 17-18-53] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[14-11-2023 18-30-06] --------------------------
+[14-11-2023 18-30-06] Loading BetterInfo Wrapper
+[14-11-2023 18-30-06] Loaded BetterInfo Mod
+[14-11-2023 18-30-06] Current update channel is: stable
+[14-11-2023 18-30-07] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[14-11-2023 18-30-07] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[14-11-2023 21-01-39] --------------------------
+[14-11-2023 21-01-39] Loading BetterInfo Wrapper
+[14-11-2023 21-01-40] Loaded BetterInfo Mod
+[14-11-2023 21-01-40] Current update channel is: stable
+[14-11-2023 21-01-40] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[14-11-2023 21-01-41] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[16-11-2023 15-22-46] --------------------------
+[16-11-2023 15-22-46] Loading BetterInfo Wrapper
+[16-11-2023 15-22-47] Loaded BetterInfo Mod
+[16-11-2023 15-22-47] Current update channel is: stable
+[16-11-2023 15-22-47] Error: Empty file received
+[16-11-2023 15-22-47] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 0
+[16-11-2023 18-19-08] --------------------------
+[16-11-2023 18-19-08] Loading BetterInfo Wrapper
+[16-11-2023 18-19-12] Loaded BetterInfo Mod
+[16-11-2023 18-19-12] Current update channel is: stable
+[16-11-2023 18-19-14] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[16-11-2023 18-19-14] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[17-11-2023 20-19-52] --------------------------
+[17-11-2023 20-19-52] Loading BetterInfo Wrapper
+[17-11-2023 20-19-52] Loaded BetterInfo Mod
+[17-11-2023 20-19-52] Current update channel is: stable
+[17-11-2023 20-19-54] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[17-11-2023 20-19-55] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[18-11-2023 12-23-45] --------------------------
+[18-11-2023 12-23-45] Loading BetterInfo Wrapper
+[18-11-2023 12-23-46] Loaded BetterInfo Mod
+[18-11-2023 12-23-46] Current update channel is: stable
+[18-11-2023 12-23-46] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[18-11-2023 12-23-46] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[18-11-2023 15-33-34] --------------------------
+[18-11-2023 15-33-34] Loading BetterInfo Wrapper
+[18-11-2023 15-33-34] Loaded BetterInfo Mod
+[18-11-2023 15-33-34] Current update channel is: stable
+[18-11-2023 15-33-35] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[18-11-2023 15-33-35] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[18-11-2023 18-03-14] --------------------------
+[18-11-2023 18-03-14] Loading BetterInfo Wrapper
+[18-11-2023 18-03-14] Loaded BetterInfo Mod
+[18-11-2023 18-03-14] Current update channel is: stable
+[18-11-2023 18-03-15] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[18-11-2023 18-03-15] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[18-11-2023 19-13-28] --------------------------
+[18-11-2023 19-13-28] Loading BetterInfo Wrapper
+[18-11-2023 19-13-29] Loaded BetterInfo Mod
+[18-11-2023 19-13-29] Current update channel is: stable
+[18-11-2023 19-13-32] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[18-11-2023 19-13-32] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[19-11-2023 15-02-05] --------------------------
+[19-11-2023 15-02-05] Loading BetterInfo Wrapper
+[19-11-2023 15-02-05] Loaded BetterInfo Mod
+[19-11-2023 15-02-05] Current update channel is: stable
+[19-11-2023 15-02-06] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[19-11-2023 15-02-06] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[21-11-2023 18-17-08] --------------------------
+[21-11-2023 18-17-08] Loading BetterInfo Wrapper
+[21-11-2023 18-17-08] Loaded BetterInfo Mod
+[21-11-2023 18-17-08] Current update channel is: stable
+[21-11-2023 18-17-11] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[21-11-2023 18-17-11] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[23-11-2023 12-32-59] --------------------------
+[23-11-2023 12-32-59] Loading BetterInfo Wrapper
+[23-11-2023 12-32-59] Loaded BetterInfo Mod
+[23-11-2023 12-32-59] Current update channel is: stable
+[23-11-2023 12-32-59] Error: Empty file received
+[23-11-2023 12-32-59] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 0
+[24-11-2023 20-02-52] --------------------------
+[24-11-2023 20-02-52] Loading BetterInfo Wrapper
+[24-11-2023 20-02-52] Loaded BetterInfo Mod
+[24-11-2023 20-02-52] Current update channel is: stable
+[24-11-2023 20-02-56] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[24-11-2023 20-02-56] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[25-11-2023 09-16-45] --------------------------
+[25-11-2023 09-16-45] Loading BetterInfo Wrapper
+[25-11-2023 09-16-45] Loaded BetterInfo Mod
+[25-11-2023 09-16-45] Current update channel is: stable
+[25-11-2023 09-16-46] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[25-11-2023 09-16-46] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[25-11-2023 15-10-41] --------------------------
+[25-11-2023 15-10-41] Loading BetterInfo Wrapper
+[25-11-2023 15-10-43] Loaded BetterInfo Mod
+[25-11-2023 15-10-43] Current update channel is: stable
+[25-11-2023 15-10-43] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[25-11-2023 15-10-43] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[25-11-2023 21-51-40] --------------------------
+[25-11-2023 21-51-40] Loading BetterInfo Wrapper
+[25-11-2023 21-51-40] Loaded BetterInfo Mod
+[25-11-2023 21-51-40] Current update channel is: stable
+[25-11-2023 21-51-41] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[25-11-2023 21-51-41] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[26-11-2023 14-30-58] --------------------------
+[26-11-2023 14-30-58] Loading BetterInfo Wrapper
+[26-11-2023 14-30-59] Loaded BetterInfo Mod
+[26-11-2023 14-30-59] Current update channel is: stable
+[26-11-2023 14-30-59] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[26-11-2023 14-30-59] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[26-11-2023 15-38-03] --------------------------
+[26-11-2023 15-38-03] Loading BetterInfo Wrapper
+[26-11-2023 15-38-03] Loaded BetterInfo Mod
+[26-11-2023 15-38-03] Current update channel is: stable
+[26-11-2023 15-38-04] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[26-11-2023 15-38-04] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[28-11-2023 20-29-03] --------------------------
+[28-11-2023 20-29-03] Loading BetterInfo Wrapper
+[28-11-2023 20-29-03] Loaded BetterInfo Mod
+[28-11-2023 20-29-03] Current update channel is: stable
+[28-11-2023 20-29-03] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[28-11-2023 20-29-03] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[30-11-2023 19-07-23] --------------------------
+[30-11-2023 19-07-23] Loading BetterInfo Wrapper
+[30-11-2023 19-07-23] Loaded BetterInfo Mod
+[30-11-2023 19-07-23] Current update channel is: stable
+[30-11-2023 19-07-25] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[30-11-2023 19-07-26] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[30-11-2023 19-24-08] --------------------------
+[30-11-2023 19-24-08] Loading BetterInfo Wrapper
+[30-11-2023 19-24-08] Loaded BetterInfo Mod
+[30-11-2023 19-24-08] Current update channel is: stable
+[30-11-2023 19-24-08] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[30-11-2023 19-24-09] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[01-12-2023 21-21-17] --------------------------
+[01-12-2023 21-21-17] Loading BetterInfo Wrapper
+[01-12-2023 21-21-17] Loaded BetterInfo Mod
+[01-12-2023 21-21-17] Current update channel is: stable
+[01-12-2023 21-21-18] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[01-12-2023 21-21-18] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[02-12-2023 12-19-37] --------------------------
+[02-12-2023 12-19-37] Loading BetterInfo Wrapper
+[02-12-2023 12-19-37] Loaded BetterInfo Mod
+[02-12-2023 12-19-37] Current update channel is: stable
+[02-12-2023 12-19-39] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[02-12-2023 12-19-40] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[02-12-2023 15-08-07] --------------------------
+[02-12-2023 15-08-07] Loading BetterInfo Wrapper
+[02-12-2023 15-08-07] Loaded BetterInfo Mod
+[02-12-2023 15-08-07] Current update channel is: stable
+[02-12-2023 15-08-08] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[02-12-2023 15-08-08] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[03-12-2023 09-49-27] --------------------------
+[03-12-2023 09-49-27] Loading BetterInfo Wrapper
+[03-12-2023 09-49-28] Loaded BetterInfo Mod
+[03-12-2023 09-49-28] Current update channel is: stable
+[03-12-2023 09-49-30] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[03-12-2023 09-49-30] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[03-12-2023 11-25-20] --------------------------
+[03-12-2023 11-25-20] Loading BetterInfo Wrapper
+[03-12-2023 11-25-20] Loaded BetterInfo Mod
+[03-12-2023 11-25-20] Current update channel is: stable
+[03-12-2023 11-25-21] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[03-12-2023 11-25-21] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[03-12-2023 19-24-53] --------------------------
+[03-12-2023 19-24-53] Loading BetterInfo Wrapper
+[03-12-2023 19-24-53] Loaded BetterInfo Mod
+[03-12-2023 19-24-53] Current update channel is: stable
+[03-12-2023 19-24-54] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[03-12-2023 19-24-54] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[08-12-2023 15-43-36] --------------------------
+[08-12-2023 15-43-36] Loading BetterInfo Wrapper
+[08-12-2023 15-43-36] Loaded BetterInfo Mod
+[08-12-2023 15-43-36] Current update channel is: stable
+[08-12-2023 15-43-38] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[08-12-2023 15-43-39] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[09-12-2023 16-08-57] --------------------------
+[09-12-2023 16-08-57] Loading BetterInfo Wrapper
+[09-12-2023 16-08-57] Loaded BetterInfo Mod
+[09-12-2023 16-08-57] Current update channel is: stable
+[09-12-2023 16-09-00] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[09-12-2023 16-09-00] https://geometrydash.eu/mods/betterinfo/v2/v2.4.9/resources.txt: 200
+[11-12-2023 17-01-57] --------------------------
+[11-12-2023 17-01-57] Loading BetterInfo Wrapper
+[11-12-2023 17-01-59] Loaded BetterInfo Mod
+[11-12-2023 17-01-59] Current update channel is: stable
+[11-12-2023 17-02-03] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[11-12-2023 17-02-03] https://geometrydash.eu/mods/betterinfo/v2/v2.4.10/betterinfo.dll: 200
+[11-12-2023 17-02-03] https://geometrydash.eu/mods/betterinfo/v2/v2.4.10/resources.txt: 200
+[14-12-2023 13-11-34] --------------------------
+[14-12-2023 13-11-34] Loading BetterInfo Wrapper
+[14-12-2023 13-11-34] Found downloaded update, renaming dll
+[14-12-2023 13-11-34] Loaded BetterInfo Mod
+[14-12-2023 13-11-34] Current update channel is: stable
+[14-12-2023 13-11-35] Error: Empty file received
+[14-12-2023 13-11-35] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 0
+[14-12-2023 13-22-57] --------------------------
+[14-12-2023 13-22-57] Loading BetterInfo Wrapper
+[14-12-2023 13-22-57] Loaded BetterInfo Mod
+[14-12-2023 13-22-57] Current update channel is: stable
+[14-12-2023 13-22-57] Error: Empty file received
+[14-12-2023 13-22-57] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 0
+[14-12-2023 20-37-13] --------------------------
+[14-12-2023 20-37-13] Loading BetterInfo Wrapper
+[14-12-2023 20-37-14] Loaded BetterInfo Mod
+[14-12-2023 20-37-14] Current update channel is: stable
+[14-12-2023 20-37-16] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[14-12-2023 20-37-16] https://geometrydash.eu/mods/betterinfo/v2/v2.4.10/resources.txt: 200
+[16-12-2023 12-03-17] --------------------------
+[16-12-2023 12-03-17] Loading BetterInfo Wrapper
+[16-12-2023 12-03-18] Loaded BetterInfo Mod
+[16-12-2023 12-03-18] Current update channel is: stable
+[16-12-2023 12-03-21] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[16-12-2023 12-03-21] https://geometrydash.eu/mods/betterinfo/v2/v2.4.10/resources.txt: 200
+[16-12-2023 19-53-26] --------------------------
+[16-12-2023 19-53-26] Loading BetterInfo Wrapper
+[16-12-2023 19-53-26] Loaded BetterInfo Mod
+[16-12-2023 19-53-26] Current update channel is: stable
+[16-12-2023 19-53-26] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[16-12-2023 19-53-27] https://geometrydash.eu/mods/betterinfo/v2/v2.4.10/resources.txt: 200
+[17-12-2023 17-32-51] --------------------------
+[17-12-2023 17-32-51] Loading BetterInfo Wrapper
+[17-12-2023 17-32-51] Loaded BetterInfo Mod
+[17-12-2023 17-32-51] Current update channel is: stable
+[17-12-2023 17-32-54] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[17-12-2023 17-32-54] https://geometrydash.eu/mods/betterinfo/v2/v2.4.10/resources.txt: 200
+[18-12-2023 17-35-18] --------------------------
+[18-12-2023 17-35-18] Loading BetterInfo Wrapper
+[18-12-2023 17-35-18] Loaded BetterInfo Mod
+[18-12-2023 17-35-18] Current update channel is: stable
+[18-12-2023 17-35-18] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[18-12-2023 17-35-18] https://geometrydash.eu/mods/betterinfo/v2/v2.4.10/resources.txt: 200
+[18-12-2023 18-39-23] --------------------------
+[18-12-2023 18-39-23] Loading BetterInfo Wrapper
+[18-12-2023 18-39-24] Loaded BetterInfo Mod
+[18-12-2023 18-39-24] Current update channel is: stable
+[18-12-2023 18-39-26] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[18-12-2023 18-39-26] https://geometrydash.eu/mods/betterinfo/v2/v2.4.10/resources.txt: 200
+[19-12-2023 20-30-06] --------------------------
+[19-12-2023 20-30-06] Loading BetterInfo Wrapper
+[19-12-2023 20-30-06] Loaded BetterInfo Mod
+[19-12-2023 20-30-07] Current update channel is: stable
+[19-12-2023 20-30-08] https://geometrydash.eu/mods/betterinfo/v2/stable/version.txt: 200
+[19-12-2023 20-30-08] https://geometrydash.eu/mods/betterinfo/v2/v2.4.10/resources.txt: 200

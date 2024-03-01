@@ -1,0 +1,105 @@
+17:52:55 INF [Geode]: Running Geode v2.0.0-beta.3 in Geometry Dash v2.204
+17:52:55 INF [Geode]: Setting up internal mod
+17:52:55 INF [Geode]: Setting up loader
+17:52:55 DBG [Geode]:   Setting up crash handler
+17:52:55 DBG [Geode]:   Loading hooks
+17:52:55 DBG [Geode]:     Enabled cocos2d::CCFileUtils::fullPathForFilename hook at 0x69170f40 for geode.loader
+17:52:55 DBG [Geode]:     Enabled cocos2d::CCFileUtils::sharedFileUtils hook at 0x69179770 for geode.loader
+17:52:55 DBG [Geode]:     Enabled GameToolbox::preVisitWithClippingRect hook at 0x130f00 for geode.loader
+17:52:55 DBG [Geode]:     Enabled cocos2d::CCNode::getUserObject hook at 0x691c31f0 for geode.loader
+17:52:55 DBG [Geode]:     Enabled cocos2d::CCNode::setUserObject hook at 0x691115a0 for geode.loader
+17:52:55 DBG [Geode]:     Enabled LoadingLayer::init hook at 0x366370 for geode.loader
+17:52:55 DBG [Geode]:     Enabled LoadingLayer::loadAssets hook at 0x366bd0 for geode.loader
+17:52:55 DBG [Geode]:     Enabled cocos2d::CCTouchDispatcher::addTargetedDelegate hook at 0x691a8480 for geode.loader
+17:52:55 DBG [Geode]:     Enabled AchievementNotifier::willSwitchToScene hook at 0x10c200 for geode.loader
+17:52:55 DBG [Geode]:     Enabled AppDelegate::trySaveGame hook at 0x14b790 for geode.loader
+17:52:55 DBG [Geode]:     Enabled cocos2d::CCScheduler::update hook at 0x691b6db0 for geode.loader
+17:52:55 DBG [Geode]:     Enabled LoadingLayer::loadAssets hook at 0x366bd0 for geode.loader
+17:52:55 DBG [Geode]:     Enabled MenuLayer::init hook at 0x36b450 for geode.loader
+17:52:55 DBG [Geode]:   Setting up directories
+17:52:55 INF [Geode]:   Refreshing mod graph
+17:52:55 DBG [Geode]:     Queueing mods
+17:52:55 DBG [Geode]:       Searching C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods
+17:52:55 DBG [Geode]:         Found absolllute.megahack.geode
+17:52:55 DBG [Geode]:           id: absolllute.megahack
+17:52:55 DBG [Geode]:           version: v8.0.0-alpha.10
+17:52:55 DBG [Geode]:           early: yes
+17:52:55 DBG [Geode]:         Found alk.editorcollab.geode
+17:52:55 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\alk.editorcollab.geode" - [mod.json] is built for an older version (v1.0.0) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:55 DBG [Geode]:         Found alk.fps-shower.geode
+17:52:55 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\alk.fps-shower.geode" - [mod.json] is built for an older version (v1.0.3) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:55 DBG [Geode]:         Found camila314.acbypass.geode
+17:52:55 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\camila314.acbypass.geode" - [mod.json] is built for an older version (v1.0.0) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:55 DBG [Geode]:         Found camila314.demonlist-button.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\camila314.demonlist-button.geode" - [mod.json] is built for an older version (v1.0.0) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:         Found camila314.noclip.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\camila314.noclip.geode" - [mod.json] is built for an older version (v1.0.0) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:         Found chs.confirmquit.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\chs.confirmquit.geode" - [mod.json] is built for an older version (v1.0.0) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:         Found cvolton.betterinfo.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\cvolton.betterinfo.geode" - [mod.json] is built for an older version (v1.1.0) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:         Found cvolton.capacity_fix.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\cvolton.capacity_fix.geode" - [mod.json] is built for an older version (v1.0.0-beta) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:         Found fleym.nongd.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\fleym.nongd.geode" - [mod.json] is built for an older version (v1.0.0-beta.13) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:         Found hjfod.custom-keybinds.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\hjfod.custom-keybinds.geode" - [mod.json] is built for an older version (v1.0.0) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:         Found mat.fps-bypass.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.fps-bypass.geode" - [mod.json] is built for an older version (v1.0.0) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:         Found mat.practice-music.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.practice-music.geode" - [mod.json] is built for an older version (v1.0.0) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:         Found mat.run-info.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.run-info.geode" - [mod.json] is built for an older version (v1.0.0) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:         Found mat.scroll-zoom.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.scroll-zoom.geode" - [mod.json] is built for an older version (v1.0.0) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:         Found rlt.gd-platformer.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\rlt.gd-platformer.geode" - [mod.json] is built for an older version (v1.0.0-beta.16) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:         Found ruslan.apm.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\ruslan.apm.geode" - [mod.json] is built for an older version (v1.0.0-beta.16) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:         Found ruslan.nm.geode
+17:52:56 ERR [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\ruslan.nm.geode" - [mod.json] is built for an older version (v1.0.0-beta.16) of Geode (current: v2.0.0-beta.3). Please update the mod to the latest version, and if the problem persists, contact the developer to update it.
+17:52:56 DBG [Geode]:     Populating mod list
+17:52:56 DBG [Geode]:       absolllute.megahack v8.0.0-alpha.10
+17:52:56 DBG [Geode]:     Building mod graph
+17:52:56 DBG [Geode]:       geode.loader
+17:52:56 DBG [Geode]:       absolllute.megahack
+17:52:56 DBG [Geode]:         geode.loader
+17:52:56 DBG [Geode]:     Loading early mods
+17:52:56 DBG [Geode]:       absolllute.megahack v8.0.0-alpha.10
+17:52:56 DBG [Geode]:         Unzip
+17:52:56 DBG [Geode]:         Hash mismatch detected, unzipping
+17:52:56 DBG [Geode]:         Load
+17:52:56 DBG [Geode]:         Loading binary for mod absolllute.megahack
+17:53:17 INF [Geode]:     Took 21.911s. Continuing next frame...
+17:53:17 DBG [Geode]: Setting up IPC
+17:53:17 DBG [Geode]:   IPC set up
+17:53:17 INF [Geode]: Starting loader update check
+17:53:17 INF [Geode]: Entry took 22.103s
+17:53:33 INF [Geode]: Continuing mod graph refresh...
+17:53:33 DBG [Geode]:   Finding problems
+17:53:33 DBG [Geode]:     geode.loader
+17:53:33 DBG [Geode]:     absolllute.megahack
+17:53:33 INF [Geode]:   Took 0s
+17:53:33 DBG [Geode]: Enabled GameManager::isIconUnlocked hook at 0x211f90 for absolllute.megahack
+17:53:33 DBG [Geode]: Enabled GameManager::isColorUnlocked hook at 0x212490 for absolllute.megahack
+17:53:33 DBG [Geode]: Enabled GameManager::setGameVariable hook at 0x2184e0 for absolllute.megahack
+17:53:33 DBG [Geode]: Enabled GameManager::getGameVariable hook at 0x218730 for absolllute.megahack
+17:53:33 DBG [Geode]: Enabled MenuLayer::init hook at 0x36b450 for absolllute.megahack
+17:53:33 DBG [Geode]: Verifying Loader Resources
+17:53:33 DBG [Geode]: Loading Loader Resources
+17:53:33 DBG [Geode]: Loading mod resources
+17:53:33 DBG [Geode]: Adding resources
+17:53:33 DBG [Geode]:   geode.loader
+17:53:33 DBG [Geode]:     Adding sheet geode.loader/LogoSheet
+17:53:33 DBG [Geode]:     Adding sheet geode.loader/APISheet
+17:53:33 DBG [Geode]:     Adding sheet geode.loader/BlankSheet
+17:54:45 INF [Geode]: Saving mod data...
+17:54:45 DBG [Geode]:   geode.loader
+17:54:45 DBG [Geode]:     Check covered
+17:54:45 DBG [Geode]:     Check if auto-check-updates is saved
+17:54:45 DBG [Geode]:     Check if show-platform-console is saved
+17:54:45 DBG [Geode]:     Check if disable-last-crashed-popup is saved
+17:54:45 DBG [Geode]:     Check if auto-update-mods is saved
+17:54:45 DBG [Geode]:   absolllute.megahack
+17:54:45 DBG [Geode]:     Check covered
+17:54:45 INF [Geode]:   Took 0.008s

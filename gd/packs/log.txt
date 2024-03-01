@@ -1,0 +1,40 @@
+[INFO] Searching for packs.
+[INFO] Packs directory found. Iterating.
+[INFO] 0 packs found.
+[INFO] Setting up hooks.
+[INFO] New hook created.
+[INFO] New hook created.
+[INFO] New hook created.
+[INFO] New hook created.
+[INFO] Attempting to enable hook.
+[INFO] Attempting to patch bytes at 0D82D388.
+[INFO] Attempting to patch bytes at 0F320000.
+[INFO] Attempting to patch bytes at 0F320007.
+[INFO] Attempting to patch bytes at 0F320008.
+[INFO] Attempting to patch bytes at 0073C790.
+[INFO] Attempting to patch bytes at 0073C791.
+[INFO] Attempting to enable hook.
+[INFO] Attempting to patch bytes at 0DAD96B0.
+[INFO] Attempting to patch bytes at 0F330000.
+[INFO] Attempting to patch bytes at 0F330006.
+[INFO] Attempting to patch bytes at 0F330007.
+[INFO] Attempting to patch bytes at 0067C500.
+[INFO] Attempting to patch bytes at 0067C501.
+[INFO] Attempting to enable hook.
+[INFO] Attempting to patch bytes at 080721C8.
+[INFO] Attempting to patch bytes at 0F750000.
+[INFO] Attempting to patch bytes at 0F75000B.
+[INFO] Attempting to patch bytes at 0F75000C.
+[INFO] Attempting to patch bytes at 005ED5E0.
+[INFO] Attempting to patch bytes at 005ED5E1.
+[INFO] Attempting to enable hook.
+[INFO] Attempting to patch bytes at 0DAD96D0.
+[INFO] Attempting to patch bytes at 0F2F0000.
+[INFO] Attempting to patch bytes at 0F2F0005.
+[INFO] Attempting to patch bytes at 0F2F0006.
+[INFO] Attempting to patch bytes at 67A8CCB0.
+[INFO] Attempting to patch bytes at 67A8CCB1.
+[INFO] Patching bytes.
+[INFO] Attempting to patch bytes at 00740EF2.
+[INFO] Attempting to patch bytes at 00740F01.
+[INFO] Attempting to patch bytes at 00740F13.

@@ -1,0 +1,197 @@
+[2024-01-22T20:31:09Z DEBUG ytest2] BASE /// GeometryDash.exe 0x2f0000
+[2024-01-22T20:31:09Z DEBUG ytest2] BASE /// libcocos2d.dll 0x73700000
+[2024-01-22T20:31:09Z DEBUG ytest2] BASE /// libExtensions.dll 0x738c0000
+[2024-01-22T20:31:09Z DEBUG ytest2] BASE /// msvcr120.dll 0x67030000
+[2024-01-22T20:31:09Z DEBUG ytest2] BASE /// zlib1.dll 0x5a4c0000
+[2024-01-22T20:31:09Z DEBUG ytest2] BASE /// mimalloc.dll 0x744b0000
+[2024-01-22T20:31:09Z DEBUG ytest2] BASE /// ybot.dll 0x66890000
+[2024-01-22T20:31:09Z DEBUG ytest2] yBot 2.1.30-stable
+[2024-01-22T20:31:09Z INFO  ytest2::updater] checking for updates
+[2024-01-22T20:31:09Z DEBUG reqwest::connect] starting new connection: https://ybot.store/
+[2024-01-22T20:31:09Z INFO  ytest2::updater] updating
+[2024-01-22T20:31:09Z INFO  ytest2::updater] yBot is up-to-date
+[2024-01-22T20:31:11Z DEBUG egui_glow::painter] 
+    opengl version: 4.6.0 - Build 30.0.101.1340
+    opengl renderer: Intel(R) UHD Graphics 600
+    opengl vendor: Intel
+[2024-01-22T20:31:11Z DEBUG egui_glow::shader_version] Shader version: Gl140 ("4.60 - Build 30.0.101.1340").
+[2024-01-22T20:31:11Z DEBUG egui_glow::painter] Shader header: "#version 140\n".
+[2024-01-22T20:31:11Z DEBUG egui_glow::painter] SRGB texture Support: true
+[2024-01-22T20:31:11Z DEBUG egui_glow::vao] GL version: "4.6.0 - Build 30.0.101.1340".
+now recording "congregation"
+[2024-01-22T20:32:18Z DEBUG ytest2::hooks] entered level
+[2024-01-22T20:32:19Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-01-22T20:32:37Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b43000
+[2024-01-22T20:32:54Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b43000
+[2024-01-22T20:32:57Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b43000
+[2024-01-22T20:33:53Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b43000
+[2024-01-22T20:34:25Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b41800
+[2024-01-22T20:34:27Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b41800
+[2024-01-22T20:34:28Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b41800
+[2024-01-22T20:34:30Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b40000
+[2024-01-22T20:34:32Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b40000
+[2024-01-22T20:34:33Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b40000
+[2024-01-22T20:34:36Z DEBUG ytest2::checkpoint] applying checkpoint 0x4d3bc00
+[2024-01-22T20:34:39Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b28000
+[2024-01-22T20:34:40Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b28000
+[2024-01-22T20:34:41Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b28000
+[2024-01-22T20:34:43Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b28000
+[2024-01-22T20:34:45Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b28c00
+[2024-01-22T20:34:46Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b28c00
+[2024-01-22T20:34:47Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b28c00
+[2024-01-22T20:34:50Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b28c00
+[2024-01-22T20:34:52Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b28c00
+[2024-01-22T20:34:53Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b28c00
+[2024-01-22T20:34:55Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b28c00
+[2024-01-22T20:34:59Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b29800
+[2024-01-22T20:35:16Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b29800
+[2024-01-22T20:35:17Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b29800
+[2024-01-22T20:35:19Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b29800
+[2024-01-22T20:35:20Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b29800
+[2024-01-22T20:35:21Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b29800
+[2024-01-22T20:35:23Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b2a400
+[2024-01-22T20:35:24Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b2a400
+[2024-01-22T20:35:28Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b2a400
+[2024-01-22T20:35:30Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b2a400
+[2024-01-22T20:35:41Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b2a400
+[2024-01-22T20:35:43Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b2a400
+[2024-01-22T20:36:28Z DEBUG ytest2::hooks] destructing checkpoint 0x9b2c800
+[2024-01-22T20:36:38Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b2d400
+[2024-01-22T20:36:42Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b2d400
+[2024-01-22T20:37:09Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b2d400
+[2024-01-22T20:37:11Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b2d400
+[2024-01-22T20:37:12Z DEBUG ytest2::checkpoint] applying checkpoint 0x9b2d400
+[2024-01-22T20:38:02Z DEBUG ytest2::checkpoint] applying checkpoint 0xa378c00
+[2024-01-22T20:38:20Z DEBUG ytest2::checkpoint] applying checkpoint 0xa378c00
+[2024-01-22T20:38:59Z DEBUG ytest2::checkpoint] applying checkpoint 0xa378c00
+[2024-01-22T20:39:09Z DEBUG ytest2::checkpoint] applying checkpoint 0xa378c00
+[2024-01-22T20:39:19Z DEBUG ytest2::checkpoint] applying checkpoint 0xa378c00
+[2024-01-22T20:39:20Z DEBUG ytest2::checkpoint] applying checkpoint 0xa378c00
+[2024-01-22T20:40:47Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37bc00
+[2024-01-22T20:40:49Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37bc00
+[2024-01-22T20:40:50Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37bc00
+[2024-01-22T20:40:53Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37c800
+[2024-01-22T20:40:57Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37d400
+[2024-01-22T20:40:58Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37d400
+[2024-01-22T20:41:31Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37d400
+[2024-01-22T20:41:34Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37d400
+[2024-01-22T20:41:36Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37d400
+[2024-01-22T20:42:11Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:13Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:16Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:18Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:20Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:22Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:40Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:42Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:44Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:45Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:48Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:50Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:54Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:55Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:57Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:42:58Z DEBUG ytest2::checkpoint] applying checkpoint 0xa37e000
+[2024-01-22T20:43:28Z DEBUG ytest2::checkpoint] applying checkpoint 0xa018c00
+[2024-01-22T20:43:59Z DEBUG ytest2::checkpoint] applying checkpoint 0xa018c00
+[2024-01-22T20:44:18Z DEBUG ytest2::checkpoint] applying checkpoint 0xa019800
+[2024-01-22T20:44:24Z DEBUG ytest2::checkpoint] applying checkpoint 0xa019800
+[2024-01-22T20:44:38Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01b000
+[2024-01-22T20:44:55Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01b000
+[2024-01-22T20:45:15Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01b000
+[2024-01-22T20:45:17Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01b000
+[2024-01-22T20:45:20Z DEBUG ytest2::hooks] destructing checkpoint 0xa01bc00
+[2024-01-22T20:45:21Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01b000
+[2024-01-22T20:45:28Z DEBUG ytest2::hooks] destructing checkpoint 0xa01bc00
+[2024-01-22T20:45:35Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01b000
+[2024-01-22T20:45:41Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01b000
+[2024-01-22T20:46:01Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01ec00
+[2024-01-22T20:46:02Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01ec00
+[2024-01-22T20:46:03Z DEBUG ytest2::hooks] destructing checkpoint 0xa01ec00
+[2024-01-22T20:46:03Z DEBUG ytest2::hooks] destructing checkpoint 0xa01d400
+[2024-01-22T20:46:04Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01bc00
+[2024-01-22T20:46:06Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01bc00
+[2024-01-22T20:46:12Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01bc00
+[2024-01-22T20:46:32Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01bc00
+[2024-01-22T20:46:34Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01bc00
+[2024-01-22T20:46:59Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01bc00
+[2024-01-22T20:47:01Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01bc00
+[2024-01-22T20:47:03Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01bc00
+[2024-01-22T20:47:25Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01bc00
+[2024-01-22T20:47:27Z DEBUG ytest2::checkpoint] applying checkpoint 0xa01bc00
+[2024-01-22T20:49:03Z DEBUG ytest2::checkpoint] applying checkpoint 0xa258c00
+[2024-01-22T20:49:05Z DEBUG ytest2::checkpoint] applying checkpoint 0xa258c00
+[2024-01-22T20:49:06Z DEBUG ytest2::checkpoint] applying checkpoint 0xa258c00
+[2024-01-22T20:49:10Z DEBUG ytest2::checkpoint] applying checkpoint 0xa258c00
+[2024-01-22T20:49:12Z DEBUG ytest2::checkpoint] applying checkpoint 0xa258c00
+[2024-01-22T20:49:15Z DEBUG ytest2::checkpoint] applying checkpoint 0xa258c00
+[2024-01-22T20:49:17Z DEBUG ytest2::checkpoint] applying checkpoint 0xa258c00
+[2024-01-22T20:49:19Z DEBUG ytest2::checkpoint] applying checkpoint 0xa258c00
+[2024-01-22T20:49:23Z DEBUG ytest2::checkpoint] applying checkpoint 0xa258c00
+[2024-01-22T20:49:37Z DEBUG ytest2::checkpoint] applying checkpoint 0xa258c00
+[2024-01-22T20:49:40Z DEBUG ytest2::checkpoint] applying checkpoint 0xa258c00
+[2024-01-22T20:49:42Z DEBUG ytest2::checkpoint] applying checkpoint 0xa258c00
+[2024-01-22T20:49:45Z DEBUG ytest2::checkpoint] applying checkpoint 0xa258c00
+[2024-01-22T20:49:54Z DEBUG ytest2::checkpoint] applying checkpoint 0xa259800
+[2024-01-22T20:49:56Z DEBUG ytest2::checkpoint] applying checkpoint 0xa259800
+[2024-01-22T20:50:55Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25b000
+[2024-01-22T20:50:57Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25b000
+[2024-01-22T20:51:08Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25b000
+[2024-01-22T20:51:13Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25b000
+[2024-01-22T20:51:23Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25b000
+[2024-01-22T20:51:35Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25b000
+[2024-01-22T20:51:36Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25b000
+[2024-01-22T20:51:41Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25b000
+[2024-01-22T20:52:18Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25bc00
+[2024-01-22T20:52:19Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25bc00
+[2024-01-22T20:52:20Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25bc00
+[2024-01-22T20:52:22Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25bc00
+[2024-01-22T20:52:23Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25bc00
+[2024-01-22T20:52:24Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25bc00
+[2024-01-22T20:52:26Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25bc00
+[2024-01-22T20:52:27Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25bc00
+[2024-01-22T20:52:28Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25bc00
+[2024-01-22T20:52:38Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25bc00
+[2024-01-22T20:52:49Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25bc00
+[2024-01-22T20:52:51Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25bc00
+[2024-01-22T20:52:55Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25bc00
+[2024-01-22T20:53:35Z DEBUG ytest2::checkpoint] applying checkpoint 0xa25ec00
+[2024-01-22T20:53:40Z DEBUG ytest2::checkpoint] applying checkpoint 0xa240000
+[2024-01-22T20:53:57Z DEBUG ytest2::checkpoint] applying checkpoint 0xa240000
+[2024-01-22T20:53:59Z DEBUG ytest2::checkpoint] applying checkpoint 0xa240000
+[2024-01-22T20:54:01Z DEBUG ytest2::checkpoint] applying checkpoint 0xa240000
+[2024-01-22T20:54:18Z DEBUG ytest2::checkpoint] applying checkpoint 0xa241800
+[2024-01-22T20:54:45Z DEBUG ytest2::checkpoint] applying checkpoint 0xa243000
+[2024-01-23T09:26:40Z DEBUG ytest2::checkpoint] applying checkpoint 0xa293000
+[2024-01-23T09:26:41Z DEBUG ytest2::checkpoint] applying checkpoint 0xa293000
+[2024-01-23T09:26:49Z DEBUG ytest2::checkpoint] applying checkpoint 0xa293000
+[2024-01-23T09:27:10Z INFO  ytest2::hooks] exited level
+now playing "con"
+[2024-01-23T09:27:18Z DEBUG ytest2::hooks] entered level
+[2024-01-23T09:27:18Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-01-23T09:29:30Z INFO  ytest2::hooks] exited level
+[2024-01-23T09:29:37Z DEBUG ytest2::hooks] entered level
+[2024-01-23T09:29:37Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-01-23T09:30:23Z INFO  ytest2::hooks] exited level
+now playing "acheron"
+[2024-01-23T09:31:25Z DEBUG ytest2::hooks] entered level
+[2024-01-23T09:31:26Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-01-23T09:32:38Z INFO  ytest2::hooks] exited level
+now playing "visualstudiocode"
+[2024-01-23T09:32:51Z DEBUG ytest2::hooks] entered level
+[2024-01-23T09:32:51Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-01-23T09:32:56Z INFO  ytest2::hooks] exited level
+now playing "old_death_corridor"
+[2024-01-23T09:33:11Z DEBUG ytest2::hooks] entered level
+[2024-01-23T09:33:11Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-01-23T09:33:23Z INFO  ytest2::hooks] exited level
+[2024-01-23T09:33:34Z DEBUG ytest2::hooks] entered level
+[2024-01-23T09:33:35Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-01-23T09:33:52Z INFO  ytest2::hooks] exited level
+now playing "Chromaside"
+[2024-01-23T09:34:07Z DEBUG ytest2::hooks] entered level
+[2024-01-23T09:34:08Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-01-23T09:34:48Z INFO  ytest2::hooks] exited level
+now recording "congregation_ai"
+[2024-01-23T09:35:09Z DEBUG ytest2::hooks] entered level
+[2024-01-23T09:35:10Z DEBUG ytest2::hooks::reset_level_orig] initializing level

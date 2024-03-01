@@ -1,0 +1,10 @@
+[2024-01-25T14:27:35Z DEBUG ytest2] BASE /// GeometryDash.exe 0x470000
+[2024-01-25T14:27:35Z DEBUG ytest2] BASE /// libcocos2d.dll 0x66c60000
+[2024-01-25T14:27:35Z DEBUG ytest2] BASE /// libExtensions.dll 0x73840000
+[2024-01-25T14:27:35Z DEBUG ytest2] BASE /// msvcr120.dll 0x67160000
+[2024-01-25T14:27:35Z DEBUG ytest2] BASE /// zlib1.dll 0x5a4c0000
+[2024-01-25T14:27:35Z DEBUG ytest2] BASE /// mimalloc.dll 0x734d0000
+[2024-01-25T14:27:35Z DEBUG ytest2] BASE /// ybot.dll 0x61790000
+[2024-01-25T14:27:35Z DEBUG ytest2] yBot 2.1.30-stable
+[2024-01-25T14:27:35Z INFO  ytest2::updater] checking for updates
+[2024-01-25T14:27:35Z DEBUG reqwest::connect] starting new connection: https://ybot.store/

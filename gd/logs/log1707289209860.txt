@@ -1,0 +1,290 @@
+[2024-02-07T07:00:22Z DEBUG ytest2] BASE /// GeometryDash.exe 0x470000
+[2024-02-07T07:00:22Z DEBUG ytest2] BASE /// libcocos2d.dll 0x66c60000
+[2024-02-07T07:00:22Z DEBUG ytest2] BASE /// libExtensions.dll 0x73840000
+[2024-02-07T07:00:22Z DEBUG ytest2] BASE /// msvcr120.dll 0x67160000
+[2024-02-07T07:00:22Z DEBUG ytest2] BASE /// zlib1.dll 0x5a4c0000
+[2024-02-07T07:00:22Z DEBUG ytest2] BASE /// mimalloc.dll 0x734d0000
+[2024-02-07T07:00:22Z DEBUG ytest2] BASE /// ybot.dll 0x6b710000
+[2024-02-07T07:00:22Z DEBUG ytest2] yBot 2.1.30-stable
+[2024-02-07T07:00:22Z INFO  ytest2::updater] checking for updates
+[2024-02-07T07:00:22Z DEBUG reqwest::connect] starting new connection: https://ybot.store/
+[2024-02-07T07:00:27Z INFO  ytest2::updater] updating
+[2024-02-07T07:00:27Z INFO  ytest2::updater] yBot is up-to-date
+[2024-02-07T07:00:30Z DEBUG egui_glow::painter] 
+    opengl version: 4.6.0 - Build 30.0.101.1340
+    opengl renderer: Intel(R) UHD Graphics 600
+    opengl vendor: Intel
+[2024-02-07T07:00:30Z DEBUG egui_glow::shader_version] Shader version: Gl140 ("4.60 - Build 30.0.101.1340").
+[2024-02-07T07:00:30Z DEBUG egui_glow::painter] Shader header: "#version 140\n".
+[2024-02-07T07:00:30Z DEBUG egui_glow::painter] SRGB texture Support: true
+[2024-02-07T07:00:30Z DEBUG egui_glow::vao] GL version: "4.6.0 - Build 30.0.101.1340".
+now recording "toe2"
+[2024-02-07T18:32:46Z DEBUG ytest2::hooks] entered level
+[2024-02-07T18:32:47Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-07T18:32:51Z DEBUG ytest2::checkpoint] applying checkpoint 0xb746000
+[2024-02-07T18:33:03Z DEBUG ytest2::checkpoint] applying checkpoint 0xbb8c800
+[2024-02-07T18:33:04Z DEBUG ytest2::checkpoint] applying checkpoint 0xbb8c800
+[2024-02-07T18:33:08Z DEBUG ytest2::checkpoint] applying checkpoint 0xbb89800
+[2024-02-07T18:33:11Z DEBUG ytest2::checkpoint] applying checkpoint 0xbbd8c00
+[2024-02-07T18:33:13Z DEBUG ytest2::checkpoint] applying checkpoint 0xbbd8000
+[2024-02-07T18:33:15Z DEBUG ytest2::checkpoint] applying checkpoint 0xbbd8000
+[2024-02-07T18:33:16Z DEBUG ytest2::checkpoint] applying checkpoint 0xbbd8000
+[2024-02-07T18:33:17Z DEBUG ytest2::checkpoint] applying checkpoint 0xbbd8000
+[2024-02-07T18:33:19Z DEBUG ytest2::hooks] destructing checkpoint 0xbbd8000
+[2024-02-07T18:33:19Z DEBUG ytest2::checkpoint] applying checkpoint 0xbbd8c00
+[2024-02-07T18:33:21Z DEBUG ytest2::checkpoint] applying checkpoint 0xbbd8c00
+[2024-02-07T18:33:23Z DEBUG ytest2::checkpoint] applying checkpoint 0xbbd8c00
+[2024-02-07T18:33:29Z DEBUG ytest2::checkpoint] applying checkpoint 0xbbdbc00
+[2024-02-07T18:33:30Z DEBUG ytest2::checkpoint] applying checkpoint 0xbbdbc00
+[2024-02-07T18:33:31Z DEBUG ytest2::checkpoint] applying checkpoint 0xbbdbc00
+[2024-02-07T18:33:34Z DEBUG ytest2::checkpoint] applying checkpoint 0xb960000
+[2024-02-07T18:33:37Z DEBUG ytest2::checkpoint] applying checkpoint 0xb960c00
+[2024-02-07T18:33:51Z DEBUG ytest2::checkpoint] applying checkpoint 0xb962400
+[2024-02-07T18:33:58Z DEBUG ytest2::checkpoint] applying checkpoint 0xb962400
+[2024-02-07T18:35:15Z DEBUG ytest2::checkpoint] applying checkpoint 0xb962400
+[2024-02-07T18:35:16Z DEBUG ytest2::checkpoint] applying checkpoint 0xb962400
+[2024-02-07T18:35:19Z DEBUG ytest2::checkpoint] applying checkpoint 0xb962400
+[2024-02-07T18:35:20Z DEBUG ytest2::checkpoint] applying checkpoint 0xb962400
+[2024-02-07T18:35:22Z DEBUG ytest2::hooks] destructing checkpoint 0xb961800
+[2024-02-07T18:35:22Z DEBUG ytest2::checkpoint] applying checkpoint 0xb962400
+[2024-02-07T18:35:23Z DEBUG ytest2::checkpoint] applying checkpoint 0xb962400
+[2024-02-07T18:35:25Z DEBUG ytest2::checkpoint] applying checkpoint 0xb962400
+[2024-02-07T18:35:28Z DEBUG ytest2::checkpoint] applying checkpoint 0xb961800
+[2024-02-07T18:35:29Z DEBUG ytest2::checkpoint] applying checkpoint 0xb961800
+[2024-02-07T18:35:31Z DEBUG ytest2::checkpoint] applying checkpoint 0xb961800
+[2024-02-07T18:35:34Z DEBUG ytest2::checkpoint] applying checkpoint 0xb963000
+[2024-02-07T18:35:35Z DEBUG ytest2::checkpoint] applying checkpoint 0xb963000
+[2024-02-07T18:35:38Z DEBUG ytest2::checkpoint] applying checkpoint 0xb963000
+[2024-02-07T18:35:40Z DEBUG ytest2::checkpoint] applying checkpoint 0xb963000
+[2024-02-07T18:35:42Z DEBUG ytest2::checkpoint] applying checkpoint 0xb963c00
+[2024-02-07T18:35:45Z DEBUG ytest2::checkpoint] applying checkpoint 0xb963c00
+[2024-02-07T18:36:30Z DEBUG ytest2::checkpoint] applying checkpoint 0xb963c00
+[2024-02-07T18:36:32Z DEBUG ytest2::checkpoint] applying checkpoint 0xb963c00
+[2024-02-07T18:36:35Z DEBUG ytest2::checkpoint] applying checkpoint 0xb964800
+[2024-02-07T18:36:37Z DEBUG ytest2::checkpoint] applying checkpoint 0xb964800
+[2024-02-07T18:36:38Z DEBUG ytest2::checkpoint] applying checkpoint 0xb964800
+[2024-02-07T18:36:40Z DEBUG ytest2::checkpoint] applying checkpoint 0xb965400
+[2024-02-07T18:36:41Z DEBUG ytest2::hooks] destructing checkpoint 0xb965400
+[2024-02-07T18:36:41Z DEBUG ytest2::checkpoint] applying checkpoint 0xb964800
+[2024-02-07T18:36:43Z DEBUG ytest2::checkpoint] applying checkpoint 0xb964800
+[2024-02-07T18:36:47Z DEBUG ytest2::checkpoint] applying checkpoint 0xb966000
+[2024-02-07T18:36:48Z DEBUG ytest2::checkpoint] applying checkpoint 0xb966000
+[2024-02-07T18:36:49Z DEBUG ytest2::checkpoint] applying checkpoint 0xb966000
+[2024-02-07T18:36:50Z DEBUG ytest2::checkpoint] applying checkpoint 0xb966000
+[2024-02-07T18:36:51Z DEBUG ytest2::checkpoint] applying checkpoint 0xb966000
+[2024-02-07T18:36:52Z DEBUG ytest2::checkpoint] applying checkpoint 0xb966000
+[2024-02-07T18:36:53Z DEBUG ytest2::hooks] destructing checkpoint 0xb966000
+[2024-02-07T18:36:53Z DEBUG ytest2::checkpoint] applying checkpoint 0xb965400
+[2024-02-07T18:36:54Z DEBUG ytest2::checkpoint] applying checkpoint 0xb965400
+[2024-02-07T18:36:57Z DEBUG ytest2::checkpoint] applying checkpoint 0xb966000
+[2024-02-07T18:36:58Z DEBUG ytest2::checkpoint] applying checkpoint 0xb966000
+[2024-02-07T18:37:00Z DEBUG ytest2::checkpoint] applying checkpoint 0xb966c00
+[2024-02-07T18:37:03Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b0000
+[2024-02-07T18:37:13Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b1800
+[2024-02-07T18:37:14Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b1800
+[2024-02-07T18:37:19Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b2400
+[2024-02-07T18:37:20Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b2400
+[2024-02-07T18:37:23Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b2400
+[2024-02-07T18:37:26Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b3000
+[2024-02-07T18:37:29Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b3c00
+[2024-02-07T18:37:29Z DEBUG ytest2::hooks] destructing checkpoint 0xb9b3c00
+[2024-02-07T18:37:30Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b3000
+[2024-02-07T18:37:31Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b3000
+[2024-02-07T18:37:34Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b3c00
+[2024-02-07T18:37:37Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b3c00
+[2024-02-07T18:37:38Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b3c00
+[2024-02-07T18:37:44Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b6000
+[2024-02-07T18:37:45Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b6000
+[2024-02-07T18:37:50Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b6c00
+[2024-02-07T18:37:51Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b6c00
+[2024-02-07T18:37:55Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b6c00
+[2024-02-07T18:37:56Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b6c00
+[2024-02-07T18:37:59Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b6c00
+[2024-02-07T18:38:00Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b6c00
+[2024-02-07T18:38:04Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b6c00
+[2024-02-07T18:38:06Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b6c00
+[2024-02-07T18:38:12Z DEBUG ytest2::hooks] destructing checkpoint 0x14969800
+[2024-02-07T18:38:13Z DEBUG ytest2::checkpoint] applying checkpoint 0x14968c00
+[2024-02-07T18:38:14Z DEBUG ytest2::hooks] destructing checkpoint 0x14968c00
+[2024-02-07T18:38:14Z DEBUG ytest2::checkpoint] applying checkpoint 0x14968000
+[2024-02-07T18:38:16Z DEBUG ytest2::checkpoint] applying checkpoint 0x14968000
+[2024-02-07T18:38:17Z DEBUG ytest2::checkpoint] applying checkpoint 0x14968000
+[2024-02-07T18:38:19Z DEBUG ytest2::checkpoint] applying checkpoint 0x14968000
+[2024-02-07T18:38:24Z DEBUG ytest2::checkpoint] applying checkpoint 0x14969800
+[2024-02-07T18:38:28Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496b000
+[2024-02-07T18:38:31Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496b000
+[2024-02-07T18:38:33Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496b000
+[2024-02-07T18:38:37Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496bc00
+[2024-02-07T18:38:42Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496d400
+[2024-02-07T18:38:44Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496e000
+[2024-02-07T18:38:46Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496ec00
+[2024-02-07T18:38:48Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496ec00
+[2024-02-07T18:38:49Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496ec00
+[2024-02-07T18:38:50Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a0000
+[2024-02-07T18:38:51Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a0000
+[2024-02-07T18:38:52Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a0000
+[2024-02-07T18:38:52Z DEBUG ytest2::hooks] destructing checkpoint 0x149a0000
+[2024-02-07T18:38:53Z DEBUG ytest2::hooks] destructing checkpoint 0x1496ec00
+[2024-02-07T18:38:53Z DEBUG ytest2::hooks] destructing checkpoint 0x1496e000
+[2024-02-07T18:38:53Z DEBUG ytest2::hooks] destructing checkpoint 0x1496d400
+[2024-02-07T18:38:53Z DEBUG ytest2::hooks] destructing checkpoint 0x1496c800
+[2024-02-07T18:38:53Z DEBUG ytest2::hooks] destructing checkpoint 0x1496bc00
+[2024-02-07T18:38:53Z DEBUG ytest2::hooks] destructing checkpoint 0x1496b000
+[2024-02-07T18:38:53Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496a400
+[2024-02-07T18:38:53Z DEBUG ytest2::hooks] destructing checkpoint 0x1496a400
+[2024-02-07T18:38:54Z DEBUG ytest2::hooks] destructing checkpoint 0x14969800
+[2024-02-07T18:38:54Z DEBUG ytest2::hooks] destructing checkpoint 0x14968c00
+[2024-02-07T18:38:54Z DEBUG ytest2::hooks] destructing checkpoint 0x14968000
+[2024-02-07T18:38:54Z DEBUG ytest2::hooks] destructing checkpoint 0xb9b6c00
+[2024-02-07T18:38:54Z DEBUG ytest2::hooks] destructing checkpoint 0xb9b6000
+[2024-02-07T18:38:54Z DEBUG ytest2::hooks] destructing checkpoint 0xb9b5400
+[2024-02-07T18:38:55Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b4800
+[2024-02-07T18:38:55Z DEBUG ytest2::hooks] destructing checkpoint 0xb9b4800
+[2024-02-07T18:38:55Z DEBUG ytest2::hooks] destructing checkpoint 0xb9b3c00
+[2024-02-07T18:38:55Z DEBUG ytest2::hooks] destructing checkpoint 0xb9b3000
+[2024-02-07T18:38:55Z DEBUG ytest2::hooks] destructing checkpoint 0xb9b2400
+[2024-02-07T18:38:55Z DEBUG ytest2::hooks] destructing checkpoint 0xb9b1800
+[2024-02-07T18:38:55Z DEBUG ytest2::hooks] destructing checkpoint 0xb9b0c00
+[2024-02-07T18:38:56Z DEBUG ytest2::hooks] destructing checkpoint 0xb9b0000
+[2024-02-07T18:38:56Z DEBUG ytest2::hooks] destructing checkpoint 0xb966c00
+[2024-02-07T18:38:56Z DEBUG ytest2::hooks] destructing checkpoint 0xb966000
+[2024-02-07T18:38:56Z DEBUG ytest2::hooks] destructing checkpoint 0xb965400
+[2024-02-07T18:38:56Z DEBUG ytest2::hooks] destructing checkpoint 0xb964800
+[2024-02-07T18:38:56Z DEBUG ytest2::checkpoint] applying checkpoint 0xb963c00
+[2024-02-07T18:38:58Z DEBUG ytest2::checkpoint] applying checkpoint 0xb963c00
+[2024-02-07T18:38:59Z DEBUG ytest2::checkpoint] applying checkpoint 0xb963c00
+[2024-02-07T18:39:00Z DEBUG ytest2::checkpoint] applying checkpoint 0xb963c00
+[2024-02-07T18:39:02Z DEBUG ytest2::checkpoint] applying checkpoint 0xb963c00
+[2024-02-07T18:39:06Z DEBUG ytest2::checkpoint] applying checkpoint 0xb965400
+[2024-02-07T18:39:08Z DEBUG ytest2::checkpoint] applying checkpoint 0xb965400
+[2024-02-07T18:39:11Z DEBUG ytest2::checkpoint] applying checkpoint 0xb966000
+[2024-02-07T18:39:13Z DEBUG ytest2::checkpoint] applying checkpoint 0xb966c00
+[2024-02-07T18:39:15Z DEBUG ytest2::checkpoint] applying checkpoint 0xb966c00
+[2024-02-07T18:39:17Z DEBUG ytest2::checkpoint] applying checkpoint 0xb966c00
+[2024-02-07T18:39:19Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b0c00
+[2024-02-07T18:39:30Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b2400
+[2024-02-07T18:39:31Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b2400
+[2024-02-07T18:39:34Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b2400
+[2024-02-07T18:39:36Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b2400
+[2024-02-07T18:39:38Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b2400
+[2024-02-07T18:39:40Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b2400
+[2024-02-07T18:39:43Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b2400
+[2024-02-07T18:39:45Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b2400
+[2024-02-07T18:39:47Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b2400
+[2024-02-07T18:39:50Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b3000
+[2024-02-07T18:39:53Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b3c00
+[2024-02-07T18:39:56Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b4800
+[2024-02-07T18:39:59Z DEBUG ytest2::checkpoint] applying checkpoint 0xb9b6000
+[2024-02-07T18:40:03Z DEBUG ytest2::checkpoint] applying checkpoint 0x14968000
+[2024-02-07T18:40:06Z DEBUG ytest2::checkpoint] applying checkpoint 0x14968000
+[2024-02-07T18:40:09Z DEBUG ytest2::checkpoint] applying checkpoint 0x14968000
+[2024-02-07T18:40:11Z DEBUG ytest2::checkpoint] applying checkpoint 0x14968000
+[2024-02-07T18:40:13Z DEBUG ytest2::checkpoint] applying checkpoint 0x14968000
+[2024-02-07T18:40:28Z DEBUG ytest2::checkpoint] applying checkpoint 0x14968000
+[2024-02-07T18:40:30Z DEBUG ytest2::checkpoint] applying checkpoint 0x14968000
+[2024-02-07T18:40:33Z DEBUG ytest2::checkpoint] applying checkpoint 0x14968000
+[2024-02-07T18:40:41Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496a400
+[2024-02-07T18:40:42Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496a400
+[2024-02-07T18:40:43Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496a400
+[2024-02-07T18:40:46Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496bc00
+[2024-02-07T18:40:49Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496bc00
+[2024-02-07T18:40:50Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496bc00
+[2024-02-07T18:40:52Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496bc00
+[2024-02-07T18:40:57Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496e000
+[2024-02-07T18:40:58Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496e000
+[2024-02-07T18:40:59Z DEBUG ytest2::hooks] destructing checkpoint 0x1496e000
+[2024-02-07T18:41:00Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496d400
+[2024-02-07T18:41:01Z DEBUG ytest2::hooks] destructing checkpoint 0x1496d400
+[2024-02-07T18:41:01Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496c800
+[2024-02-07T18:41:03Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496c800
+[2024-02-07T18:41:08Z DEBUG ytest2::checkpoint] applying checkpoint 0x1496ec00
+[2024-02-07T18:41:10Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a0000
+[2024-02-07T18:41:11Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a0000
+[2024-02-07T18:41:15Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a0c00
+[2024-02-07T18:41:16Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a0c00
+[2024-02-07T18:41:17Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a1800
+[2024-02-07T18:41:19Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a1800
+[2024-02-07T18:41:20Z DEBUG ytest2::hooks] destructing checkpoint 0x149a2400
+[2024-02-07T18:41:20Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a1800
+[2024-02-07T18:41:21Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a1800
+[2024-02-07T18:41:23Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a2400
+[2024-02-07T18:41:24Z DEBUG ytest2::hooks] destructing checkpoint 0x149a2400
+[2024-02-07T18:41:25Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a1800
+[2024-02-07T18:41:26Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a1800
+[2024-02-07T18:41:27Z DEBUG ytest2::hooks] destructing checkpoint 0x149a2400
+[2024-02-07T18:41:27Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a1800
+[2024-02-07T18:41:28Z DEBUG ytest2::hooks] destructing checkpoint 0x149a2400
+[2024-02-07T18:41:30Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a1800
+[2024-02-07T18:41:31Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a2400
+[2024-02-07T18:41:33Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a3000
+[2024-02-07T18:41:36Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a3c00
+[2024-02-07T18:41:37Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a3c00
+[2024-02-07T18:41:39Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a3c00
+[2024-02-07T18:41:42Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a3c00
+[2024-02-07T18:41:43Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a3c00
+[2024-02-07T18:41:50Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a6c00
+[2024-02-07T18:41:51Z DEBUG ytest2::checkpoint] applying checkpoint 0x149a6c00
+[2024-02-07T18:41:53Z DEBUG ytest2::checkpoint] applying checkpoint 0x149c0000
+[2024-02-07T18:41:55Z DEBUG ytest2::checkpoint] applying checkpoint 0x149c0c00
+[2024-02-07T18:41:56Z DEBUG ytest2::checkpoint] applying checkpoint 0x149c0c00
+[2024-02-07T18:41:58Z DEBUG ytest2::checkpoint] applying checkpoint 0x149c2400
+[2024-02-07T18:42:01Z DEBUG ytest2::checkpoint] applying checkpoint 0x149c3000
+[2024-02-07T18:42:02Z DEBUG ytest2::checkpoint] applying checkpoint 0x149c3000
+[2024-02-07T18:42:06Z DEBUG ytest2::checkpoint] applying checkpoint 0x149c5400
+[2024-02-07T18:42:14Z DEBUG ytest2::hooks] destructing checkpoint 0xb982400
+[2024-02-07T18:42:15Z DEBUG ytest2::checkpoint] applying checkpoint 0xb981800
+[2024-02-07T18:42:16Z DEBUG ytest2::hooks] destructing checkpoint 0xb981800
+[2024-02-07T18:42:17Z DEBUG ytest2::checkpoint] applying checkpoint 0xb980c00
+[2024-02-07T18:42:18Z DEBUG ytest2::hooks] destructing checkpoint 0xb980c00
+[2024-02-07T18:42:21Z DEBUG ytest2::checkpoint] applying checkpoint 0xb980000
+[2024-02-07T18:42:28Z DEBUG ytest2::checkpoint] applying checkpoint 0xb983000
+[2024-02-07T18:42:33Z DEBUG ytest2::checkpoint] applying checkpoint 0xb983c00
+[2024-02-07T18:42:53Z DEBUG ytest2::checkpoint] applying checkpoint 0xb984800
+[2024-02-07T18:42:54Z DEBUG ytest2::hooks] destructing checkpoint 0xb984800
+[2024-02-07T18:42:54Z DEBUG ytest2::checkpoint] applying checkpoint 0xb983c00
+[2024-02-07T18:42:56Z DEBUG ytest2::hooks] destructing checkpoint 0xb984800
+[2024-02-07T18:42:57Z DEBUG ytest2::checkpoint] applying checkpoint 0xb983c00
+[2024-02-07T18:43:04Z DEBUG ytest2::checkpoint] applying checkpoint 0xb985400
+[2024-02-07T18:43:05Z DEBUG ytest2::checkpoint] applying checkpoint 0xb985400
+[2024-02-07T18:43:09Z DEBUG ytest2::checkpoint] applying checkpoint 0xb986000
+[2024-02-07T18:43:18Z DEBUG ytest2::checkpoint] applying checkpoint 0xba60000
+[2024-02-07T18:43:20Z DEBUG ytest2::checkpoint] applying checkpoint 0xba60000
+[2024-02-07T18:43:27Z DEBUG ytest2::checkpoint] applying checkpoint 0xba63c00
+[2024-02-07T18:43:28Z DEBUG ytest2::checkpoint] applying checkpoint 0xba63c00
+[2024-02-07T18:43:29Z DEBUG ytest2::checkpoint] applying checkpoint 0xba64800
+[2024-02-07T18:43:31Z DEBUG ytest2::checkpoint] applying checkpoint 0xba64800
+[2024-02-07T18:43:32Z DEBUG ytest2::checkpoint] applying checkpoint 0xba64800
+[2024-02-07T18:43:34Z DEBUG ytest2::hooks] destructing checkpoint 0xba65400
+[2024-02-07T18:43:35Z DEBUG ytest2::checkpoint] applying checkpoint 0xba64800
+[2024-02-07T18:43:37Z DEBUG ytest2::checkpoint] applying checkpoint 0xba64800
+[2024-02-07T18:43:41Z DEBUG ytest2::checkpoint] applying checkpoint 0xba65400
+[2024-02-07T18:43:43Z DEBUG ytest2::checkpoint] applying checkpoint 0xba65400
+[2024-02-07T18:43:46Z DEBUG ytest2::checkpoint] applying checkpoint 0xba66000
+[2024-02-07T18:43:47Z DEBUG ytest2::checkpoint] applying checkpoint 0xba66000
+[2024-02-07T18:43:50Z DEBUG ytest2::checkpoint] applying checkpoint 0xba66c00
+[2024-02-07T18:43:51Z DEBUG ytest2::checkpoint] applying checkpoint 0xba66c00
+[2024-02-07T18:43:52Z DEBUG ytest2::hooks] destructing checkpoint 0xba66c00
+[2024-02-07T18:43:53Z DEBUG ytest2::checkpoint] applying checkpoint 0xba66000
+[2024-02-07T18:43:54Z DEBUG ytest2::checkpoint] applying checkpoint 0xba66000
+[2024-02-07T18:43:55Z DEBUG ytest2::checkpoint] applying checkpoint 0xba66000
+[2024-02-07T18:43:56Z DEBUG ytest2::checkpoint] applying checkpoint 0xba66000
+[2024-02-07T18:43:59Z DEBUG ytest2::checkpoint] applying checkpoint 0xba66c00
+[2024-02-07T18:44:00Z DEBUG ytest2::checkpoint] applying checkpoint 0xba66c00
+[2024-02-07T18:44:02Z DEBUG ytest2::checkpoint] applying checkpoint 0x14a08000
+[2024-02-07T18:44:03Z DEBUG ytest2::checkpoint] applying checkpoint 0x14a08000
+[2024-02-07T18:44:05Z DEBUG ytest2::checkpoint] applying checkpoint 0x14a08000
+[2024-02-07T18:44:07Z DEBUG ytest2::checkpoint] applying checkpoint 0x14a08c00
+[2024-02-07T18:44:08Z DEBUG ytest2::checkpoint] applying checkpoint 0x14a08c00
+[2024-02-07T18:44:11Z DEBUG ytest2::checkpoint] applying checkpoint 0x14a09800
+[2024-02-07T18:44:12Z DEBUG ytest2::checkpoint] applying checkpoint 0x14a09800
+now playing "toe2"
+[2024-02-07T18:44:30Z INFO  ytest2::hooks] exited level
+[2024-02-07T18:45:06Z DEBUG ytest2::hooks] entered level
+[2024-02-07T18:45:07Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-07T18:45:12Z INFO  ytest2::hooks] exited level
+[2024-02-07T18:45:18Z DEBUG ytest2::hooks] entered level
+[2024-02-07T18:45:19Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-07T18:45:29Z INFO  ytest2::hooks] exited level
+[2024-02-07T18:46:13Z DEBUG ytest2::hooks] entered level
+[2024-02-07T18:46:15Z DEBUG ytest2::hooks::reset_level_orig] initializing level
+[2024-02-07T18:46:20Z INFO  ytest2::hooks] exited level

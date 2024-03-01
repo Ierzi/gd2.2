@@ -1,0 +1,196 @@
+Time: 2023/11/18 @ 15:32:45
+Version: v7.1.1.3
+Code: Access Violation (0xc0000005)
+Fault Address: 5D2692F1
+Fault Module: BetterEdit-v4.0.5-min.dll
+Fault Offset: 000C92F1
+
+Stack Walk:
+BetterEdit-v4.0.5-min.dll + 000C92F1
+BetterEdit-v4.0.5-min.dll + 000C9AA7
+BetterEdit-v4.0.5-min.dll + 000CB846
+BetterEdit-v4.0.5-min.dll + 000CF0D2
+BetterEdit-v4.0.5-min.dll + 000C9F8F
+BetterEdit-v4.0.5-min.dll + 000295B6
+libcocos2d.dll + 000AAF1D
+libcocos2d.dll + 000F5919
+libcocos2d.dll + 000BB37C
+libcocos2d.dll + 000C4046
+BetterEdit-v4.0.5-min.dll + 00082CE5
+libcocos2d.dll + 000C406E
+libcocos2d.dll + 00111B29
+libcocos2d.dll + 00113679
+hackpro.dll + 00148200
+USER32.dll + 00047CD2
+USER32.dll + 0002709A
+USER32.dll + 00025CCF
+OPENGL32.dll + 0003C669
+USER32.dll + 00047CD2
+USER32.dll + 0002709A
+USER32.dll + 000259C8
+USER32.dll + 00025500
+gameoverlayrenderer.dll + 00082C30
+libcocos2d.dll + 001122D2
+libcocos2d.dll + 000C190B
+GeometryDash.exe + 00261175
+GeometryDash.exe + 002621FD
+KERNEL32.DLL + 00016BA9
+ntdll.dll + 00068F9F
+ntdll.dll + 00068F6D
+
+Register States:
+EAX: 0x86da02a7
+EBX: 0x15477fd8
+ECX: 0x2006110c
+EDX: 0
+ESI: 0x2c8a7870
+EDI: 0x1e0e7ef8
+ESP: 0xf3f864
+EBP: 0xf3f86c
+EIP: 0x77978f6d
+EFLAGS: 00000000001000010000001000000010
+
+Loaded Modules (135):
+00500000: GeometryDash.exe
+77910000: ntdll.dll
+76B10000: KERNEL32.DLL
+776A0000: KERNELBASE.dll
+76A70000: ADVAPI32.dll
+75910000: msvcrt.dll
+75830000: sechost.dll
+77170000: RPCRT4.dll
+75C60000: SHELL32.dll
+75660000: msvcp_win.dll
+77470000: ucrtbase.dll
+768C0000: USER32.dll
+75780000: win32u.dll
+75750000: GDI32.dll
+77290000: gdi32full.dll
+63CA0000: libcocos2d.dll
+68B30000: OPENGL32.dll
+76CB0000: combase.dll
+62AA0000: glew32.dll
+6F1D0000: steam_api.dll
+63AF0000: fmod.dll
+759E0000: WS2_32.dll
+75A50000: ole32.dll
+63A70000: MSVCP120.dll
+63980000: MSVCR120.dll
+5A4C0000: zlib1.dll
+638F0000: libtiff.dll
+10000000: pthreadVCE2.dll
+6F1B0000: XINPUT9_1_0.dll
+6FA20000: GLU32.dll
+75270000: WINMM.dll
+75230000: MSACM32.dll
+75650000: WSOCK32.dll
+63840000: MSVCR90.dll
+6FB20000: dxcore.dll
+6F160000: libExtensions.dll
+63710000: libcurl.dll
+756E0000: WLDAP32.dll
+63680000: sqlite3.dll
+635C0000: MSVCR100.dll
+76C80000: IMM32.DLL
+6F090000: XInput9_1_0.dll
+63410000: hackproldr.dll
+77590000: CRYPT32.dll
+632C0000: gameoverlayrenderer.dll
+76FB0000: OLEAUT32.dll
+77380000: PSAPI.DLL
+742F0000: CFGMGR32.dll
+72B40000: windows.storage.dll
+72A50000: wintypes.dll
+770A0000: shcore.dll
+64480000: steamclient.dll
+77050000: SHLWAPI.dll
+76AF0000: imagehlp.dll
+76280000: SETUPAPI.dll
+714A0000: IPHLPAPI.DLL
+75220000: VERSION.dll
+66260000: tier0_s.dll
+68C10000: vstdlib_s.dll
+749E0000: bcrypt.dll
+72040000: Secur32.dll
+744F0000: MSWSOCK.dll
+74F40000: SSPICLI.DLL
+74540000: CRYPTBASE.DLL
+76C00000: bcryptPrimitives.dll
+079D0000: hackpro.dll
+75BA0000: COMDLG32.dll
+751C0000: dwmapi.dll
+61B70000: dbghelp.dll
+728B0000: MFPlat.DLL
+61AE0000: COMCTL32.dll
+617D0000: discord_game_sdk.dll
+70760000: MF.dll
+6F0A0000: MFReadWrite.dll
+61700000: dxgi.dll
+64040000: ktmw32.dll
+61490000: d3d11.dll
+73410000: gdiplus.dll
+703F0000: MFCORE.DLL
+702E0000: mfperfhelper.dll
+743E0000: kernel.appcore.dll
+742C0000: RTWorkQ.DLL
+612D0000: steam.dll
+752B0000: uxtheme.dll
+77390000: MSCTF.dll
+61460000: dbgcore.DLL
+61430000: CSERHelper.dll
+70810000: XInput1_4.dll
+74330000: DEVOBJ.dll
+65E70000: inputhost.dll
+70170000: CoreMessaging.dll
+033C0000: directxdatabasehelper.dll
+74A00000: ntmarta.dll
+757A0000: clbcatq.dll
+60600000: ig9icd32.dll
+603C0000: igdml32.dll
+600C0000: igdgmm32.dll
+5D330000: igc32.dll
+725A0000: powrprof.dll
+742B0000: UMPDC.dll
+715D0000: textinputframework.dll
+6FD60000: CoreUIComponents.dll
+6F8B0000: DNSAPI.dll
+76FA0000: NSI.dll
+6F8A0000: rasadhlp.dll
+72430000: profapi.dll
+5D1A0000: BetterEdit-v4.0.5-min.dll
+5D130000: MSVCP140.dll
+613D0000: VCRUNTIME140.dll
+64030000: minhook.x32.dll
+6F840000: fwpuclnt.dll
+5D0B0000: betterinfo-wrapper.dll
+76C70000: Normaliz.dll
+5D020000: GDShare-v0.3.4.dll
+5D010000: run-info.dll
+5CF80000: betterinfo.dll
+5CF60000: song-search.dll
+5CDD0000: sum-attempts.dll
+5CED0000: BetterPause.dll
+6F210000: schannel.dll
+6F010000: mskeyprotect.dll
+6EFE0000: NTASN1.dll
+6EF80000: ncrypt.dll
+6EF60000: ncryptsslp.dll
+5B750000: igd10iumd32.dll
+755A0000: apphelp.dll
+74360000: MMDevApi.dll
+643E0000: winmmbase.dll
+643A0000: wdmaud.drv
+64390000: ksuser.dll
+70C70000: AVRT.dll
+717C0000: TextShaping.dll
+5CE70000: Ninput.dll
+74480000: CRYPTSP.dll
+71F00000: rsaenh.dll
+
+System:
+CPU: Intel(R) Celeron(R) N4120 CPU @ 1.10GHz
+System RAM: 2 010 848 KB
+Available RAM: 2 097 024 KB
+GPU: Intel(R) UHD Graphics 600
+
+END OF LOG

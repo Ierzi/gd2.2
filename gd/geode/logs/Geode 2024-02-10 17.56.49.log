@@ -1,0 +1,103 @@
+17:56:49 INFO  [Main] [Geode]: Running Geode v2.0.0-beta.17 in Geometry Dash v2.204
+17:56:49 INFO  [Main] [Geode]: Setting up internal mod
+17:56:49 INFO  [Main] [Geode]: Setting up loader
+17:56:49 DEBUG [Main] [Geode]:   Loading launch arguments
+17:56:49 DEBUG [Main] [Geode]:   Setting up crash handler
+17:56:49 DEBUG [Main] [Geode]:   Loading hooks
+17:56:49 DEBUG [Main] [Geode]:     Enabled cocos2d::CCFileUtils::fullPathForFilename hook at 0x693e0f40 for geode.loader
+17:56:49 DEBUG [Main] [Geode]:     Enabled cocos2d::CCFileUtils::sharedFileUtils hook at 0x693e9770 for geode.loader
+17:56:49 DEBUG [Main] [Geode]:     Enabled cocos2d::CCNode::getUserObject hook at 0x694331f0 for geode.loader
+17:56:49 DEBUG [Main] [Geode]:     Enabled cocos2d::CCNode::setUserObject hook at 0x693815a0 for geode.loader
+17:56:49 DEBUG [Main] [Geode]:     Enabled AchievementNotifier::willSwitchToScene hook at 0x31c200 for geode.loader
+17:56:49 DEBUG [Main] [Geode]:     Enabled AppDelegate::trySaveGame hook at 0x35b790 for geode.loader
+17:56:49 DEBUG [Main] [Geode]:     Enabled cocos2d::CCScheduler::update hook at 0x69426db0 for geode.loader
+17:56:49 DEBUG [Main] [Geode]:     Enabled CCTextInputNode::ccTouchBegan hook at 0x3304f0 for geode.loader
+17:56:49 DEBUG [Main] [Geode]:     Enabled LoadingLayer::loadAssets hook at 0x576bd0 for geode.loader
+17:56:49 DEBUG [Main] [Geode]:     Enabled LoadingLayer::init hook at 0x576370 for geode.loader
+17:56:49 DEBUG [Main] [Geode]:     Enabled LoadingLayer::loadAssets hook at 0x576bd0 for geode.loader
+17:56:49 DEBUG [Main] [Geode]:     Enabled MenuLayer::init hook at 0x57b450 for geode.loader
+17:56:49 DEBUG [Main] [Geode]:   Setting up directories
+17:56:49 INFO  [Main] [Geode]:   Refreshing mod graph
+17:56:49 DEBUG [Main] [Geode]:     Queueing mods
+17:56:49 DEBUG [Main] [Geode]:       Searching C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods
+17:56:49 DEBUG [Main] [Geode]:         Found absolllute.megahack.geode
+17:56:49 DEBUG [Main] [Geode]:           id: absolllute.megahack
+17:56:49 DEBUG [Main] [Geode]:           version: v8.0.0-alpha.10
+17:56:49 DEBUG [Main] [Geode]:           early: yes
+17:56:49 DEBUG [Main] [Geode]:         Found alk.editorcollab.geode
+17:56:49 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\alk.editorcollab.geode" - [mod.json] is missing target GD version
+17:56:49 DEBUG [Main] [Geode]:         Found alk.fps-shower.geode
+17:56:49 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\alk.fps-shower.geode" - [mod.json] is missing target GD version
+17:56:49 DEBUG [Main] [Geode]:         Found camila314.acbypass.geode
+17:56:49 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\camila314.acbypass.geode" - [mod.json] is missing target GD version
+17:56:49 DEBUG [Main] [Geode]:         Found camila314.demonlist-button.geode
+17:56:49 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\camila314.demonlist-button.geode" - [mod.json] is missing target GD version
+17:56:49 DEBUG [Main] [Geode]:         Found camila314.noclip.geode
+17:56:49 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\camila314.noclip.geode" - [mod.json] is missing target GD version
+17:56:49 DEBUG [Main] [Geode]:         Found chs.confirmquit.geode
+17:56:49 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\chs.confirmquit.geode" - [mod.json] is missing target GD version
+17:56:49 DEBUG [Main] [Geode]:         Found cvolton.betterinfo.geode
+17:56:49 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\cvolton.betterinfo.geode" - [mod.json] is missing target GD version
+17:56:49 DEBUG [Main] [Geode]:         Found cvolton.capacity_fix.geode
+17:56:49 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\cvolton.capacity_fix.geode" - [mod.json] is missing target GD version
+17:56:49 DEBUG [Main] [Geode]:         Found fleym.nongd.geode
+17:56:49 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\fleym.nongd.geode" - [mod.json] is missing target GD version
+17:56:49 DEBUG [Main] [Geode]:         Found hjfod.custom-keybinds.geode
+17:56:49 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\hjfod.custom-keybinds.geode" - [mod.json] is missing target GD version
+17:56:49 DEBUG [Main] [Geode]:         Found mat.fps-bypass.geode
+17:56:49 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.fps-bypass.geode" - [mod.json] is missing target GD version
+17:56:49 DEBUG [Main] [Geode]:         Found mat.practice-music.geode
+17:56:50 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.practice-music.geode" - [mod.json] is missing target GD version
+17:56:50 DEBUG [Main] [Geode]:         Found mat.run-info.geode
+17:56:50 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.run-info.geode" - [mod.json] is missing target GD version
+17:56:50 DEBUG [Main] [Geode]:         Found mat.scroll-zoom.geode
+17:56:50 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.scroll-zoom.geode" - [mod.json] is missing target GD version
+17:56:50 DEBUG [Main] [Geode]:         Found rlt.gd-platformer.geode
+17:56:50 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\rlt.gd-platformer.geode" - [mod.json] is missing target GD version
+17:56:50 DEBUG [Main] [Geode]:         Found ruslan.apm.geode
+17:56:50 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\ruslan.apm.geode" - [mod.json] is missing target GD version
+17:56:50 DEBUG [Main] [Geode]:         Found ruslan.nm.geode
+17:56:50 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\ruslan.nm.geode" - [mod.json] is missing target GD version
+17:56:50 DEBUG [Main] [Geode]:     Populating mod list
+17:56:50 DEBUG [Main] [Geode]:       absolllute.megahack v8.0.0-alpha.10
+17:56:50 DEBUG [Main] [Geode]:     Building mod graph
+17:56:50 DEBUG [Main] [Geode]:       geode.loader
+17:56:50 DEBUG [Main] [Geode]:       absolllute.megahack
+17:56:50 DEBUG [Main] [Geode]:         geode.loader
+17:56:50 DEBUG [Main] [Geode]:     Loading early mods
+17:56:50 DEBUG [Main] [Geode]:       absolllute.megahack v8.0.0-alpha.10
+17:56:50 DEBUG [Main] [Geode]:         Unzip
+17:56:50 DEBUG [Main] [Geode]:         Same hash detected, skipping unzip
+17:56:50 INFO  [Main] [Geode]:     Took 0.15s. Continuing next frame...
+17:56:50 DEBUG [Main] [Geode]: Setting up IPC
+17:56:50 DEBUG [Main] [Geode]:   IPC set up
+17:56:50 INFO  [Main] [Geode]: Starting loader update check
+17:56:50 INFO  [Main] [Geode]: Entry took 0.179s
+17:56:54 INFO  [Main] [Geode]: Continuing mod graph refresh...
+17:56:54 DEBUG [Main] [Geode]:   Finding problems
+17:56:54 DEBUG [Main] [Geode]:     geode.loader
+17:56:54 DEBUG [Main] [Geode]:     absolllute.megahack is not enabled
+17:56:54 INFO  [Main] [Geode]:   Took 0s
+17:56:54 DEBUG [Main] [Geode]: Verifying Loader Resources
+17:56:54 DEBUG [Main] [Geode]: Resource hash mismatch: about.md (a21d171, 0dc6276)
+17:56:54 DEBUG [Main] [Geode]: Downloading Loader Resources
+17:56:57 DEBUG [Main] [Geode]: Downloaded Loader Resources
+17:56:57 DEBUG [Main] [Geode]: Loading mod resources
+17:56:57 DEBUG [Main] [Geode]: Adding resources
+17:56:57 DEBUG [Main] [Geode]:   geode.loader
+17:56:57 DEBUG [Main] [Geode]:     Adding sheet geode.loader/LogoSheet
+17:56:57 DEBUG [Main] [Geode]:     Adding sheet geode.loader/APISheet
+17:56:57 DEBUG [Main] [Geode]:     Adding sheet geode.loader/BlankSheet
+17:57:09 DEBUG [Main] [Geode]: Checking updates for index
+17:57:09 DEBUG [Main] [Geode]: Downloading index
+17:57:13 DEBUG [Index Update] [Geode]: Unzipping index
+17:57:15 INFO  [Main] [Geode]: Saving mod data...
+17:57:15 DEBUG [Main] [Geode]:   geode.loader
+17:57:15 DEBUG [Main] [Geode]:     Check covered
+17:57:15 DEBUG [Main] [Geode]:     Check if auto-check-updates is saved
+17:57:15 DEBUG [Main] [Geode]:     Check if show-platform-console is saved
+17:57:15 DEBUG [Main] [Geode]:     Check if disable-last-crashed-popup is saved
+17:57:15 DEBUG [Main] [Geode]:     Check if auto-update-mods is saved
+17:57:15 DEBUG [Main] [Geode]:   absolllute.megahack
+17:57:15 DEBUG [Main] [Geode]:     Check covered
+17:57:15 INFO  [Main] [Geode]:   Took 0.008s

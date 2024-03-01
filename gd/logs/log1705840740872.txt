@@ -1,0 +1,51 @@
+[2024-01-21T12:39:03Z DEBUG ytest2] BASE /// GeometryDash.exe 0x4a0000
+[2024-01-21T12:39:03Z DEBUG ytest2] BASE /// libcocos2d.dll 0x6aa40000
+[2024-01-21T12:39:03Z DEBUG ytest2] BASE /// libExtensions.dll 0x6c530000
+[2024-01-21T12:39:03Z DEBUG ytest2] BASE /// msvcr120.dll 0x6a500000
+[2024-01-21T12:39:03Z DEBUG ytest2] BASE /// zlib1.dll 0x5a4c0000
+[2024-01-21T12:39:03Z DEBUG ytest2] BASE /// mimalloc.dll 0x0
+[2024-01-21T12:39:03Z DEBUG ytest2] BASE /// ybot.dll 0x69c40000
+[2024-01-21T12:39:03Z DEBUG ytest2] yBot 2.1.30-stable
+[2024-01-21T12:39:03Z INFO  ytest2::updater] checking for updates
+[2024-01-21T12:39:03Z DEBUG reqwest::connect] starting new connection: https://ybot.store/
+[2024-01-21T12:39:04Z INFO  ytest2::updater] updating
+[2024-01-21T12:39:04Z INFO  ytest2::updater] yBot is up-to-date
+[2024-01-21T12:39:05Z DEBUG egui_glow::painter] 
+    opengl version: 4.6.0 - Build 30.0.101.1340
+    opengl renderer: Intel(R) UHD Graphics 600
+    opengl vendor: Intel
+[2024-01-21T12:39:05Z DEBUG egui_glow::shader_version] Shader version: Gl140 ("4.60 - Build 30.0.101.1340").
+[2024-01-21T12:39:05Z DEBUG egui_glow::painter] Shader header: "#version 140\n".
+[2024-01-21T12:39:05Z DEBUG egui_glow::painter] SRGB texture Support: true
+[2024-01-21T12:39:06Z DEBUG egui_glow::vao] GL version: "4.6.0 - Build 30.0.101.1340".
+[2024-01-21T12:39:35Z DEBUG ytest2::hooks] entered level
+now playing "Chromaside"
+[2024-01-21T12:39:52Z INFO  ytest2::hooks] exited level
+[2024-01-21T12:40:18Z DEBUG ytest2::hooks] entered level
+[2024-01-21T12:40:57Z INFO  ytest2::hooks] exited level
+[2024-01-21T12:41:33Z DEBUG ytest2::hooks] entered level
+now playing "hi"
+[2024-01-21T12:43:07Z INFO  ytest2::hooks] exited level
+now playing "hi"
+[2024-01-21T12:43:31Z DEBUG ytest2::hooks] entered level
+now playing "acheron"
+[2024-01-21T12:43:56Z INFO  ytest2::hooks] exited level
+[2024-01-21T12:44:32Z DEBUG ytest2::hooks] entered level
+[2024-01-21T12:48:35Z INFO  ytest2::hooks] exited level
+[2024-01-21T12:49:36Z DEBUG ytest2::hooks] entered level
+[2024-01-21T12:50:06Z INFO  ytest2::hooks] exited level
+[2024-01-21T12:50:09Z DEBUG ytest2::hooks] entered level
+[2024-01-21T12:50:17Z INFO  ytest2::hooks] exited level
+[2024-01-21T12:52:15Z DEBUG ytest2::hooks] entered level
+[2024-01-21T12:52:19Z INFO  ytest2::hooks] exited level
+[2024-01-21T12:52:21Z DEBUG ytest2::hooks] entered level
+[2024-01-21T12:52:32Z INFO  ytest2::hooks] exited level
+now playing "dcn"
+[2024-01-21T12:53:10Z DEBUG ytest2::hooks] entered level
+[2024-01-21T12:53:19Z INFO  ytest2::hooks] exited level
+[2024-01-21T12:53:47Z DEBUG ytest2::hooks] entered level
+[2024-01-21T12:53:51Z INFO  ytest2::hooks] exited level
+[2024-01-21T12:54:26Z DEBUG ytest2::hooks] entered level
+[2024-01-21T12:54:35Z INFO  ytest2::hooks] exited level
+[2024-01-21T12:54:41Z DEBUG ytest2::hooks] entered level
+[2024-01-21T12:54:59Z INFO  ytest2::hooks] exited level

@@ -1,0 +1,20 @@
+[2024-01-22T20:19:07Z DEBUG ytest2] BASE /// GeometryDash.exe 0x2f0000
+[2024-01-22T20:19:07Z DEBUG ytest2] BASE /// libcocos2d.dll 0x73700000
+[2024-01-22T20:19:07Z DEBUG ytest2] BASE /// libExtensions.dll 0x738c0000
+[2024-01-22T20:19:07Z DEBUG ytest2] BASE /// msvcr120.dll 0x67030000
+[2024-01-22T20:19:07Z DEBUG ytest2] BASE /// zlib1.dll 0x5a4c0000
+[2024-01-22T20:19:07Z DEBUG ytest2] BASE /// mimalloc.dll 0x744b0000
+[2024-01-22T20:19:07Z DEBUG ytest2] BASE /// ybot.dll 0x66890000
+[2024-01-22T20:19:07Z DEBUG ytest2] yBot 2.1.30-stable
+[2024-01-22T20:19:07Z INFO  ytest2::updater] checking for updates
+[2024-01-22T20:19:07Z DEBUG reqwest::connect] starting new connection: https://ybot.store/
+[2024-01-22T20:19:08Z INFO  ytest2::updater] updating
+[2024-01-22T20:19:08Z INFO  ytest2::updater] yBot is up-to-date
+[2024-01-22T20:19:14Z DEBUG egui_glow::painter] 
+    opengl version: 4.6.0 - Build 30.0.101.1340
+    opengl renderer: Intel(R) UHD Graphics 600
+    opengl vendor: Intel
+[2024-01-22T20:19:14Z DEBUG egui_glow::shader_version] Shader version: Gl140 ("4.60 - Build 30.0.101.1340").
+[2024-01-22T20:19:14Z DEBUG egui_glow::painter] Shader header: "#version 140\n".
+[2024-01-22T20:19:14Z DEBUG egui_glow::painter] SRGB texture Support: true
+[2024-01-22T20:19:14Z DEBUG egui_glow::vao] GL version: "4.6.0 - Build 30.0.101.1340".

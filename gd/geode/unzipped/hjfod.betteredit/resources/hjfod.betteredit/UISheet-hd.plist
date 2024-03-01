@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>hjfod.betteredit/be-button-base.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-1}</string>
+			<key>spriteSize</key>
+			<string>{83,86}</string>
+			<key>spriteSourceSize</key>
+			<string>{83,88}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{83,86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>hjfod.betteredit/be-button-top.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{56,51}</string>
+			<key>spriteSourceSize</key>
+			<string>{56,51}</string>
+			<key>textureRect</key>
+			<string>{{0,85},{56,51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>hjfod.betteredit/be-button.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-1}</string>
+			<key>spriteSize</key>
+			<string>{83,86}</string>
+			<key>spriteSourceSize</key>
+			<string>{83,88}</string>
+			<key>textureRect</key>
+			<string>{{0,138},{83,86}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>realTextureFileName</key>
+		<string>hjfod.betteredit/UISheet-hd.png</string>
+		<key>size</key>
+		<string>{86,221}</string>
+		<key>textureFileName</key>
+		<string>hjfod.betteredit/UISheet-hd.png</string>
+	</dict>
+</dict>
+</plist>

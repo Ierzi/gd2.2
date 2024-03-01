@@ -1,0 +1,71 @@
+2023-08-29T10:21:37+0200
+Whoopsies! An exception has occurred while running Geode.
+
+== Geode Information ==
+Loader Version: v1.2.0
+Installed mods: 17
+Problems: 1
+
+== Exception Information ==
+Faulty Module: C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe
+Faulty Mod: <Unknown>
+Exception Code: c0000005 (EXCEPTION_ACCESS_VIOLATION)
+Exception Flags: 0
+Exception Address: 008AE4F0 (GeometryDash.exe + ee4f0)
+Number Parameters: 2
+
+== Stack Trace ==
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + ee4f0
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + ecf88
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 20155a
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 1fc42f
+ - 0E4A24F6
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\mat.fps-bypass\mat.fps-bypass.dll + 5ba6
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\mat.fps-bypass\mat.fps-bypass.dll + 290e
+ - 0E4A2357
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\cvolton.betterinfo\cvolton.betterinfo.dll + 38853
+ - 0E4A2357
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 1fb6b5
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 179b14
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 86bef (cocos2d::CCCallFunc::execute + 15)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 8d5c4 (cocos2d::CCActionInterval::step + 180)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 8f6b4 (cocos2d::CCActionManager::update + 116)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 103482 (cocos2d::CCScheduler::update + 82)
+ - 01323676
+ - 013234D7
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + ffb2d (cocos2d::CCDirector::levelForSceneInStack + 125)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 261175
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 2621fd
+ - C:\Windows\System32\KERNEL32.DLL + 16ba9 (BaseThreadInitThunk + 25)
+ - C:\Windows\SYSTEM32\ntdll.dll + 68f9f (RtlGetFullPathName_UEx + 1215)
+ - C:\Windows\SYSTEM32\ntdll.dll + 68f6d (RtlGetFullPathName_UEx + 1165)
+
+== Register States ==
+EAX: 1999a650
+EBX: 15c03ef8
+ECX: 540be3ff
+EDX: 188a96b8
+EBP: 12ff12c
+ESP: 12ff10c
+EDI: 1b0fb9b8
+ESI: 1b0fb9b8
+EIP: 8ae4f0
+
+== Installed Mods ==
+camila314.acbypass | camila314 | v1.0.0 | Enabled | Loaded | 
+chs.confirmquit | chs000 | v1.0.0 | Enabled | Loaded | 
+geode.loader | Geode Team | v1.2.0 | Enabled | Loaded | 
+alk.editorcollab | alk | v1.12.4-beta | Enabled | Loaded | 
+alk.fps-shower | alk | v1.0.1 | Enabled | Loaded | 
+camila314.demonlist-button | camila314 | v1.0.0 | Enabled | Loaded | 
+camila314.noclip | camila314 | v1.0.0 | Disabled | Loaded | 
+chs000.modmenutest | chs000 | v0.1.2 | Enabled | Loaded | 
+cvolton.betterinfo | Cvolton | v3.0.2 | Enabled | Loaded | 
+cvolton.capacity_fix | Cvolton | v1.0.1 | Enabled | Loaded | 
+hjfod.custom-keybinds | HJfod | v1.0.0 | Enabled | Loaded | 
+mat.fps-bypass | mat | v1.0.3 | Enabled | Loaded | 
+mat.practice-music | mat | v1.0.3 | Enabled | Loaded | 
+mat.scroll-zoom | mat | v1.0.0 | Enabled | Loaded | 
+rlt.gd-platformer | RLT | v1.0.0 | Disabled | Loaded | 
+ruslan.apm | ruslan | v1.0.0 | Disabled | Loaded | 
+ruslan.nm | ruslan | v1.0.0 | Disabled | Unloaded | 

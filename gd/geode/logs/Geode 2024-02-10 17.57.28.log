@@ -1,0 +1,189 @@
+17:57:28 INFO  [Main] [Geode]: Running Geode v2.0.0-beta.17 in Geometry Dash v2.204
+17:57:28 INFO  [Main] [Geode]: Setting up internal mod
+17:57:28 INFO  [Main] [Geode]: Setting up loader
+17:57:28 DEBUG [Main] [Geode]:   Loading launch arguments
+17:57:28 DEBUG [Main] [Geode]:   Setting up crash handler
+17:57:28 DEBUG [Main] [Geode]:   Loading hooks
+17:57:28 DEBUG [Main] [Geode]:     Enabled cocos2d::CCFileUtils::fullPathForFilename hook at 0x69530f40 for geode.loader
+17:57:28 DEBUG [Main] [Geode]:     Enabled cocos2d::CCFileUtils::sharedFileUtils hook at 0x69539770 for geode.loader
+17:57:28 DEBUG [Main] [Geode]:     Enabled cocos2d::CCNode::getUserObject hook at 0x695831f0 for geode.loader
+17:57:28 DEBUG [Main] [Geode]:     Enabled cocos2d::CCNode::setUserObject hook at 0x694d15a0 for geode.loader
+17:57:28 DEBUG [Main] [Geode]:     Enabled AchievementNotifier::willSwitchToScene hook at 0xc1c200 for geode.loader
+17:57:28 DEBUG [Main] [Geode]:     Enabled AppDelegate::trySaveGame hook at 0xc5b790 for geode.loader
+17:57:28 DEBUG [Main] [Geode]:     Enabled cocos2d::CCScheduler::update hook at 0x69576db0 for geode.loader
+17:57:28 DEBUG [Main] [Geode]:     Enabled CCTextInputNode::ccTouchBegan hook at 0xc304f0 for geode.loader
+17:57:28 DEBUG [Main] [Geode]:     Enabled LoadingLayer::loadAssets hook at 0xe76bd0 for geode.loader
+17:57:28 DEBUG [Main] [Geode]:     Enabled LoadingLayer::init hook at 0xe76370 for geode.loader
+17:57:28 DEBUG [Main] [Geode]:     Enabled LoadingLayer::loadAssets hook at 0xe76bd0 for geode.loader
+17:57:28 DEBUG [Main] [Geode]:     Enabled MenuLayer::init hook at 0xe7b450 for geode.loader
+17:57:28 DEBUG [Main] [Geode]:   Setting up directories
+17:57:28 INFO  [Main] [Geode]:   Refreshing mod graph
+17:57:28 DEBUG [Main] [Geode]:     Queueing mods
+17:57:28 DEBUG [Main] [Geode]:       Searching C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods
+17:57:28 DEBUG [Main] [Geode]:         Found absolllute.megahack.geode
+17:57:28 DEBUG [Main] [Geode]:           id: absolllute.megahack
+17:57:28 DEBUG [Main] [Geode]:           version: v8.0.0-alpha.10
+17:57:28 DEBUG [Main] [Geode]:           early: yes
+17:57:28 DEBUG [Main] [Geode]:         Found alk.editorcollab.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\alk.editorcollab.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found alk.fps-shower.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\alk.fps-shower.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found camila314.acbypass.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\camila314.acbypass.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found camila314.demonlist-button.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\camila314.demonlist-button.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found camila314.noclip.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\camila314.noclip.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found chs.confirmquit.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\chs.confirmquit.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found cvolton.betterinfo.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\cvolton.betterinfo.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found cvolton.capacity_fix.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\cvolton.capacity_fix.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found fleym.nongd.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\fleym.nongd.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found hjfod.custom-keybinds.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\hjfod.custom-keybinds.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found mat.fps-bypass.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.fps-bypass.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found mat.practice-music.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.practice-music.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found mat.run-info.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.run-info.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found mat.scroll-zoom.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\mat.scroll-zoom.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found rlt.gd-platformer.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\rlt.gd-platformer.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found ruslan.apm.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\ruslan.apm.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:         Found ruslan.nm.geode
+17:57:28 ERROR [Main] [Geode]:           Failed to queue: "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\mods\ruslan.nm.geode" - [mod.json] is missing target GD version
+17:57:28 DEBUG [Main] [Geode]:     Populating mod list
+17:57:28 DEBUG [Main] [Geode]:       absolllute.megahack v8.0.0-alpha.10
+17:57:28 DEBUG [Main] [Geode]:     Building mod graph
+17:57:28 DEBUG [Main] [Geode]:       geode.loader
+17:57:28 DEBUG [Main] [Geode]:       absolllute.megahack
+17:57:28 DEBUG [Main] [Geode]:         geode.loader
+17:57:28 DEBUG [Main] [Geode]:     Loading early mods
+17:57:28 DEBUG [Main] [Geode]:       absolllute.megahack v8.0.0-alpha.10
+17:57:28 DEBUG [Main] [Geode]:         Unzip
+17:57:28 DEBUG [Main] [Geode]:         Same hash detected, skipping unzip
+17:57:28 DEBUG [Main] [Geode]:         Load
+17:57:28 DEBUG [Main] [Geode]:         Loading binary for mod absolllute.megahack
+17:57:38 INFO  [Main] [Geode]:     Took 10.121s. Continuing next frame...
+17:57:38 DEBUG [Main] [Geode]: Setting up IPC
+17:57:38 DEBUG [Main] [Geode]:   IPC set up
+17:57:38 INFO  [Main] [Geode]: Starting loader update check
+17:57:38 INFO  [Main] [Geode]: Entry took 10.182s
+17:57:43 INFO  [Main] [Geode]: Continuing mod graph refresh...
+17:57:43 DEBUG [Main] [Geode]:   Finding problems
+17:57:43 DEBUG [Main] [Geode]:     geode.loader
+17:57:43 DEBUG [Main] [Geode]:     absolllute.megahack
+17:57:43 INFO  [Main] [Geode]:   Took 0s
+17:57:43 ERROR [Main] [Geode]: Failed to fetch updates Empty response
+17:57:44 DEBUG [Main] [Geode]: Enabled GameManager::isIconUnlocked hook at 0xd21f90 for absolllute.megahack
+17:57:44 DEBUG [Main] [Geode]: Enabled GameManager::isColorUnlocked hook at 0xd22490 for absolllute.megahack
+17:57:44 DEBUG [Main] [Geode]: Enabled GameManager::setGameVariable hook at 0xd284e0 for absolllute.megahack
+17:57:44 DEBUG [Main] [Geode]: Enabled GameManager::getGameVariable hook at 0xd28730 for absolllute.megahack
+17:57:44 DEBUG [Main] [Geode]: Enabled MenuLayer::init hook at 0xe7b450 for absolllute.megahack
+17:57:44 DEBUG [Main] [Geode]: Verifying Loader Resources
+17:57:44 DEBUG [Main] [Geode]: Loading Loader Resources
+17:57:44 DEBUG [Main] [Geode]: Loading mod resources
+17:57:44 DEBUG [Main] [Geode]: Adding resources
+17:57:44 DEBUG [Main] [Geode]:   geode.loader
+17:57:44 DEBUG [Main] [Geode]:     Adding sheet geode.loader/LogoSheet
+17:57:44 DEBUG [Main] [Geode]:     Adding sheet geode.loader/APISheet
+17:57:44 DEBUG [Main] [Geode]:     Adding sheet geode.loader/BlankSheet
+17:57:58 DEBUG [Main] [Geode]: Checking updates for index
+17:57:58 DEBUG [Main] [Geode]: Downloading index
+17:58:02 DEBUG [Index Update] [Geode]: Unzipping index
+17:58:30 DEBUG [Index Update] [Geode]: Updating local index cache
+17:58:34 DEBUG [Main] [Geode]: Enabled FMODChannelControl::setVolume hook at 0x692bb180 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled FMODChannelControl::setPitch hook at 0x692baf00 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled cocos2dCCParticleSystem::loadScaledDefaults hook at 0x6952bba0 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled cocos2dCCTransitionFade::create hook at 0x69517710 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled cocos2dCCTransitionMoveInT::create hook at 0x695181f0 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled cocos2dCCDirector::drawScene hook at 0x69572ae0 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled cocos2dCCScheduler::update hook at 0x69576db0 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled cocos2dCCIMEDelegate::attachWithIME hook at 0x69569ea0 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled cocos2dCCIMEDelegate::detachWithIME hook at 0x69569f20 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled AppDelegate::trySaveGame hook at 0xc5b790 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled GameStatsManager::isItemUnlocked hook at 0xd76570 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled ColorAction::setupFromString hook at 0x11d9950 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled GameObject::createWithKey hook at 0xd30330 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled UILayer::init hook at 0xfbec10 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled UILayer::keyDown hook at 0xfbf930 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled UILayer::keyUp hook at 0xfbf950 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled PauseLayer::customSetup hook at 0xeb89f0 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled PauseLayer::onResume hook at 0xeb9f30 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled EndLevelLayer::customSetup hook at 0xce74f0 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled EndLevelLayer::keyDown hook at 0xcea310 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled ShaderLayer::visit hook at 0xf83810 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled LevelInfoLayer::onPlay hook at 0xe555b0 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled PlayerObject::togglePlayerScale hook at 0xed9170 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled GJBaseGameLayer::handleButton hook at 0xdb69f0 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled GJBaseGameLayer::processCommands hook at 0xdbd240 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled GJBaseGameLayer::resetLevelVariables hook at 0xdbdb10 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled GJBaseGameLayer::init hook at 0xd90290 for absolllute.megahack
+17:58:34 DEBUG [Main] [Geode]: Enabled GJBaseGameLayer::visit hook at 0xdc8ea0 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::_destructor hook at 0xedc080 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::init hook at 0xedc4a0 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::startGame hook at 0xeddab0 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::onQuit hook at 0xeeb480 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::postUpdate hook at 0xee7220 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::addObject hook at 0xee19b0 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::destroyPlayer hook at 0xee6730 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::resetLevel hook at 0xeea130 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::updateAttempts hook at 0xeeab40 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::pauseGame hook at 0xeeae80 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::createCheckpoint hook at 0xee76e0 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::markCheckpoint hook at 0xee8550 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::storeCheckpoint hook at 0xee84a0 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::playEndAnimationToPos hook at 0xedfe00 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::playPlatformerEndAnimationToPos hook at 0xee05e0 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::applyEnterEffect hook at 0xee47d0 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::applyCustomEnterEffect hook at 0xee3f50 for absolllute.megahack
+17:58:35 DEBUG [Main] [Geode]: Enabled PlayLayer::updateProgressbar hook at 0xee5440 for absolllute.megahack
+18:00:03 DEBUG [Index Update] [Geode]:   Done
+18:03:15 DEBUG [Main] [Geode]: Installing geode.node-ids
+18:03:16 DEBUG [Main] [Geode]: Installed geode.node-ids
+18:03:16 DEBUG [Main] [Geode]: Installing thesillydoggo.animatedprofiles
+18:03:16 DEBUG [Main] [Geode]: Installed thesillydoggo.animatedprofiles
+18:03:25 DEBUG [Main] [Geode]: Installing abb2k.backup
+18:03:26 DEBUG [Main] [Geode]: Installed abb2k.backup
+18:03:49 DEBUG [Main] [Geode]: Installing geode.node-ids
+18:03:50 DEBUG [Main] [Geode]: Installed geode.node-ids
+18:03:50 DEBUG [Main] [Geode]: Installing cvolton.betterinfo
+18:03:52 DEBUG [Main] [Geode]: Installed cvolton.betterinfo
+18:03:56 DEBUG [Main] [Geode]: Installing elnexreal.copy_song_id
+18:03:57 DEBUG [Main] [Geode]: Installed elnexreal.copy_song_id
+18:08:52 DEBUG [Main] [Geode]: Installing geode.node-ids
+18:08:54 DEBUG [Main] [Geode]: Installed geode.node-ids
+18:08:54 DEBUG [Main] [Geode]: Installing bitz.customprofiles
+18:08:54 DEBUG [Main] [Geode]: Installed bitz.customprofiles
+18:09:12 DEBUG [Main] [Geode]: Installing thesillydoggo.better_startpos_menu
+18:09:13 DEBUG [Main] [Geode]: Installed thesillydoggo.better_startpos_menu
+18:09:17 DEBUG [Main] [Geode]: Installing geode.custom-keybinds
+18:09:18 DEBUG [Main] [Geode]: Installed geode.custom-keybinds
+18:09:30 DEBUG [Main] [Geode]: Installing elohmrow.death_tracker
+18:09:31 DEBUG [Main] [Geode]: Installed elohmrow.death_tracker
+18:11:48 DEBUG [Main] [Geode]: Installing colon.gold_user_coins
+18:11:49 DEBUG [Main] [Geode]: Installed colon.gold_user_coins
+18:12:07 DEBUG [Main] [Geode]: Installing adyagd.godlikefaces
+18:12:08 DEBUG [Main] [Geode]: Installed adyagd.godlikefaces
+18:12:21 DEBUG [Main] [Geode]: Installing TheSillyDoggo.GradientPages
+18:12:23 DEBUG [Main] [Geode]: Installed TheSillyDoggo.GradientPages
+18:12:30 DEBUG [Main] [Geode]: Installing hjfod.gmd-api
+18:12:31 DEBUG [Main] [Geode]: Installed hjfod.gmd-api
+18:12:31 DEBUG [Main] [Geode]: Installing geode.node-ids
+18:12:32 DEBUG [Main] [Geode]: Installed geode.node-ids
+18:12:32 DEBUG [Main] [Geode]: Installing hjfod.gdshare
+18:12:33 DEBUG [Main] [Geode]: Installed hjfod.gdshare
+18:13:00 DEBUG [Main] [Geode]: Installing capeling.icon_profile_2.2
+18:13:01 DEBUG [Main] [Geode]: Installed capeling.icon_profile_2.2
+18:15:14 DEBUG [Main] [Geode]: Installing geode.custom-keybinds
+18:15:15 DEBUG [Main] [Geode]: Installed geode.custom-keybinds
+18:15:15 DEBUG [Main] [Geode]: Installing dankmeme.globed2
+18:15:16 DEBUG [Main] [Geode]: Installed dankmeme.globed2
+18:15:48 DEBUG [Main] [Geode]: Installing gdutilsdevs.gdutils
+18:15:51 DEBUG [Main] [Geode]: Installed gdutilsdevs.gdutils

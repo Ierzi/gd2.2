@@ -1,0 +1,7 @@
+21:58:24 [Geode]: Set up platform crash logger
+21:58:24 [Geode]: Setting up Loader...
+21:58:24 [Geode]: Set up internal mod representation
+21:58:24 [Geode]: Loading hooks... 
+21:58:24 [Geode]: Enabling hook at function cocos2d::CCFileUtils::fullPathForFilename with address 695BDB50
+21:58:24 [Geode]: Enabling hook at function cocos2d::CCFileUtils::sharedFileUtils with address 695C5DC0
+21:58:24 [Geode]: Enabling hook at function cocos2d::CCNode::getUserObject with address 6955F570

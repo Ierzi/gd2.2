@@ -1,0 +1,100 @@
+2024-02-20T14:34:16+0100
+Whoopsies! An unhandled exception has occurred.
+
+== Geode Information ==
+Loader Version: v2.0.0-beta.20
+Loader Commit: 453fac9
+Bindings Commit: 60e063e
+Installed mods: 31
+Problems: 15
+
+== Exception Information ==
+C++ Exception: class std::bad_alloc("bad allocation")
+Faulty Mod: <Unknown>
+
+== Stack Trace ==
+ - C:\WINDOWS\System32\KERNELBASE.dll + 149392 (RaiseException + 98)
+ - C:\WINDOWS\SYSTEM32\MSVCR120.dll + 19339 (CxxThrowException + 78)
+ - C:\WINDOWS\SYSTEM32\MSVCR120.dll + 5da6a (fcloseall + 34608)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 624c7 (CCContentManager::addDictDS + 471)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 61f9d (DS_Dictionary::~DS_Dictionary + 445)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 6209a (DS_Dictionary::~DS_Dictionary + 698)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 647a4 (cocos2d::CCPrettyPrinter::~CCPrettyPrinter + 692)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + ec2aa (cocos2d::ZipUtils::compressString + 218)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 76c1c (DS_Dictionary::saveRootSubDictToCompressedFile + 444)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 47624
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 5b879
+ - 011D2956
+ - 011D2777
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\Geode.dll + 49bab (geode::SettingValueSetter<bool>::operator= + 28347)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 31b1a
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + ad27d (cocos2d::CCMenu::ccTouchEnded + 29)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + f8b5b (cocos2d::CCTouchDispatcher::touches + 331)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + f8df9 (cocos2d::CCTouchDispatcher::touchesEnded + 25)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + be92c (cocos2d::CCEGLViewProtocol::handleTouchesEnd + 92)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + c7922 (cocos2d::CCEGLView::onGLFWMouseCallBack + 210)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + c794e (cocos2d::CCEGLView::onGLFWMouseCallBack + 254)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 116cc9 (cocos2d::CCPoint::unrotate + 8073)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 118819 (cocos2d::CCPoint::unrotate + 15065)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\absolllute.megahack\absolllute.megahack.dll + 10eb4c
+ - C:\WINDOWS\System32\USER32.dll + 32e53 (Ordinal2713 + 1715)
+ - C:\WINDOWS\System32\USER32.dll + 23c26 (CallWindowProcW + 1814)
+ - C:\WINDOWS\System32\USER32.dll + 23597 (CallWindowProcW + 135)
+ - C:\WINDOWS\SYSTEM32\OPENGL32.dll + 3be09 (glDebugEntry + 3849)
+ - C:\WINDOWS\System32\USER32.dll + 32e53 (Ordinal2713 + 1715)
+ - C:\WINDOWS\System32\USER32.dll + 23c26 (CallWindowProcW + 1814)
+ - C:\WINDOWS\System32\USER32.dll + 224e5 (DispatchMessageW + 1221)
+ - C:\WINDOWS\System32\USER32.dll + 22030 (DispatchMessageW + 16)
+ - C:\Program Files (x86)\Steam\gameoverlayrenderer.dll + 83090 (OverlayHookD3D3 + 121824)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 117472 (cocos2d::CCPoint::unrotate + 10034)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + c4dd0 (cocos2d::CCApplication::run + 720)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 3c12d8
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\Geode.dll + 16f4d4 (crashlog::setupPlatformHandlerPost + 3956)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 3c267e
+ - C:\WINDOWS\System32\KERNEL32.DLL + 17ba9 (BaseThreadInitThunk + 25)
+ - C:\WINDOWS\SYSTEM32\ntdll.dll + 6bd2b (RtlInitializeExceptionChain + 107)
+ - C:\WINDOWS\SYSTEM32\ntdll.dll + 6bcaf (RtlClearBits + 191)
+
+== Register States ==
+EAX: 0118e4d0
+EBX: 00000000
+ECX: 00000003
+EDX: 00000000
+EBP: 0118e528
+ESP: 0118e4d0
+EDI: 0118e578
+ESI: 6e00c7fc
+EIP: 751a9392
+
+== Installed Mods ==
+x | [v1.0.4] abb2k.backup
+x | [v8.0.0-alpha.10] absolllute.megahack
+  | [v1.1.1] adyagd.godlikefaces
+  | [v1.3.4] alphalaneous.integratedloquibot
+x | [v1.1.2] alphalaneous.projectedstars
+x | [v1.4.1] beat.click-sound
+x | [v1.0.5] bitz.customprofiles
+x | [v1.1.4] capeling.icon_profile_2.2
+x | [v1.0.1] coderqc.gdswearfilter
+x | [v1.0.1] colon.gold_user_coins
+x | [v1.2.2] coopeeo.customname
+x | [v4.0.0-alpha.13] cvolton.betterinfo
+x | [v1.1.2] dankmeme.globed2
+x | [v1.2.2] elnexreal.copy_song_id
+x | [v1.4.3] elohmrow.death_tracker
+x | [v1.2.14] gdutilsdevs.gdutils
+x | [v1.4.0] geode.custom-keybinds
+x | [v2.0.0-beta.20] geode.loader
+x | [v1.3.0] geode.node-ids
+x | [v6.0.0] hjfod.betteredit
+x | [v1.0.4] hjfod.gdshare
+x | [v1.0.1] hjfod.gmd-api
+x | [v1.0.2] mat.run-info
+x | [v1.0.4-beta.12] muhammadgames.bettermenu
+x | [v1.1.0] redlime.statchanges
+x | [v1.0.1] thesillydoggo.animatedprofiles
+x | [v1.1.0] thesillydoggo.better_startpos_menu
+x | [v1.0.0] thesillydoggo.entersearch
+x | [v2.1.0] TheSillyDoggo.GradientPages
+x | [v1.5.5] tpdea.betterpause-Better
+x | [v1.0.0] xanii.youtubers

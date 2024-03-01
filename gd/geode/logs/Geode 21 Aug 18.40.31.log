@@ -1,0 +1,78 @@
+18:40:31 [Geode]: Set up platform crash logger
+18:40:31 [Geode]: Setting up Loader...
+18:40:31 [Geode]: Set up internal mod representation
+18:40:31 [Geode]: Loading hooks... 
+18:40:31 [Geode]: Enabling hook at function cocos2d::CCFileUtils::sharedFileUtils with address 688B5DC0
+18:40:31 [Geode]: Enabling hook at function cocos2d::CCNode::getUserObject with address 6884F570
+18:40:31 [Geode]: Enabling hook at function cocos2d::CCNode::setUserObject with address 68850700
+18:40:31 [Geode]: Enabling hook at function LoadingLayer::init with address 010AC080
+18:40:31 [Geode]: Enabling hook at function LoadingLayer::loadAssets with address 010AC8E0
+18:40:31 [Geode]: Enabling hook at function GJBaseGameLayer::collectItem with address 01031890
+18:40:31 [Geode]: Enabling hook at function GJBaseGameLayer::collectedObject with address 01031830
+18:40:31 [Geode]: Enabling hook at function cocos2d::CCTouchDispatcher::addTargetedDelegate with address 688E5020
+18:40:31 [Geode]: Enabling hook at function cocos2d::CCTouchDispatcher::decrementForcePrio with address 688E50A0
+18:40:31 [Geode]: Enabling hook at function cocos2d::CCTouchDispatcher::incrementForcePrio with address 688E5320
+18:40:31 [Geode]: Enabling hook at function AchievementNotifier::willSwitchToScene with address 00F2FEA0
+18:40:31 [Geode]: Enabling hook at function AppDelegate::trySaveGame with address 00F5D5E0
+18:40:31 [Geode]: Enabling hook at function cocos2d::CCScheduler::update with address 688F3430
+18:40:31 [Geode]: Enabling hook at function LoadingLayer::loadAssets with address 010AC8E0
+18:40:31 [Geode]: Enabling hook at function CCTextInputNode::init with address 00F40E50
+18:40:31 [Geode]: Enabling hook at function CCTextInputNode::updateLabel with address 00F41190
+18:40:31 [Geode]: Enabling hook at function CreatorLayer::init with address 00F6DE40
+18:40:31 [Geode]: Enabling hook at function CustomSongWidget::init with address 00F885B0
+18:40:31 [Geode]: Enabling hook at function CustomizeObjectLayer::init with address 00F73E00
+18:40:31 [Geode]: Enabling hook at function CustomizeObjectLayer::toggleVisible with address 00F76FB0
+18:40:31 [Geode]: Enabling hook at function EditLevelLayer::init with address 00F8F5D0
+18:40:31 [Geode]: Enabling hook at function EditorPauseLayer::init with address 00F930E0
+18:40:31 [Geode]: Enabling hook at function EditorUI::init with address 00F96310
+18:40:31 [Geode]: Enabling hook at function GJGarageLayer::init with address 010455D0
+18:40:31 [Geode]: Enabling hook at function LevelBrowserLayer::init with address 0107A040
+18:40:31 [Geode]: Enabling hook at function LevelInfoLayer::init with address 01095DF0
+18:40:31 [Geode]: Enabling hook at function LevelSearchLayer::init with address 0109DA60
+18:40:31 [Geode]: Enabling hook at function LevelSettingsLayer::init with address 01090E50
+18:40:31 [Geode]: Enabling hook at function PauseLayer::customSetup with address 01104620
+18:40:31 [Geode]: Enabling hook at function UILayer::init with address 0117F3B0
+18:40:31 [Geode]: Enabling hook at function LoadingLayer::loadAssets with address 010AC8E0
+18:40:31 [Geode]: Enabling hook at function MenuLayer::init with address 010B07B0
+18:40:31 [Geode]: Loaded hooks
+18:40:31 [Geode]: Setting up IPC...
+18:40:31 [Geode]: IPC set up
+18:40:31 [Geode]: Refreshing mod graph...
+18:40:31 [Geode]:   Queueing mods
+18:40:31 [Geode]:     Searching "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Geometry Dash\\geode\\mods"
+18:40:31 [Geode]:   Populating mod list
+18:40:31 [Geode]:   Building mod graph
+18:40:31 [Geode]:     geode.loader
+18:40:31 [Geode]:   Loading early mods
+18:40:31 [Geode]:   Took 0s. Continuing next frame...
+18:40:31 [Geode]: Set up loader
+18:40:31 [Geode]: Entry done.
+18:40:36 [Geode]: Continuing mod graph refresh...
+18:40:36 [Geode]:   Finding problems
+18:40:36 [Geode]:     geode.loader
+18:40:36 [Geode]:   Took 0s
+18:40:39 [Geode]: Adding resources
+18:40:39 [Geode]: Adding resources for geode.loader
+18:40:39 [Geode]: Adding sheet geode.loader/LogoSheet
+18:40:39 [Geode]: Adding sheet geode.loader/APISheet
+18:40:39 [Geode]: Adding sheet geode.loader/BlankSheet
+18:40:39 [Geode]: Checking updates for index
+18:40:40 [Geode]: Updating local index cache
+18:40:40 [Geode]: balt.freewindow: [mod.json].binary has been removed.
+18:40:40 [Geode]: camila314.noclip: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+18:40:40 [Geode]: camila314.startswitcher: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+18:40:40 [Geode]: chs000.modmenutest: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+18:40:40 [Geode]: chs000.modmenutest: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+18:40:40 [Geode]: hjfod.gdshare: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+19:06:18 [Geode]: Saving...
+19:06:18 [Geode]: Check covered
+19:06:18 [Geode]: Check if auto-check-updates is saved
+19:06:18 [Geode]: Check if show-platform-console is saved
+19:06:18 [Geode]: Check if disable-last-crashed-popup is saved
+19:06:18 [Geode]: Check if auto-update-mods is saved
+19:06:18 [Geode]: Check covered
+19:06:18 [Geode]: Check if auto-check-updates is saved
+19:06:18 [Geode]: Check if show-platform-console is saved
+19:06:18 [Geode]: Check if disable-last-crashed-popup is saved
+19:06:18 [Geode]: Check if auto-update-mods is saved
+19:06:18 [Geode]: Saved

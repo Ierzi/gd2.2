@@ -1,0 +1,1153 @@
+10:24:45 [Geode]: Set up platform crash logger
+10:24:45 [Geode]: Setting up Loader...
+10:24:45 [Geode]: Set up internal mod representation
+10:24:45 [Geode]: Loading hooks... 
+10:24:45 [Geode]: Enabling hook at function cocos2d::CCFileUtils::sharedFileUtils with address 69235DC0
+10:24:45 [Geode]: Enabling hook at function cocos2d::CCNode::getUserObject with address 691CF570
+10:24:45 [Geode]: Enabling hook at function cocos2d::CCNode::setUserObject with address 691D0700
+10:24:45 [Geode]: Enabling hook at function LoadingLayer::init with address 00F8C080
+10:24:45 [Geode]: Enabling hook at function LoadingLayer::loadAssets with address 00F8C8E0
+10:24:45 [Geode]: Enabling hook at function GJBaseGameLayer::collectItem with address 00F11890
+10:24:45 [Geode]: Enabling hook at function GJBaseGameLayer::collectedObject with address 00F11830
+10:24:45 [Geode]: Enabling hook at function cocos2d::CCTouchDispatcher::addTargetedDelegate with address 69265020
+10:24:45 [Geode]: Enabling hook at function cocos2d::CCTouchDispatcher::decrementForcePrio with address 692650A0
+10:24:45 [Geode]: Enabling hook at function cocos2d::CCTouchDispatcher::incrementForcePrio with address 69265320
+10:24:45 [Geode]: Enabling hook at function AchievementNotifier::willSwitchToScene with address 00E0FEA0
+10:24:45 [Geode]: Enabling hook at function AppDelegate::trySaveGame with address 00E3D5E0
+10:24:45 [Geode]: Enabling hook at function cocos2d::CCScheduler::update with address 69273430
+10:24:45 [Geode]: Enabling hook at function LoadingLayer::loadAssets with address 00F8C8E0
+10:24:45 [Geode]: Enabling hook at function CCTextInputNode::init with address 00E20E50
+10:24:45 [Geode]: Enabling hook at function CCTextInputNode::updateLabel with address 00E21190
+10:24:45 [Geode]: Enabling hook at function CreatorLayer::init with address 00E4DE40
+10:24:45 [Geode]: Enabling hook at function CustomSongWidget::init with address 00E685B0
+10:24:45 [Geode]: Enabling hook at function CustomizeObjectLayer::init with address 00E53E00
+10:24:45 [Geode]: Enabling hook at function CustomizeObjectLayer::toggleVisible with address 00E56FB0
+10:24:45 [Geode]: Enabling hook at function EditLevelLayer::init with address 00E6F5D0
+10:24:45 [Geode]: Enabling hook at function EditorPauseLayer::init with address 00E730E0
+10:24:45 [Geode]: Enabling hook at function EditorUI::init with address 00E76310
+10:24:45 [Geode]: Enabling hook at function GJGarageLayer::init with address 00F255D0
+10:24:45 [Geode]: Enabling hook at function LevelBrowserLayer::init with address 00F5A040
+10:24:45 [Geode]: Enabling hook at function LevelInfoLayer::init with address 00F75DF0
+10:24:45 [Geode]: Enabling hook at function LevelSearchLayer::init with address 00F7DA60
+10:24:45 [Geode]: Enabling hook at function LevelSettingsLayer::init with address 00F70E50
+10:24:45 [Geode]: Enabling hook at function PauseLayer::customSetup with address 00FE4620
+10:24:45 [Geode]: Enabling hook at function UILayer::init with address 0105F3B0
+10:24:45 [Geode]: Enabling hook at function LoadingLayer::loadAssets with address 00F8C8E0
+10:24:45 [Geode]: Enabling hook at function MenuLayer::init with address 00F907B0
+10:24:45 [Geode]: Loaded hooks
+10:24:45 [Geode]: Setting up IPC...
+10:24:45 [Geode]: IPC set up
+10:24:46 [Geode]: Refreshing mod graph...
+10:24:46 [Geode]:   Queueing mods
+10:24:46 [Geode]:     Searching "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Geometry Dash\\geode\\mods"
+10:24:46 [Geode]:       Found "alk.editorcollab.geode"
+10:24:46 [Geode]:         id: alk.editorcollab
+10:24:46 [Geode]:         version: v1.12.4-beta
+10:24:46 [Geode]:         early: no
+10:24:46 [Geode]:       Found "alk.fps-shower.geode"
+10:24:46 [Geode]:         id: alk.fps-shower
+10:24:46 [Geode]:         version: v1.0.1
+10:24:46 [Geode]:         early: no
+10:24:46 [Geode]:       Found "camila314.acbypass.geode"
+10:24:46 [Geode]:         id: camila314.acbypass
+10:24:46 [Geode]:         version: v1.0.0
+10:24:46 [Geode]:         early: no
+10:24:46 [Geode]:       Found "camila314.demonlist-button.geode"
+10:24:46 [Geode]:         id: camila314.demonlist-button
+10:24:46 [Geode]:         version: v1.0.0
+10:24:46 [Geode]:         early: no
+10:24:46 [Geode]:       Found "camila314.noclip.geode"
+10:24:46 [Geode]:         camila314.noclip: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+10:24:46 [Geode]:         id: camila314.noclip
+10:24:46 [Geode]:         version: v1.0.0
+10:24:46 [Geode]:         early: no
+10:24:46 [Geode]:       Found "chs.confirmquit.geode"
+10:24:46 [Geode]:         id: chs.confirmquit
+10:24:46 [Geode]:         version: v1.0.0
+10:24:46 [Geode]:         early: no
+10:24:46 [Geode]:       Found "cvolton.betterinfo.geode"
+10:24:46 [Geode]:         id: cvolton.betterinfo
+10:24:46 [Geode]:         version: v3.0.2
+10:24:46 [Geode]:         early: no
+10:24:46 [Geode]:       Found "hjfod.custom-keybinds.geode"
+10:24:46 [Geode]:         id: hjfod.custom-keybinds
+10:24:46 [Geode]:         version: v1.0.0
+10:24:46 [Geode]:         early: no
+10:24:46 [Geode]:       Found "mat.practice-music.geode"
+10:24:46 [Geode]:         id: mat.practice-music
+10:24:46 [Geode]:         version: v1.0.3
+10:24:46 [Geode]:         early: no
+10:24:46 [Geode]:       Found "mat.scroll-zoom.geode"
+10:24:46 [Geode]:         id: mat.scroll-zoom
+10:24:46 [Geode]:         version: v1.0.0
+10:24:46 [Geode]:         early: no
+10:24:46 [Geode]:       Found "rlt.gd-platformer.geode"
+10:24:46 [Geode]:         id: rlt.gd-platformer
+10:24:46 [Geode]:         version: v1.0.0
+10:24:46 [Geode]:         early: no
+10:24:46 [Geode]:       Found "ruslan.apm.geode"
+10:24:46 [Geode]:         id: ruslan.apm
+10:24:46 [Geode]:         version: v1.0.0
+10:24:46 [Geode]:         early: no
+10:24:46 [Geode]:   Populating mod list
+10:24:46 [Geode]:     alk.editorcollab v1.12.4-beta
+10:24:46 [Geode]:     alk.fps-shower v1.0.1
+10:24:47 [Geode]:     camila314.acbypass v1.0.0
+10:24:47 [Geode]:     camila314.demonlist-button v1.0.0
+10:24:47 [Geode]:     camila314.noclip v1.0.0
+10:24:47 [Geode]:     chs.confirmquit v1.0.0
+10:24:47 [Geode]:     cvolton.betterinfo v3.0.2
+10:24:48 [Geode]:     hjfod.custom-keybinds v1.0.0
+10:24:48 [Geode]:     mat.practice-music v1.0.3
+10:24:49 [Geode]:     mat.scroll-zoom v1.0.0
+10:24:49 [Geode]:     rlt.gd-platformer v1.0.0
+10:24:49 [Geode]:     ruslan.apm v1.0.0
+10:24:49 [Geode]:   Building mod graph
+10:24:49 [Geode]:     camila314.acbypass
+10:24:49 [Geode]:       geode.loader
+10:24:49 [Geode]:     chs.confirmquit
+10:24:49 [Geode]:       geode.loader
+10:24:49 [Geode]:     geode.loader
+10:24:49 [Geode]:     alk.editorcollab
+10:24:49 [Geode]:       geode.loader
+10:24:49 [Geode]:     alk.fps-shower
+10:24:49 [Geode]:       geode.loader
+10:24:49 [Geode]:     camila314.demonlist-button
+10:24:49 [Geode]:       geode.loader
+10:24:49 [Geode]:     camila314.noclip
+10:24:49 [Geode]:       geode.loader
+10:24:49 [Geode]:       camila314.acbypass
+10:24:49 [Geode]:     cvolton.betterinfo
+10:24:49 [Geode]:       geode.loader
+10:24:49 [Geode]:     hjfod.custom-keybinds
+10:24:49 [Geode]:       geode.loader
+10:24:49 [Geode]:     mat.practice-music
+10:24:49 [Geode]:       geode.loader
+10:24:49 [Geode]:     mat.scroll-zoom
+10:24:49 [Geode]:       geode.loader
+10:24:49 [Geode]:     rlt.gd-platformer
+10:24:49 [Geode]:       geode.loader
+10:24:49 [Geode]:     ruslan.apm
+10:24:49 [Geode]:       geode.loader
+10:24:49 [Geode]:   Loading early mods
+10:24:49 [Geode]:   Took 3.609s. Continuing next frame...
+10:24:49 [Geode]: Set up loader
+10:24:49 [Geode]: Entry done.
+10:24:56 [Geode]: Adding resources for alk.editorcollab
+10:24:56 [Geode]: Adding sheet alk.editorcollab/TulipEditor
+10:24:57 [Geode]: Continuing mod graph refresh...
+10:24:57 [Geode]:   Loading mods
+10:24:57 [Geode]:     camila314.acbypass v1.0.0
+10:24:57 [Geode]:       Load
+10:24:57 [Geode]:       Loading binary for mod camila314.acbypass
+10:24:57 [Geode]:       Enable
+10:24:57 [Geode]:       Enabling hook at function PlayLayer::update with address 010029C0
+10:24:57 [Geode]:       camila314.noclip v1.0.0
+10:24:57 [Geode]:         Load
+10:24:57 [Geode]:         Loading binary for mod camila314.noclip
+10:24:57 [Geode]:         Enable
+10:24:57 [Geode]:         Enabling hook at function PlayLayer::destroyPlayer with address 0100A1A0
+10:24:57 [Geode]:   Took 0.281s
+10:24:57 [Geode]: Continuing mod graph refresh...
+10:24:57 [Geode]:   Loading mods
+10:24:57 [Geode]:     chs.confirmquit v1.0.0
+10:24:57 [Geode]:       Load
+10:24:57 [Geode]:       Loading binary for mod chs.confirmquit
+10:24:57 [Geode]:       Enable
+10:24:57 [Geode]:       Enabling hook at function PauseLayer::onQuit with address 00FE63D0
+10:24:57 [Geode]:   Took 0.133s
+10:24:57 [Geode]: Continuing mod graph refresh...
+10:24:57 [Geode]:   Loading mods
+10:24:57 [Geode]:     alk.editorcollab v1.12.4-beta
+10:24:57 [Geode]:       Load
+10:24:57 [Geode]:       Loading binary for mod alk.editorcollab
+10:24:57 [Editor Collab]:       Loaded
+10:24:57 [Geode]:       Enable
+10:24:57 [Geode]:       Enabling hook at function EditorUI::moveObject with address 00E8DDB0
+10:24:57 [Geode]:       Enabling hook at function EditorUI::init with address 00E76310
+10:24:57 [Geode]:       Enabling hook at function EditorUI::onPause with address 00E78020
+10:24:57 [Geode]:       Enabling hook at function EditorUI::showUI with address 00E87180
+10:24:57 [Geode]:       Enabling hook at function LevelBrowserLayer::init with address 00F5A040
+10:24:57 [Geode]:       Enabling hook at function GManager::saveGMTo with address 00E29250
+10:24:57 [Geode]:       Enabling hook at function EditorPauseLayer::init with address 00E730E0
+10:24:57 [Geode]:       Enabling hook at function EditorPauseLayer::onSave with address 00E755A0
+10:24:57 [Geode]:       Enabling hook at function EditorPauseLayer::onSaveAndExit with address 00E75620
+10:24:57 [Geode]:       Enabling hook at function EditorPauseLayer::onSaveAndPlay with address 00E753D0
+10:24:57 [Geode]:       Enabling hook at function PauseLayer::goEdit with address 00FE62F0
+10:24:57 [Geode]:       Enabling hook at function PauseLayer::onQuit with address 00FE63D0
+10:24:57 [Geode]:       Enabling hook at function CreatorLayer::init with address 00E4DE40
+10:24:57 [Geode]:       Enabling hook at function GameManager::returnToLastScene with address 00ECE6A0
+10:24:57 [Geode]:       Enabling hook at function SetGroupIDLayer::init with address 0102B670
+10:24:57 [Geode]:       Enabling hook at function EndLevelLayer::onEdit with address 00E96D30
+10:24:57 [Geode]:       Enabling hook at function EndLevelLayer::onMenu with address 00E96C10
+10:24:57 [Geode]:       Enabling hook at function LevelEditorLayer::addToUndoList with address 00F62410
+10:24:57 [Geode]:       Enabling hook at function LevelEditorLayer::handleAction with address 00F62010
+10:24:57 [Geode]:       Enabling hook at function EditorUI::updateButtons with address 00E78280
+10:24:57 [Geode]:       Enabling hook at function EditorUI::onDelete with address 00E7B8D0
+10:24:57 [Geode]:       Enabling hook at function EditorUI::onDeleteSelected with address 00E7BF50
+10:24:57 [Geode]:       Enabling hook at function EditorUI::onDeleteSelectedType with address 00E7C480
+10:24:57 [Geode]:       Enabling hook at function EditorUI::onDuplicate with address 00E87D20
+10:24:57 [Geode]:       Enabling hook at function EditorUI::onPaste with address 00E880C0
+10:24:57 [Geode]:       Enabling hook at function CCMenuItemSpriteExtra::activate with address 00E191C0
+10:24:57 [Geode]:       Enabling hook at function CCMenuItemToggler::activate with address 00E198D0
+10:24:57 [Geode]:       Enabling hook at function ColorSelectPopup::closeColorSelect with address 00E46D80
+10:24:57 [Geode]:       Enabling hook at function ColorSelectPopup::init with address 00E43AE0
+10:24:57 [Geode]:       Enabling hook at function ColorSelectLiveOverlay::init with address 00E41DB0
+10:24:57 [Geode]:       Enabling hook at function EditorUI::rotateObjects with address 00E8EE80
+10:24:57 [Geode]:       Enabling hook at function EditorUI::scaleObjects with address 00E8F150
+10:24:57 [Geode]:       Enabling hook at function GameObject::deselectObject with address 00EEEE50
+10:24:57 [Geode]:       Enabling hook at function EditorUI::deleteObject with address 00E7BED0
+10:24:57 [Geode]:       Enabling hook at function GameObject::createWithKey with address 00ECF4F0
+10:24:57 [Geode]:       Enabling hook at function EditorUI::createCustomItems with address 00E7A370
+10:24:57 [Geode]:       Enabling hook at function EditorUI::onCreate with address 00E85680
+10:24:57 [Geode]:       Enabling hook at function EditorUI::setupCreateMenu with address 00E7CAF0
+10:24:57 [Geode]:       Enabling hook at function EditorUI::selectObject with address 00E86250
+10:24:57 [Geode]:       Enabling hook at function EditorUI::selectObjects with address 00E864A0
+10:24:57 [Geode]:       Enabling hook at function EditorUI::deselectAll with address 00E86AF0
+10:24:57 [Geode]:       Enabling hook at function EditorUI::deselectObject with address 00E86A50
+10:24:57 [Geode]:       Enabling hook at function EditorUI::keyDown with address 00E91A30
+10:24:57 [Geode]:       Enabling hook at function EditorUI::ccTouchBegan with address 00E907B0
+10:24:57 [Geode]:       Enabling hook at function EditorUI::ccTouchEnded with address 00E911A0
+10:24:57 [Geode]:       Enabling hook at function cocos2d::CCLayerColor::initWithColor with address 69212AE0
+10:24:57 [Geode]:       Enabling hook at function cocos2d::CCLayer::setKeypadEnabled with address 69213450
+10:24:57 [Geode]:       Enabling hook at function LevelEditorLayer::init with address 00F5EE00
+10:24:57 [Editor Collab]:       Enabled
+10:24:57 [Geode]:   Took 0.205s
+10:24:57 [Geode]: Continuing mod graph refresh...
+10:24:57 [Geode]:   Loading mods
+10:24:57 [Geode]:     alk.fps-shower v1.0.1
+10:24:57 [Geode]:       Load
+10:24:57 [Geode]:       Loading binary for mod alk.fps-shower
+10:24:57 [Geode]:       Enable
+10:24:57 [Geode]:       Enabling hook at function LoadingLayer::init with address 00F8C080
+10:24:57 [Geode]:       Enabling hook at function MenuLayer::init with address 00F907B0
+10:24:57 [FPS Shower]:       Enabled
+10:24:57 [Geode]:   Took 0.139s
+10:24:57 [Geode]: Continuing mod graph refresh...
+10:24:57 [Geode]:   Loading mods
+10:24:57 [Geode]:     camila314.demonlist-button v1.0.0
+10:24:57 [Geode]:       Load
+10:24:57 [Geode]:       Loading binary for mod camila314.demonlist-button
+10:24:57 [Geode]:       Enable
+10:24:57 [Geode]:       Enabling hook at function LevelSearchLayer::init with address 00F7DA60
+10:24:57 [Geode]:       Enabling hook at function GameLevelManager::ProcessHttpRequest with address 00E9F8E0
+10:24:57 [Geode]:   Took 0.116s
+10:24:57 [Geode]: Continuing mod graph refresh...
+10:24:57 [Geode]:   Loading mods
+10:24:57 [Geode]:     camila314.noclip v1.0.0
+10:24:57 [Geode]:   Took 0s
+10:24:57 [Geode]: Continuing mod graph refresh...
+10:24:57 [Geode]:   Loading mods
+10:24:57 [Geode]:     cvolton.betterinfo v3.0.2
+10:24:57 [Geode]:       Load
+10:24:57 [Geode]:       Loading binary for mod cvolton.betterinfo
+10:24:58 [BetterInfo]:       Setting up Page Limit Bypass
+10:24:58 [BetterInfo]:       Performing Windows specific loading steps
+10:24:58 [Geode]:       Enable
+10:24:58 [Geode]:       Enabling hook at function CommentCell::FLAlert_Clicked with address 00E61260
+10:24:58 [Geode]:       Enabling hook at function CommentCell::loadFromComment with address 00E5F3D0
+10:24:58 [Geode]:       Enabling hook at function CommentCell::onConfirmDelete with address 00E61140
+10:24:58 [Geode]:       Enabling hook at function CommentCell::onLike with address 00E60F90
+10:24:58 [Geode]:       Enabling hook at function CreatorLayer::init with address 00E4DE40
+10:24:58 [Geode]:       Enabling hook at function CreatorLayer::onChallenge with address 00E4F1B0
+10:24:58 [Geode]:       Enabling hook at function CreatorLayer::sceneWillResume with address 00E4FB50
+10:24:58 [Geode]:       Enabling hook at function DailyLevelPage::init with address 00E6A900
+10:24:58 [Geode]:       Enabling hook at function DailyLevelPage::updateTimers with address 00E6BEF0
+10:24:58 [Geode]:       Enabling hook at function EditLevelLayer::init with address 00E6F5D0
+10:24:58 [Geode]:       Enabling hook at function EditLevelLayer::onLevelInfo with address 00E70660
+10:24:58 [Geode]:       Enabling hook at function GameLevelManager::getCompletedLevels with address 00EA2D20
+10:24:58 [Geode]:       Enabling hook at function GameLevelManager::getSavedLevels with address 00EA2960
+10:24:58 [Geode]:       Enabling hook at function GameLevelManager::limitSavedLevels with address 00EA43B0
+10:24:58 [Geode]:       Enabling hook at function GameLevelManager::userNameForUserID with address 00EA1C20
+10:24:58 [Geode]:       Enabling hook at function InfoLayer::init with address 00F4F5A0
+10:24:58 [Geode]:       Enabling hook at function InfoLayer::loadPage with address 00F51E70
+10:24:58 [Geode]:       Enabling hook at function InfoLayer::onLevelInfo with address 00F51850
+10:24:58 [Geode]:       Enabling hook at function InfoLayer::onMore with address 00F51500
+10:24:58 [Geode]:       Enabling hook at function InfoLayer::setupCommentsBrowser with address 00F52270
+10:24:58 [Geode]:       Enabling hook at function LeaderboardsLayer::init with address 00F587B0
+10:24:58 [Geode]:       Enabling hook at function LevelBrowserLayer::init with address 00F5A040
+10:24:58 [Geode]:       Enabling hook at function LevelBrowserLayer::updateLevelsLabel with address 00F5C350
+10:24:58 [Geode]:       Enabling hook at function LevelCell::loadCustomLevelCell with address 00E5A020
+10:24:58 [Geode]:       Enabling hook at function LevelCell::onViewProfile with address 00E5C790
+10:24:58 [Geode]:       Enabling hook at function LevelInfoLayer::init with address 00F75DF0
+10:24:58 [Geode]:       Enabling hook at function LevelInfoLayer::onLevelInfo with address 00F7ACF0
+10:24:58 [Geode]:       Enabling hook at function LevelInfoLayer::onViewProfile with address 00F7AC90
+10:24:58 [Geode]:       Enabling hook at function LevelLeaderboard::init with address 00F7C4F0
+10:24:58 [Geode]:       Enabling hook at function LevelPage::onInfo with address 00F89070
+10:24:58 [Geode]:       Enabling hook at function LevelSearchLayer::getSearchObject with address 00F805F0
+10:24:58 [Geode]:       Enabling hook at function MoreSearchLayer::init with address 00F825C0
+10:24:58 [Geode]:       Enabling hook at function PlayLayer::init with address 00FFB780
+10:24:58 [Geode]:       Enabling hook at function PlayLayer::levelComplete with address 00FFD3D0
+10:24:58 [Geode]:       Enabling hook at function PlayLayer::onQuit with address 0100D810
+10:24:58 [Geode]:       Enabling hook at function PlayLayer::resetLevel with address 0100BF00
+10:24:58 [Geode]:       Enabling hook at function ProfilePage::getUserInfoFailed with address 010133E0
+10:24:58 [Geode]:       Enabling hook at function ProfilePage::init with address 0100EF00
+10:24:58 [Geode]:       Enabling hook at function ProfilePage::keyBackClicked with address 00E49C80
+10:24:58 [Geode]:       Enabling hook at function ProfilePage::loadPageFromUserInfo with address 01010040
+10:24:58 [Geode]:       Enabling hook at function ProfilePage::onClose with address 00E49C60
+10:24:58 [Geode]:       Enabling hook at function RewardsPage::init with address 010178F0
+10:24:58 [Geode]:   Took 0.174s
+10:24:58 [Geode]: Continuing mod graph refresh...
+10:24:58 [Geode]:   Loading mods
+10:24:58 [Geode]:     hjfod.custom-keybinds v1.0.0
+10:24:58 [Geode]:       Load
+10:24:58 [Geode]:       Loading binary for mod hjfod.custom-keybinds
+10:24:58 [Geode]:       Enable
+10:24:58 [Geode]:       Enabling hook at function EditorUI::init with address 00E76310
+10:24:58 [Geode]:       Enabling hook at function EditorUI::keyDown with address 00E91A30
+10:24:58 [Geode]:       Enabling hook at function EditorUI::keyUp with address 00E92180
+10:24:58 [Geode]:       Enabling hook at function UILayer::init with address 0105F3B0
+10:24:58 [Geode]:       Enabling hook at function UILayer::keyDown with address 0105F890
+10:24:58 [Geode]:       Enabling hook at function UILayer::keyUp with address 0105FA10
+10:24:58 [Geode]:       Enabling hook at function cocos2d::CCKeyboardDispatcher::dispatchKeyboardMSG with address 69209F30
+10:24:58 [Geode]:       Enabling hook at function MoreOptionsLayer::onKeybindings with address 00E749D0
+10:24:58 [Geode]:   Took 0.145s
+10:24:58 [Geode]: Continuing mod graph refresh...
+10:24:58 [Geode]:   Loading mods
+10:24:58 [Geode]:     mat.practice-music v1.0.3
+10:24:58 [Geode]:       Load
+10:24:58 [Geode]:       Loading binary for mod mat.practice-music
+10:24:58 [Geode]:       Enable
+10:24:58 [Geode]:       Enabling hook at function PlayLayer::destroyPlayer with address 0100A1A0
+10:24:58 [Geode]:       Enabling hook at function PlayLayer::startMusic with address 0100C8F0
+10:24:58 [Geode]:       Enabling hook at function PlayLayer::togglePracticeMode with address 0100D0D0
+10:24:58 [Geode]:   Took 0.118s
+10:24:58 [Geode]: Continuing mod graph refresh...
+10:24:58 [Geode]:   Loading mods
+10:24:58 [Geode]:     mat.scroll-zoom v1.0.0
+10:24:58 [Geode]:       Load
+10:24:58 [Geode]:       Loading binary for mod mat.scroll-zoom
+10:24:58 [Geode]:       Enable
+10:24:58 [Geode]:       Enabling hook at function EditorUI::scrollWheel with address 00E921D0
+10:24:58 [Geode]:   Took 0.127s
+10:24:58 [Geode]: Continuing mod graph refresh...
+10:24:58 [Geode]:   Loading mods
+10:24:58 [Geode]:     rlt.gd-platformer v1.0.0
+10:24:58 [Geode]:       Load
+10:24:58 [Geode]:       Loading binary for mod rlt.gd-platformer
+10:24:58 [Geode]:       Enable
+10:24:58 [Geode]:       Enabling hook at function GameObject::activateObject with address 00ED1870
+10:24:58 [Geode]:       Enabling hook at function UILayer::init with address 0105F3B0
+10:24:58 [Geode]:       Enabling hook at function UILayer::keyDown with address 0105F890
+10:24:58 [Geode]:       Enabling hook at function UILayer::keyUp with address 0105FA10
+10:24:58 [Geode]:       Enabling hook at function PlayLayer::flipGravity with address 01007D30
+10:24:58 [Geode]:       Enabling hook at function PlayLayer::init with address 00FFB780
+10:24:58 [Geode]:       Enabling hook at function PlayLayer::playGravityEffect with address 01007E00
+10:24:58 [Geode]:       Enabling hook at function PlayLayer::resetLevel with address 0100BF00
+10:24:58 [Geode]:       Enabling hook at function PlayLayer::update with address 010029C0
+10:24:58 [Geode]:       Enabling hook at function PlayerObject::pushButton with address 00FF4E40
+10:24:58 [Geode]:       Enabling hook at function PlayerObject::update with address 00FE8200
+10:24:58 [Geode]:   Took 0.172s
+10:24:58 [Geode]: Continuing mod graph refresh...
+10:24:58 [Geode]:   Loading mods
+10:24:58 [Geode]:     ruslan.apm v1.0.0
+10:24:58 [Geode]:       Load
+10:24:58 [Geode]:       Loading binary for mod ruslan.apm
+10:24:58 [Geode]:   Took 0.163s
+10:24:58 [Geode]: Continuing mod graph refresh...
+10:24:58 [Geode]:   Finding problems
+10:24:58 [Geode]:     camila314.acbypass
+10:24:58 [Geode]:     chs.confirmquit
+10:24:58 [Geode]:     geode.loader
+10:24:58 [Geode]:     alk.editorcollab
+10:24:58 [Geode]:     alk.fps-shower
+10:24:58 [Geode]:     camila314.demonlist-button
+10:24:58 [Geode]:     camila314.noclip
+10:24:58 [Geode]:     cvolton.betterinfo
+10:24:58 [Geode]:     hjfod.custom-keybinds
+10:24:58 [Geode]:     mat.practice-music
+10:24:58 [Geode]:     mat.scroll-zoom
+10:24:58 [Geode]:     rlt.gd-platformer
+10:24:58 [Geode]:     ruslan.apm
+10:24:58 [Geode]:   Took 0.001s
+10:25:02 [Geode]: Adding resources
+10:25:02 [Geode]: Adding resources for geode.loader
+10:25:02 [Geode]: Adding sheet geode.loader/LogoSheet
+10:25:02 [Geode]: Adding sheet geode.loader/APISheet
+10:25:02 [Geode]: Adding sheet geode.loader/BlankSheet
+10:25:02 [Geode]: Adding resources for alk.editorcollab
+10:25:02 [Geode]: Adding sheet alk.editorcollab/TulipEditor
+10:25:02 [Geode]: Checking updates for index
+10:25:05 [Geode]: Updating local index cache
+10:25:05 [Geode]: balt.freewindow: [mod.json].binary has been removed.
+10:25:05 [Geode]: camila314.noclip: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+10:25:05 [Geode]: camila314.startswitcher: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+10:25:05 [Geode]: chs000.modmenutest: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+10:25:05 [Geode]: chs000.modmenutest: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+10:25:05 [Geode]: hjfod.gdshare: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+10:25:13 [gd-platformer]: Disabling the VSync because of genious game mechanics
+10:25:18 [gd-platformer]: Pressed the key: 39
+10:25:19 [gd-platformer]: Released the key: 39
+10:25:20 [gd-platformer]: Pressed the key: 32
+10:25:20 [gd-platformer]: Released the key: 32
+10:25:20 [gd-platformer]: Pressed the key: 39
+10:25:21 [gd-platformer]: Pressed the key: 32
+10:25:21 [gd-platformer]: Released the key: 32
+10:25:22 [gd-platformer]: Pressed the key: 32
+10:25:23 [gd-platformer]: Released the key: 32
+10:25:24 [gd-platformer]: Pressed the key: 32
+10:25:24 [gd-platformer]: Released the key: 32
+10:25:24 [gd-platformer]: Pressed the key: 32
+10:25:24 [gd-platformer]: Released the key: 32
+10:25:25 [gd-platformer]: Pressed the key: 32
+10:25:25 [gd-platformer]: Released the key: 32
+10:25:26 [gd-platformer]: Pressed the key: 37
+10:25:26 [gd-platformer]: Released the key: 39
+10:25:27 [gd-platformer]: Pressed the key: 39
+10:25:27 [gd-platformer]: Released the key: 37
+10:25:29 [gd-platformer]: Pressed the key: 32
+10:25:29 [gd-platformer]: Released the key: 32
+10:25:29 [gd-platformer]: Pressed the key: 32
+10:25:29 [gd-platformer]: Released the key: 32
+10:25:30 [gd-platformer]: Pressed the key: 32
+10:25:30 [gd-platformer]: Released the key: 32
+10:25:31 [gd-platformer]: Pressed the key: 32
+10:25:31 [gd-platformer]: Released the key: 32
+10:25:32 [gd-platformer]: Pressed the key: 32
+10:25:32 [gd-platformer]: Released the key: 32
+10:25:32 [gd-platformer]: Pressed the key: 32
+10:25:32 [gd-platformer]: Released the key: 32
+10:25:33 [gd-platformer]: Pressed the key: 32
+10:25:33 [gd-platformer]: Released the key: 32
+10:25:34 [gd-platformer]: Pressed the key: 32
+10:25:34 [gd-platformer]: Released the key: 32
+10:25:34 [gd-platformer]: Pressed the key: 32
+10:25:34 [gd-platformer]: Released the key: 32
+10:25:34 [gd-platformer]: Pressed the key: 32
+10:25:34 [gd-platformer]: Released the key: 32
+10:25:35 [gd-platformer]: Pressed the key: 32
+10:25:35 [gd-platformer]: Released the key: 32
+10:25:35 [gd-platformer]: Pressed the key: 32
+10:25:35 [gd-platformer]: Released the key: 32
+10:25:36 [gd-platformer]: Pressed the key: 32
+10:25:36 [gd-platformer]: Released the key: 32
+10:25:36 [gd-platformer]: Pressed the key: 32
+10:25:37 [gd-platformer]: Released the key: 32
+10:25:38 [gd-platformer]: Pressed the key: 32
+10:25:38 [gd-platformer]: Released the key: 32
+10:25:39 [gd-platformer]: Pressed the key: 32
+10:25:39 [gd-platformer]: Released the key: 32
+10:25:40 [gd-platformer]: Pressed the key: 32
+10:25:40 [gd-platformer]: Released the key: 32
+10:25:40 [gd-platformer]: Pressed the key: 32
+10:25:40 [gd-platformer]: Released the key: 32
+10:25:41 [gd-platformer]: Pressed the key: 32
+10:25:41 [gd-platformer]: Released the key: 32
+10:25:42 [gd-platformer]: Pressed the key: 32
+10:25:42 [gd-platformer]: Released the key: 32
+10:25:42 [gd-platformer]: Pressed the key: 32
+10:25:42 [gd-platformer]: Released the key: 32
+10:25:42 [gd-platformer]: Pressed the key: 32
+10:25:43 [gd-platformer]: Released the key: 32
+10:25:43 [gd-platformer]: Pressed the key: 32
+10:25:43 [gd-platformer]: Released the key: 32
+10:25:43 [gd-platformer]: Pressed the key: 32
+10:25:43 [gd-platformer]: Released the key: 32
+10:25:45 [gd-platformer]: Released the key: 39
+10:25:45 [gd-platformer]: Pressed the key: 37
+10:25:45 [gd-platformer]: Released the key: 37
+10:25:46 [gd-platformer]: Pressed the key: 39
+10:25:48 [gd-platformer]: Pressed the key: 32
+10:25:48 [gd-platformer]: Released the key: 32
+10:25:48 [gd-platformer]: Pressed the key: 32
+10:25:48 [gd-platformer]: Released the key: 32
+10:25:48 [gd-platformer]: Pressed the key: 32
+10:25:49 [gd-platformer]: Released the key: 32
+10:25:49 [gd-platformer]: Pressed the key: 32
+10:25:49 [gd-platformer]: Released the key: 32
+10:25:49 [gd-platformer]: Released the key: 39
+10:25:50 [gd-platformer]: Pressed the key: 32
+10:25:50 [gd-platformer]: Released the key: 32
+10:25:51 [gd-platformer]: Pressed the key: 32
+10:25:51 [gd-platformer]: Released the key: 32
+10:25:52 [gd-platformer]: Pressed the key: 32
+10:25:52 [gd-platformer]: Released the key: 32
+10:25:52 [gd-platformer]: Pressed the key: 32
+10:25:52 [gd-platformer]: Released the key: 32
+10:25:52 [gd-platformer]: Pressed the key: 32
+10:25:52 [gd-platformer]: Released the key: 32
+10:25:52 [gd-platformer]: Pressed the key: 32
+10:25:53 [gd-platformer]: Released the key: 32
+10:25:53 [gd-platformer]: Pressed the key: 32
+10:25:53 [gd-platformer]: Released the key: 32
+10:25:53 [gd-platformer]: Pressed the key: 32
+10:25:53 [gd-platformer]: Released the key: 32
+10:25:53 [gd-platformer]: Pressed the key: 32
+10:25:53 [gd-platformer]: Released the key: 32
+10:25:53 [gd-platformer]: Pressed the key: 32
+10:25:53 [gd-platformer]: Released the key: 32
+10:25:53 [gd-platformer]: Pressed the key: 32
+10:25:54 [gd-platformer]: Released the key: 32
+10:25:54 [gd-platformer]: Pressed the key: 32
+10:25:54 [gd-platformer]: Released the key: 32
+10:25:54 [gd-platformer]: Pressed the key: 32
+10:25:54 [gd-platformer]: Released the key: 32
+10:25:54 [gd-platformer]: Pressed the key: 32
+10:25:54 [gd-platformer]: Released the key: 32
+10:25:54 [gd-platformer]: Pressed the key: 32
+10:25:54 [gd-platformer]: Released the key: 32
+10:25:54 [gd-platformer]: Pressed the key: 32
+10:25:55 [gd-platformer]: Released the key: 32
+10:25:55 [gd-platformer]: Pressed the key: 32
+10:25:55 [gd-platformer]: Released the key: 32
+10:25:55 [gd-platformer]: Pressed the key: 32
+10:25:55 [gd-platformer]: Released the key: 32
+10:25:55 [gd-platformer]: Pressed the key: 32
+10:25:55 [gd-platformer]: Released the key: 32
+10:25:55 [gd-platformer]: Pressed the key: 32
+10:25:55 [gd-platformer]: Released the key: 32
+10:25:55 [gd-platformer]: Pressed the key: 32
+10:25:55 [gd-platformer]: Released the key: 32
+10:25:56 [gd-platformer]: Pressed the key: 32
+10:25:56 [gd-platformer]: Released the key: 32
+10:25:56 [gd-platformer]: Pressed the key: 32
+10:25:56 [gd-platformer]: Released the key: 32
+10:25:56 [gd-platformer]: Pressed the key: 32
+10:25:56 [gd-platformer]: Released the key: 32
+10:25:56 [gd-platformer]: Pressed the key: 32
+10:25:56 [gd-platformer]: Released the key: 32
+10:25:56 [gd-platformer]: Pressed the key: 32
+10:25:57 [gd-platformer]: Released the key: 32
+10:25:57 [gd-platformer]: Pressed the key: 32
+10:25:57 [gd-platformer]: Released the key: 32
+10:25:57 [gd-platformer]: Pressed the key: 32
+10:25:57 [gd-platformer]: Released the key: 32
+10:25:57 [gd-platformer]: Pressed the key: 32
+10:25:57 [gd-platformer]: Released the key: 32
+10:25:57 [gd-platformer]: Pressed the key: 32
+10:25:57 [gd-platformer]: Released the key: 32
+10:25:57 [gd-platformer]: Pressed the key: 32
+10:25:57 [gd-platformer]: Released the key: 32
+10:25:58 [gd-platformer]: Pressed the key: 32
+10:25:58 [gd-platformer]: Released the key: 32
+10:25:58 [gd-platformer]: Pressed the key: 32
+10:25:58 [gd-platformer]: Released the key: 32
+10:25:58 [gd-platformer]: Pressed the key: 39
+10:25:59 [gd-platformer]: Pressed the key: 32
+10:25:59 [gd-platformer]: Released the key: 32
+10:26:00 [gd-platformer]: Pressed the key: 32
+10:26:00 [gd-platformer]: Released the key: 32
+10:26:00 [gd-platformer]: Pressed the key: 32
+10:26:00 [gd-platformer]: Released the key: 32
+10:26:00 [gd-platformer]: Pressed the key: 32
+10:26:00 [gd-platformer]: Released the key: 32
+10:26:00 [gd-platformer]: Pressed the key: 32
+10:26:00 [gd-platformer]: Released the key: 32
+10:26:01 [gd-platformer]: Pressed the key: 32
+10:26:01 [gd-platformer]: Released the key: 32
+10:26:01 [gd-platformer]: Pressed the key: 32
+10:26:01 [gd-platformer]: Released the key: 32
+10:26:02 [gd-platformer]: Pressed the key: 32
+10:26:02 [gd-platformer]: Released the key: 32
+10:26:02 [gd-platformer]: Pressed the key: 32
+10:26:02 [gd-platformer]: Released the key: 32
+10:26:03 [gd-platformer]: Pressed the key: 32
+10:26:03 [gd-platformer]: Released the key: 32
+10:26:03 [gd-platformer]: Pressed the key: 32
+10:26:04 [gd-platformer]: Released the key: 32
+10:26:04 [gd-platformer]: Pressed the key: 32
+10:26:05 [gd-platformer]: Released the key: 32
+10:26:05 [gd-platformer]: Pressed the key: 32
+10:26:06 [gd-platformer]: Released the key: 32
+10:26:06 [gd-platformer]: Pressed the key: 32
+10:26:06 [gd-platformer]: Released the key: 32
+10:26:07 [gd-platformer]: Pressed the key: 32
+10:26:07 [gd-platformer]: Released the key: 32
+10:26:07 [gd-platformer]: Pressed the key: 32
+10:26:08 [gd-platformer]: Released the key: 32
+10:26:08 [gd-platformer]: Pressed the key: 32
+10:26:08 [gd-platformer]: Released the key: 32
+10:26:08 [gd-platformer]: Pressed the key: 32
+10:26:10 [gd-platformer]: Released the key: 32
+10:26:10 [gd-platformer]: Pressed the key: 32
+10:26:11 [gd-platformer]: Released the key: 32
+10:26:11 [gd-platformer]: Pressed the key: 32
+10:26:12 [gd-platformer]: Released the key: 32
+10:26:12 [gd-platformer]: Pressed the key: 32
+10:26:12 [gd-platformer]: Released the key: 32
+10:26:13 [gd-platformer]: Pressed the key: 32
+10:26:13 [gd-platformer]: Released the key: 32
+10:26:13 [gd-platformer]: Pressed the key: 32
+10:26:13 [gd-platformer]: Released the key: 32
+10:26:14 [gd-platformer]: Pressed the key: 32
+10:26:14 [gd-platformer]: Released the key: 32
+10:26:14 [gd-platformer]: Pressed the key: 32
+10:26:14 [gd-platformer]: Released the key: 32
+10:26:14 [gd-platformer]: Pressed the key: 32
+10:26:15 [gd-platformer]: Released the key: 32
+10:26:15 [gd-platformer]: Pressed the key: 32
+10:26:15 [gd-platformer]: Released the key: 32
+10:26:15 [gd-platformer]: Pressed the key: 32
+10:26:16 [gd-platformer]: Released the key: 32
+10:26:16 [gd-platformer]: Pressed the key: 40
+10:26:16 [gd-platformer]: Released the key: 40
+10:26:16 [gd-platformer]: Pressed the key: 32
+10:26:16 [gd-platformer]: Released the key: 32
+10:26:16 [gd-platformer]: Pressed the key: 32
+10:26:16 [gd-platformer]: Released the key: 32
+10:26:17 [gd-platformer]: Pressed the key: 32
+10:26:17 [gd-platformer]: Released the key: 32
+10:26:17 [gd-platformer]: Pressed the key: 32
+10:26:17 [gd-platformer]: Released the key: 32
+10:26:17 [gd-platformer]: Pressed the key: 32
+10:26:17 [gd-platformer]: Released the key: 32
+10:26:18 [gd-platformer]: Pressed the key: 32
+10:26:18 [gd-platformer]: Released the key: 32
+10:26:18 [gd-platformer]: Pressed the key: 32
+10:26:18 [gd-platformer]: Released the key: 32
+10:26:18 [gd-platformer]: Pressed the key: 32
+10:26:18 [gd-platformer]: Released the key: 32
+10:26:19 [gd-platformer]: Pressed the key: 32
+10:26:19 [gd-platformer]: Released the key: 32
+10:26:19 [gd-platformer]: Pressed the key: 32
+10:26:19 [gd-platformer]: Released the key: 32
+10:26:20 [gd-platformer]: Pressed the key: 32
+10:26:20 [gd-platformer]: Released the key: 32
+10:26:20 [gd-platformer]: Pressed the key: 32
+10:26:20 [gd-platformer]: Released the key: 32
+10:26:21 [gd-platformer]: Pressed the key: 32
+10:26:21 [gd-platformer]: Released the key: 32
+10:26:21 [gd-platformer]: Pressed the key: 32
+10:26:22 [gd-platformer]: Released the key: 32
+10:26:22 [gd-platformer]: Pressed the key: 32
+10:26:22 [gd-platformer]: Released the key: 32
+10:26:22 [gd-platformer]: Pressed the key: 32
+10:26:22 [gd-platformer]: Released the key: 32
+10:26:23 [gd-platformer]: Pressed the key: 32
+10:26:23 [gd-platformer]: Released the key: 32
+10:26:23 [gd-platformer]: Pressed the key: 32
+10:26:23 [gd-platformer]: Released the key: 32
+10:26:24 [gd-platformer]: Pressed the key: 32
+10:26:24 [gd-platformer]: Released the key: 32
+10:26:24 [gd-platformer]: Pressed the key: 32
+10:26:24 [gd-platformer]: Released the key: 32
+10:26:24 [gd-platformer]: Pressed the key: 32
+10:26:25 [gd-platformer]: Released the key: 32
+10:26:25 [gd-platformer]: Pressed the key: 32
+10:26:25 [gd-platformer]: Released the key: 32
+10:26:25 [gd-platformer]: Pressed the key: 32
+10:26:26 [gd-platformer]: Released the key: 32
+10:26:26 [gd-platformer]: Pressed the key: 37
+10:26:26 [gd-platformer]: Released the key: 39
+10:26:26 [gd-platformer]: Released the key: 37
+10:26:26 [gd-platformer]: Pressed the key: -1
+10:26:26 [gd-platformer]: Released the key: -1
+10:26:27 [gd-platformer]: Pressed the key: -1
+10:26:27 [gd-platformer]: Released the key: -1
+10:26:27 [gd-platformer]: Pressed the key: 27
+10:26:36 [gd-platformer]: Disabling the VSync because of genious game mechanics
+10:26:37 [gd-platformer]: Pressed the key: 39
+10:26:37 [gd-platformer]: Released the key: 39
+10:26:38 [gd-platformer]: Pressed the key: 32
+10:26:38 [gd-platformer]: Released the key: 32
+10:26:39 [gd-platformer]: Pressed the key: 32
+10:26:39 [gd-platformer]: Released the key: 32
+10:26:39 [gd-platformer]: Pressed the key: 32
+10:26:39 [gd-platformer]: Released the key: 32
+10:26:40 [gd-platformer]: Pressed the key: 39
+10:26:40 [gd-platformer]: Pressed the key: 38
+10:26:41 [gd-platformer]: Released the key: 38
+10:26:42 [gd-platformer]: Pressed the key: 38
+10:26:42 [gd-platformer]: Released the key: 38
+10:26:43 [gd-platformer]: Pressed the key: 38
+10:26:43 [gd-platformer]: Released the key: 39
+10:26:43 [gd-platformer]: Released the key: 38
+10:26:44 [gd-platformer]: Pressed the key: 38
+10:26:44 [gd-platformer]: Pressed the key: 39
+10:26:44 [gd-platformer]: Released the key: 39
+10:26:44 [gd-platformer]: Released the key: 38
+10:26:44 [gd-platformer]: Pressed the key: 38
+10:26:44 [gd-platformer]: Pressed the key: 39
+10:26:44 [gd-platformer]: Released the key: 38
+10:26:45 [gd-platformer]: Pressed the key: 38
+10:26:45 [gd-platformer]: Released the key: 38
+10:26:45 [gd-platformer]: Released the key: 39
+10:26:45 [gd-platformer]: Pressed the key: 39
+10:26:45 [gd-platformer]: Released the key: 39
+10:26:46 [gd-platformer]: Pressed the key: 38
+10:26:46 [gd-platformer]: Pressed the key: 39
+10:26:46 [gd-platformer]: Released the key: 38
+10:26:47 [gd-platformer]: Pressed the key: 38
+10:26:48 [gd-platformer]: Released the key: 38
+10:26:48 [gd-platformer]: Pressed the key: 38
+10:26:48 [gd-platformer]: Released the key: 38
+10:26:49 [gd-platformer]: Pressed the key: 38
+10:26:49 [gd-platformer]: Released the key: 38
+10:26:50 [gd-platformer]: Pressed the key: 38
+10:26:50 [gd-platformer]: Released the key: 38
+10:26:55 [gd-platformer]: Pressed the key: 38
+10:26:55 [gd-platformer]: Released the key: 38
+10:26:58 [gd-platformer]: Pressed the key: 38
+10:26:58 [gd-platformer]: Released the key: 38
+10:26:59 [gd-platformer]: Pressed the key: 38
+10:26:59 [gd-platformer]: Released the key: 38
+10:26:59 [gd-platformer]: Pressed the key: 38
+10:26:59 [gd-platformer]: Released the key: 38
+10:26:59 [gd-platformer]: Pressed the key: 38
+10:27:00 [gd-platformer]: Released the key: 38
+10:27:00 [gd-platformer]: Pressed the key: 38
+10:27:00 [gd-platformer]: Released the key: 38
+10:27:00 [gd-platformer]: Pressed the key: 38
+10:27:01 [gd-platformer]: Released the key: 38
+10:27:01 [gd-platformer]: Pressed the key: 38
+10:27:01 [gd-platformer]: Released the key: 38
+10:27:01 [gd-platformer]: Released the key: 39
+10:27:01 [gd-platformer]: Pressed the key: 38
+10:27:01 [gd-platformer]: Pressed the key: 39
+10:27:01 [gd-platformer]: Released the key: 39
+10:27:01 [gd-platformer]: Released the key: 38
+10:27:01 [gd-platformer]: Pressed the key: 39
+10:27:01 [gd-platformer]: Pressed the key: 38
+10:27:01 [gd-platformer]: Released the key: 39
+10:27:01 [gd-platformer]: Pressed the key: 39
+10:27:01 [gd-platformer]: Released the key: 39
+10:27:02 [gd-platformer]: Released the key: 38
+10:27:02 [gd-platformer]: Pressed the key: 37
+10:27:03 [gd-platformer]: Pressed the key: 38
+10:27:03 [gd-platformer]: Released the key: 38
+10:27:03 [gd-platformer]: Pressed the key: 38
+10:27:03 [gd-platformer]: Released the key: 38
+10:27:04 [gd-platformer]: Pressed the key: 38
+10:27:04 [gd-platformer]: Released the key: 38
+10:27:04 [gd-platformer]: Pressed the key: 38
+10:27:04 [gd-platformer]: Released the key: 38
+10:27:04 [gd-platformer]: Released the key: 37
+10:27:04 [gd-platformer]: Pressed the key: 37
+10:27:04 [gd-platformer]: Pressed the key: 38
+10:27:04 [gd-platformer]: Released the key: 38
+10:27:05 [gd-platformer]: Pressed the key: 38
+10:27:05 [gd-platformer]: Released the key: 38
+10:27:05 [gd-platformer]: Pressed the key: 38
+10:27:06 [gd-platformer]: Released the key: 38
+10:27:06 [gd-platformer]: Pressed the key: 38
+10:27:07 [gd-platformer]: Released the key: 38
+10:27:07 [gd-platformer]: Pressed the key: 38
+10:27:07 [gd-platformer]: Released the key: 38
+10:27:07 [gd-platformer]: Pressed the key: 38
+10:27:08 [gd-platformer]: Released the key: 38
+10:27:08 [gd-platformer]: Released the key: 37
+10:27:37 [gd-platformer]: Pressed the key: -1
+10:27:37 [gd-platformer]: Released the key: -1
+10:27:37 [gd-platformer]: Pressed the key: 27
+10:27:42 [gd-platformer]: Disabling the VSync because of genious game mechanics
+10:27:42 [gd-platformer]: Pressed the key: 39
+10:27:43 [gd-platformer]: Pressed the key: 38
+10:27:44 [gd-platformer]: Released the key: 38
+10:27:45 [gd-platformer]: Pressed the key: 38
+10:27:45 [gd-platformer]: Released the key: 38
+10:27:45 [gd-platformer]: Released the key: 39
+10:27:46 [gd-platformer]: Pressed the key: 39
+10:27:47 [gd-platformer]: Pressed the key: 38
+10:27:47 [gd-platformer]: Released the key: 38
+10:27:47 [gd-platformer]: Pressed the key: 38
+10:27:48 [gd-platformer]: Released the key: 39
+10:27:48 [gd-platformer]: Released the key: 38
+10:27:48 [gd-platformer]: Pressed the key: 39
+10:27:50 [gd-platformer]: Pressed the key: 38
+10:27:50 [gd-platformer]: Released the key: 38
+10:27:50 [gd-platformer]: Pressed the key: 38
+10:27:50 [gd-platformer]: Released the key: 38
+10:27:51 [gd-platformer]: Released the key: 39
+10:27:51 [gd-platformer]: Pressed the key: 39
+10:27:51 [gd-platformer]: Pressed the key: 38
+10:27:51 [gd-platformer]: Released the key: 38
+10:27:52 [gd-platformer]: Pressed the key: 38
+10:27:52 [gd-platformer]: Released the key: 38
+10:27:52 [gd-platformer]: Pressed the key: 38
+10:27:53 [gd-platformer]: Released the key: 38
+10:27:53 [gd-platformer]: Pressed the key: 38
+10:27:53 [gd-platformer]: Released the key: 38
+10:27:54 [gd-platformer]: Pressed the key: 38
+10:27:54 [gd-platformer]: Released the key: 38
+10:27:54 [gd-platformer]: Released the key: 39
+10:27:54 [gd-platformer]: Pressed the key: 39
+10:27:55 [gd-platformer]: Pressed the key: 38
+10:27:55 [gd-platformer]: Released the key: 38
+10:27:55 [gd-platformer]: Pressed the key: 38
+10:27:55 [gd-platformer]: Released the key: 38
+10:27:55 [gd-platformer]: Pressed the key: 38
+10:27:56 [gd-platformer]: Released the key: 38
+10:27:56 [gd-platformer]: Pressed the key: 38
+10:27:56 [gd-platformer]: Released the key: 38
+10:27:56 [gd-platformer]: Pressed the key: 38
+10:27:56 [gd-platformer]: Released the key: 38
+10:27:57 [gd-platformer]: Pressed the key: 38
+10:27:57 [gd-platformer]: Released the key: 38
+10:27:57 [gd-platformer]: Released the key: 39
+10:27:57 [gd-platformer]: Pressed the key: 39
+10:27:58 [gd-platformer]: Pressed the key: 38
+10:27:58 [gd-platformer]: Released the key: 38
+10:27:58 [gd-platformer]: Pressed the key: 38
+10:27:58 [gd-platformer]: Released the key: 38
+10:28:00 [gd-platformer]: Pressed the key: 38
+10:28:00 [gd-platformer]: Released the key: 38
+10:28:00 [gd-platformer]: Pressed the key: 38
+10:28:01 [gd-platformer]: Released the key: 38
+10:28:01 [gd-platformer]: Pressed the key: 38
+10:28:01 [gd-platformer]: Released the key: 38
+10:28:02 [gd-platformer]: Pressed the key: 38
+10:28:02 [gd-platformer]: Released the key: 38
+10:28:02 [gd-platformer]: Pressed the key: 38
+10:28:02 [gd-platformer]: Released the key: 38
+10:28:03 [gd-platformer]: Pressed the key: 38
+10:28:03 [gd-platformer]: Released the key: 38
+10:28:03 [gd-platformer]: Pressed the key: 38
+10:28:04 [gd-platformer]: Released the key: 38
+10:28:04 [gd-platformer]: Pressed the key: 38
+10:28:04 [gd-platformer]: Released the key: 38
+10:28:04 [gd-platformer]: Pressed the key: 38
+10:28:04 [gd-platformer]: Released the key: 38
+10:28:05 [gd-platformer]: Pressed the key: 38
+10:28:05 [gd-platformer]: Released the key: 38
+10:28:05 [gd-platformer]: Pressed the key: 38
+10:28:05 [gd-platformer]: Released the key: 38
+10:28:08 [gd-platformer]: Pressed the key: 38
+10:28:09 [gd-platformer]: Released the key: 38
+10:28:09 [gd-platformer]: Pressed the key: 38
+10:28:09 [gd-platformer]: Released the key: 38
+10:28:09 [gd-platformer]: Pressed the key: 38
+10:28:09 [gd-platformer]: Released the key: 38
+10:28:09 [gd-platformer]: Pressed the key: 38
+10:28:09 [gd-platformer]: Released the key: 38
+10:28:09 [gd-platformer]: Pressed the key: 38
+10:28:10 [gd-platformer]: Released the key: 38
+10:28:10 [gd-platformer]: Pressed the key: 38
+10:28:10 [gd-platformer]: Released the key: 38
+10:28:10 [gd-platformer]: Pressed the key: 38
+10:28:10 [gd-platformer]: Released the key: 38
+10:28:10 [gd-platformer]: Pressed the key: 38
+10:28:10 [gd-platformer]: Released the key: 38
+10:28:11 [gd-platformer]: Pressed the key: 38
+10:28:11 [gd-platformer]: Released the key: 38
+10:28:11 [gd-platformer]: Pressed the key: 38
+10:28:11 [gd-platformer]: Released the key: 38
+10:28:11 [gd-platformer]: Pressed the key: 38
+10:28:11 [gd-platformer]: Released the key: 38
+10:28:12 [gd-platformer]: Pressed the key: 38
+10:28:12 [gd-platformer]: Released the key: 38
+10:28:12 [gd-platformer]: Pressed the key: 38
+10:28:12 [gd-platformer]: Released the key: 38
+10:28:12 [gd-platformer]: Pressed the key: 38
+10:28:12 [gd-platformer]: Released the key: 38
+10:28:12 [gd-platformer]: Pressed the key: 38
+10:28:12 [gd-platformer]: Released the key: 38
+10:28:12 [gd-platformer]: Pressed the key: 38
+10:28:13 [gd-platformer]: Released the key: 38
+10:28:13 [gd-platformer]: Pressed the key: 38
+10:28:13 [gd-platformer]: Released the key: 38
+10:28:13 [gd-platformer]: Pressed the key: 38
+10:28:13 [gd-platformer]: Released the key: 38
+10:28:13 [gd-platformer]: Pressed the key: 38
+10:28:13 [gd-platformer]: Released the key: 38
+10:28:13 [gd-platformer]: Pressed the key: 38
+10:28:13 [gd-platformer]: Released the key: 38
+10:28:14 [gd-platformer]: Pressed the key: 38
+10:28:14 [gd-platformer]: Released the key: 38
+10:28:14 [gd-platformer]: Pressed the key: 38
+10:28:14 [gd-platformer]: Released the key: 38
+10:28:14 [gd-platformer]: Pressed the key: 38
+10:28:14 [gd-platformer]: Released the key: 38
+10:28:14 [gd-platformer]: Pressed the key: 38
+10:28:14 [gd-platformer]: Released the key: 38
+10:28:14 [gd-platformer]: Pressed the key: 38
+10:28:15 [gd-platformer]: Released the key: 38
+10:28:15 [gd-platformer]: Pressed the key: 38
+10:28:15 [gd-platformer]: Released the key: 38
+10:28:15 [gd-platformer]: Pressed the key: 38
+10:28:15 [gd-platformer]: Released the key: 38
+10:28:15 [gd-platformer]: Pressed the key: 38
+10:28:15 [gd-platformer]: Released the key: 38
+10:28:16 [gd-platformer]: Pressed the key: 38
+10:28:16 [gd-platformer]: Released the key: 38
+10:28:16 [gd-platformer]: Pressed the key: 38
+10:28:16 [gd-platformer]: Released the key: 38
+10:28:16 [gd-platformer]: Pressed the key: 38
+10:28:16 [gd-platformer]: Released the key: 38
+10:28:16 [gd-platformer]: Pressed the key: 38
+10:28:16 [gd-platformer]: Released the key: 38
+10:28:16 [gd-platformer]: Pressed the key: 38
+10:28:17 [gd-platformer]: Released the key: 38
+10:28:17 [gd-platformer]: Pressed the key: 38
+10:28:17 [gd-platformer]: Released the key: 38
+10:28:17 [gd-platformer]: Pressed the key: 38
+10:28:17 [gd-platformer]: Released the key: 38
+10:28:17 [gd-platformer]: Pressed the key: 38
+10:28:17 [gd-platformer]: Released the key: 38
+10:28:17 [gd-platformer]: Pressed the key: 38
+10:28:18 [gd-platformer]: Released the key: 38
+10:28:18 [gd-platformer]: Pressed the key: 38
+10:28:18 [gd-platformer]: Released the key: 38
+10:28:18 [gd-platformer]: Pressed the key: 38
+10:28:18 [gd-platformer]: Released the key: 38
+10:28:18 [gd-platformer]: Pressed the key: 38
+10:28:18 [gd-platformer]: Released the key: 38
+10:28:18 [gd-platformer]: Pressed the key: 38
+10:28:19 [gd-platformer]: Released the key: 38
+10:28:19 [gd-platformer]: Pressed the key: 38
+10:28:19 [gd-platformer]: Released the key: 38
+10:28:19 [gd-platformer]: Pressed the key: 38
+10:28:19 [gd-platformer]: Released the key: 38
+10:28:19 [gd-platformer]: Pressed the key: 38
+10:28:19 [gd-platformer]: Released the key: 38
+10:28:20 [gd-platformer]: Pressed the key: 38
+10:28:20 [gd-platformer]: Released the key: 38
+10:28:20 [gd-platformer]: Pressed the key: 38
+10:28:20 [gd-platformer]: Released the key: 38
+10:28:20 [gd-platformer]: Pressed the key: 38
+10:28:20 [gd-platformer]: Released the key: 38
+10:28:20 [gd-platformer]: Pressed the key: 38
+10:28:20 [gd-platformer]: Released the key: 38
+10:28:21 [gd-platformer]: Pressed the key: 38
+10:28:21 [gd-platformer]: Released the key: 38
+10:28:21 [gd-platformer]: Pressed the key: 38
+10:28:21 [gd-platformer]: Released the key: 38
+10:28:21 [gd-platformer]: Pressed the key: 38
+10:28:21 [gd-platformer]: Released the key: 38
+10:28:24 [gd-platformer]: Pressed the key: 38
+10:28:24 [gd-platformer]: Released the key: 38
+10:28:24 [gd-platformer]: Pressed the key: 38
+10:28:25 [gd-platformer]: Released the key: 38
+10:28:25 [gd-platformer]: Pressed the key: 38
+10:28:25 [gd-platformer]: Released the key: 38
+10:28:26 [gd-platformer]: Pressed the key: 38
+10:28:26 [gd-platformer]: Released the key: 38
+10:28:27 [gd-platformer]: Pressed the key: 38
+10:28:27 [gd-platformer]: Released the key: 38
+10:28:27 [gd-platformer]: Pressed the key: 38
+10:28:27 [gd-platformer]: Released the key: 38
+10:28:27 [gd-platformer]: Pressed the key: 38
+10:28:28 [gd-platformer]: Released the key: 38
+10:28:28 [gd-platformer]: Pressed the key: 38
+10:28:28 [gd-platformer]: Released the key: 38
+10:28:28 [gd-platformer]: Pressed the key: 38
+10:28:28 [gd-platformer]: Released the key: 38
+10:28:28 [gd-platformer]: Pressed the key: 38
+10:28:29 [gd-platformer]: Released the key: 38
+10:28:29 [gd-platformer]: Pressed the key: 38
+10:28:29 [gd-platformer]: Released the key: 38
+10:28:29 [gd-platformer]: Pressed the key: 38
+10:28:29 [gd-platformer]: Released the key: 38
+10:28:29 [gd-platformer]: Pressed the key: 38
+10:28:29 [gd-platformer]: Released the key: 38
+10:28:30 [gd-platformer]: Pressed the key: 38
+10:28:30 [gd-platformer]: Released the key: 38
+10:28:31 [gd-platformer]: Pressed the key: 38
+10:28:31 [gd-platformer]: Released the key: 38
+10:28:32 [gd-platformer]: Pressed the key: 38
+10:28:33 [gd-platformer]: Released the key: 38
+10:28:33 [gd-platformer]: Pressed the key: 38
+10:28:33 [gd-platformer]: Released the key: 38
+10:28:34 [gd-platformer]: Pressed the key: 38
+10:28:34 [gd-platformer]: Released the key: 38
+10:28:34 [gd-platformer]: Pressed the key: 38
+10:28:34 [gd-platformer]: Released the key: 38
+10:28:35 [gd-platformer]: Pressed the key: 38
+10:28:35 [gd-platformer]: Released the key: 38
+10:28:36 [gd-platformer]: Pressed the key: 38
+10:28:36 [gd-platformer]: Released the key: 38
+10:28:36 [gd-platformer]: Pressed the key: 38
+10:28:36 [gd-platformer]: Released the key: 38
+10:28:37 [gd-platformer]: Pressed the key: 38
+10:28:37 [gd-platformer]: Released the key: 38
+10:28:38 [gd-platformer]: Pressed the key: 38
+10:28:38 [gd-platformer]: Released the key: 38
+10:28:38 [gd-platformer]: Pressed the key: 38
+10:28:39 [gd-platformer]: Released the key: 38
+10:28:39 [gd-platformer]: Pressed the key: 38
+10:28:39 [gd-platformer]: Released the key: 38
+10:28:39 [gd-platformer]: Pressed the key: 38
+10:28:39 [gd-platformer]: Released the key: 38
+10:28:40 [gd-platformer]: Pressed the key: 38
+10:28:40 [gd-platformer]: Released the key: 38
+10:28:41 [gd-platformer]: Pressed the key: 38
+10:28:41 [gd-platformer]: Released the key: 38
+10:28:43 [gd-platformer]: Pressed the key: 38
+10:28:43 [gd-platformer]: Released the key: 38
+10:28:43 [gd-platformer]: Pressed the key: 38
+10:28:44 [gd-platformer]: Released the key: 38
+10:28:44 [gd-platformer]: Pressed the key: 38
+10:28:44 [gd-platformer]: Released the key: 38
+10:28:44 [gd-platformer]: Pressed the key: 38
+10:28:45 [gd-platformer]: Released the key: 38
+10:28:45 [gd-platformer]: Pressed the key: 38
+10:28:45 [gd-platformer]: Released the key: 38
+10:28:45 [gd-platformer]: Pressed the key: 38
+10:28:45 [gd-platformer]: Released the key: 38
+10:28:46 [gd-platformer]: Pressed the key: 38
+10:28:46 [gd-platformer]: Released the key: 38
+10:28:46 [gd-platformer]: Pressed the key: 38
+10:28:46 [gd-platformer]: Released the key: 38
+10:28:47 [gd-platformer]: Pressed the key: 38
+10:28:47 [gd-platformer]: Released the key: 38
+10:28:47 [gd-platformer]: Pressed the key: 38
+10:28:47 [gd-platformer]: Released the key: 38
+10:28:48 [gd-platformer]: Pressed the key: 38
+10:28:49 [gd-platformer]: Released the key: 38
+10:28:49 [gd-platformer]: Pressed the key: 38
+10:28:49 [gd-platformer]: Released the key: 38
+10:28:50 [gd-platformer]: Pressed the key: 38
+10:28:50 [gd-platformer]: Released the key: 38
+10:28:51 [gd-platformer]: Pressed the key: 38
+10:28:51 [gd-platformer]: Released the key: 38
+10:28:51 [gd-platformer]: Pressed the key: 38
+10:28:51 [gd-platformer]: Released the key: 38
+10:28:52 [gd-platformer]: Pressed the key: 38
+10:28:52 [gd-platformer]: Released the key: 38
+10:28:52 [gd-platformer]: Pressed the key: 38
+10:28:52 [gd-platformer]: Released the key: 38
+10:28:53 [gd-platformer]: Pressed the key: 38
+10:28:53 [gd-platformer]: Released the key: 38
+10:28:53 [gd-platformer]: Pressed the key: 38
+10:28:53 [gd-platformer]: Released the key: 38
+10:28:54 [gd-platformer]: Pressed the key: 38
+10:28:54 [gd-platformer]: Released the key: 38
+10:28:54 [gd-platformer]: Pressed the key: 38
+10:28:55 [gd-platformer]: Released the key: 38
+10:28:55 [gd-platformer]: Pressed the key: 38
+10:28:55 [gd-platformer]: Released the key: 38
+10:28:55 [gd-platformer]: Pressed the key: 38
+10:28:55 [gd-platformer]: Released the key: 38
+10:28:56 [gd-platformer]: Pressed the key: 38
+10:28:56 [gd-platformer]: Released the key: 38
+10:28:56 [gd-platformer]: Pressed the key: 38
+10:28:56 [gd-platformer]: Released the key: 38
+10:28:56 [gd-platformer]: Pressed the key: 38
+10:28:56 [gd-platformer]: Released the key: 38
+10:28:56 [gd-platformer]: Pressed the key: 38
+10:28:56 [gd-platformer]: Released the key: 38
+10:28:57 [gd-platformer]: Pressed the key: 38
+10:28:57 [gd-platformer]: Released the key: 38
+10:28:57 [gd-platformer]: Pressed the key: 38
+10:28:57 [gd-platformer]: Released the key: 38
+10:28:57 [gd-platformer]: Pressed the key: 38
+10:28:57 [gd-platformer]: Released the key: 38
+10:28:57 [gd-platformer]: Pressed the key: 38
+10:28:57 [gd-platformer]: Released the key: 38
+10:28:58 [gd-platformer]: Pressed the key: 38
+10:28:58 [gd-platformer]: Released the key: 38
+10:28:58 [gd-platformer]: Pressed the key: 38
+10:28:59 [gd-platformer]: Released the key: 38
+10:29:00 [gd-platformer]: Pressed the key: 38
+10:29:00 [gd-platformer]: Released the key: 38
+10:29:00 [gd-platformer]: Pressed the key: 38
+10:29:01 [gd-platformer]: Released the key: 38
+10:29:01 [gd-platformer]: Pressed the key: 38
+10:29:02 [gd-platformer]: Released the key: 38
+10:29:03 [gd-platformer]: Pressed the key: 38
+10:29:03 [gd-platformer]: Released the key: 38
+10:29:03 [gd-platformer]: Pressed the key: 38
+10:29:04 [gd-platformer]: Released the key: 38
+10:29:04 [gd-platformer]: Pressed the key: 38
+10:29:05 [gd-platformer]: Released the key: 38
+10:29:05 [gd-platformer]: Pressed the key: 38
+10:29:06 [gd-platformer]: Released the key: 38
+10:29:06 [gd-platformer]: Released the key: 39
+10:29:09 [gd-platformer]: Pressed the key: 39
+10:29:09 [gd-platformer]: Released the key: 39
+10:29:39 [Geode]: Disabling hook at function GameObject::activateObject
+10:29:39 [Geode]: Disabling hook at function UILayer::init
+10:29:39 [Geode]: Disabling hook at function UILayer::keyDown
+10:29:39 [Geode]: Disabling hook at function UILayer::keyUp
+10:29:39 [Geode]: Disabling hook at function PlayLayer::flipGravity
+10:29:39 [Geode]: Disabling hook at function PlayLayer::init
+10:29:39 [Geode]: Disabling hook at function PlayLayer::playGravityEffect
+10:29:39 [Geode]: Disabling hook at function PlayLayer::resetLevel
+10:29:39 [Geode]: Disabling hook at function PlayLayer::update
+10:29:39 [Geode]: Disabling hook at function PlayerObject::pushButton
+10:29:39 [Geode]: Disabling hook at function PlayerObject::update
+10:29:39 [Geode]: Disabling hook at function PlayLayer::destroyPlayer
+10:29:40 [Geode]: Enabling hook at function PlayLayer::destroyPlayer with address 0100A1A0
+10:29:41 [Geode]: Disabling hook at function PlayLayer::destroyPlayer
+10:30:48 [BetterInfo]: pageMenu
+10:30:51 [BetterInfo]: pageMenu
+10:30:59 [BetterInfo]: pageMenu
+10:30:59 [BetterInfo]: pageMenu
+10:36:17 [BetterInfo]: pageMenu
+10:38:11 [Geode]: Disabling hook at function PlayLayer::update
+10:38:26 [BetterInfo]: pageMenu
+10:38:55 [BetterInfo]: pageMenu
+10:42:50 [Geode]: Saving...
+10:42:50 [Geode]: Check covered
+10:42:50 [Geode]: Check covered
+10:42:50 [Geode]: Check covered
+10:42:50 [Geode]: Check if auto-check-updates is saved
+10:42:50 [Geode]: Check if show-platform-console is saved
+10:42:50 [Geode]: Check if disable-last-crashed-popup is saved
+10:42:50 [Geode]: Check if auto-update-mods is saved
+10:42:50 [Geode]: Check covered
+10:42:50 [Geode]: Check if normal-undo-shared is saved
+10:42:50 [Geode]: Check if move-button is saved
+10:42:50 [Geode]: Check if normal-undo-local is saved
+10:42:50 [Geode]: Check covered
+10:42:50 [Geode]: Check if text-color is saved
+10:42:50 [Geode]: Check covered
+10:42:50 [Geode]: Check covered
+10:42:51 [Geode]: Check covered
+10:42:51 [Geode]: Check if fix-green-users is saved
+10:42:51 [Geode]: Check if show-comment-ids is saved
+10:42:51 [Geode]: Check if white-id is saved
+10:42:51 [Geode]: Check if level-info is saved
+10:42:51 [Geode]: Check if alt-button is saved
+10:42:51 [Geode]: Check if auto-submit is saved
+10:42:51 [Geode]: Check covered
+10:42:51 [Geode]: Check covered
+10:42:51 [Geode]: Check covered
+10:42:51 [Geode]: Check covered
+10:42:51 [Geode]: Check covered
+10:42:51 [Geode]: Check covered
+10:42:51 [Geode]: Check if auto-check-updates is saved
+10:42:51 [Geode]: Check if show-platform-console is saved
+10:42:51 [Geode]: Check if disable-last-crashed-popup is saved
+10:42:51 [Geode]: Check if auto-update-mods is saved
+10:42:51 [Geode]: Saved
+10:50:36 [BetterInfo]: pageMenu
+10:50:41 [BetterInfo]: pageMenu
+10:50:41 [BetterInfo]: pageMenu
+10:50:49 [BetterInfo]: pageMenu
+10:51:24 [BetterInfo]: pageMenu
+10:51:36 [Geode]: Disabling hook at function EditorUI::scrollWheel
+10:51:41 [BetterInfo]: pageMenu
+10:52:15 [BetterInfo]: pageMenu
+10:52:23 [Geode]: Enabling hook at function EditorUI::scrollWheel with address 00E921D0
+10:52:36 [Geode]: Disabling hook at function LoadingLayer::init
+10:52:36 [Geode]: Disabling hook at function MenuLayer::init
+10:52:36 [FPS Shower]: Disabled
+10:52:41 [BetterInfo]: pageMenu
+10:53:22 [BetterInfo]: pageMenu
+10:54:07 [Geode]: Saving...
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check if auto-check-updates is saved
+10:54:07 [Geode]: Check if show-platform-console is saved
+10:54:07 [Geode]: Check if disable-last-crashed-popup is saved
+10:54:07 [Geode]: Check if auto-update-mods is saved
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check if normal-undo-shared is saved
+10:54:07 [Geode]: Check if move-button is saved
+10:54:07 [Geode]: Check if normal-undo-local is saved
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check if text-color is saved
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check if fix-green-users is saved
+10:54:07 [Geode]: Check if show-comment-ids is saved
+10:54:07 [Geode]: Check if white-id is saved
+10:54:07 [Geode]: Check if level-info is saved
+10:54:07 [Geode]: Check if alt-button is saved
+10:54:07 [Geode]: Check if auto-submit is saved
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check covered
+10:54:07 [Geode]: Check if auto-check-updates is saved
+10:54:07 [Geode]: Check if show-platform-console is saved
+10:54:07 [Geode]: Check if disable-last-crashed-popup is saved
+10:54:07 [Geode]: Check if auto-update-mods is saved
+10:54:07 [Geode]: Saved
+10:54:12 [Editor Collab]: Run thread joined
+10:54:12 [Editor Collab]: Heartbeat thread joined
+10:54:12 [Editor Collab]: Reconnect thread joined

@@ -1,0 +1,7 @@
+ONLY PUT EXTENSIONS HERE IF ABSOLUTELY REQUIRED, IF NOT THIS WILL CAUSE CONFLICTS.
+
+IF AN EXTENSION DOES NOT LOAD AT ALL NORMALLY PUTTING IT HERE WILL **NOT** HELP.
+
+Extensions in this folder will always load until moved out. You cannot disable them.
+
+textureldr goes here :)

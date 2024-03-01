@@ -1,0 +1,86 @@
+2024-02-28T16:20:29+0100
+Whoopsies! An unhandled exception has occurred.
+
+== Geode Information ==
+Loader Version: v2.0.0-beta.20
+Loader Commit: 453fac9
+Bindings Commit: 60e063e
+Installed mods: 30
+Problems: 16
+
+== Exception Information ==
+C++ Exception: class std::out_of_range("invalid unordered_map<K, T> key")
+Faulty Mod: <Unknown>
+
+== Stack Trace ==
+ - C:\WINDOWS\System32\KERNELBASE.dll + 149392 (RaiseException + 98)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\absolllute.megahack\absolllute.megahack.dll + 22bf71
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\absolllute.megahack\absolllute.megahack.dll + 214a1a
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\absolllute.megahack\absolllute.megahack.dll + 8ea4a
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\absolllute.megahack\absolllute.megahack.dll + 92329
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\absolllute.megahack\absolllute.megahack.dll + 92276
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\absolllute.megahack\absolllute.megahack.dll + 8f1ba
+ - 15D50F37
+ - 15C92116
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\zilko.xdbot\zilko.xdbot.dll + 1d13a
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\zilko.xdbot\zilko.xdbot.dll + 41c6
+ - 15C91F37
+ - 00B62D76
+ - 00B62B97
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\zilko.xdbot\zilko.xdbot.dll + 7eb6
+ - 00B62B97
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\gdutilsdevs.gdutils\gdutilsdevs.gdutils.dll + 1e4e6
+ - 00B62B97
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\gdutilsdevs.gdutils\gdutilsdevs.gdutils.dll + 1e506
+ - 00B62B97
+ - 15D40A89
+ - 15D408AB
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 3c12d8
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\Geode.dll + 16f4d4 (crashlog::setupPlatformHandlerPost + 3956)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 3c267e
+ - C:\WINDOWS\System32\KERNEL32.DLL + 17ba9 (BaseThreadInitThunk + 25)
+ - C:\WINDOWS\SYSTEM32\ntdll.dll + 6bd2b (RtlInitializeExceptionChain + 107)
+ - C:\WINDOWS\SYSTEM32\ntdll.dll + 6bcaf (RtlClearBits + 191)
+
+== Register States ==
+EAX: 00eff020
+EBX: 19930520
+ECX: 00000003
+EDX: 00000000
+EBP: 00eff078
+ESP: 00eff020
+EDI: 67f8f68c
+ESI: 00eff124
+EIP: 752d9392
+
+== Installed Mods ==
+  | [v1.0.4] abb2k.backup
+x | [v8.0.0-alpha.10] absolllute.megahack
+x | [v1.0.5] bitz.customprofiles
+x | [v1.1.4] capeling.icon_profile_2.2
+x | [v1.0.1] cj_link.fakemoderator
+x | [v1.0.1] coderqc.gdswearfilter
+x | [v1.0.1] colon.gold_user_coins
+x | [v4.0.0-alpha.13] cvolton.betterinfo
+! | [v1.2.2] dankmeme.globed2
+x | [v1.0.0] elnexreal.auto_priority
+! | [v1.2.3] elnexreal.copy_song_id
+x | [v1.4.3] elohmrow.death_tracker
+x | [v2.4.0] fleym.nongd
+x | [v1.2.14] gdutilsdevs.gdutils
+  | [v1.4.0] geode.custom-keybinds
+x | [v2.0.0-beta.20] geode.loader
+x | [v1.3.0] geode.node-ids
+x | [v1.5.0] geode.texture-loader
+x | [v1.0.4] hjfod.gdshare
+x | [v1.0.1] hjfod.gmd-api
+x | [v1.0.1] hjfod.quick-volume-controls
+x | [v0.1.4] lexi.visiblecheckpoints
+x | [v1.0.2] mat.run-info
+  | [v1.0.4-beta.12] muhammadgames.bettermenu
+x | [v1.0.1] thesillydoggo.animatedprofiles
+x | [v1.1.0] thesillydoggo.better_startpos_menu
+x | [v1.0.0] thesillydoggo.entersearch
+x | [v2.1.0] TheSillyDoggo.GradientPages
+  | [v1.5.5] tpdea.betterpause-Better
+x | [v1.4.8] zilko.xdbot

@@ -1,0 +1,349 @@
+14:15:24 [Geode]: Set up platform crash logger
+14:15:24 [Geode]: Setting up Loader...
+14:15:24 [Geode]: Set up internal mod representation
+14:15:24 [Geode]: Loading hooks... 
+14:15:24 [Geode]: Enabling hook at function cocos2d::CCFileUtils::fullPathForFilename with address 6987DB50
+14:15:24 [Geode]: Enabling hook at function cocos2d::CCFileUtils::sharedFileUtils with address 69885DC0
+14:15:24 [Geode]: Enabling hook at function cocos2d::CCNode::getUserObject with address 6981F570
+14:15:24 [Geode]: Enabling hook at function cocos2d::CCNode::setUserObject with address 69820700
+14:15:24 [Geode]: Enabling hook at function LoadingLayer::init with address 0023C080
+14:15:24 [Geode]: Enabling hook at function LoadingLayer::loadAssets with address 0023C8E0
+14:15:24 [Geode]: Enabling hook at function GJBaseGameLayer::collectItem with address 001C1890
+14:15:24 [Geode]: Enabling hook at function GJBaseGameLayer::collectedObject with address 001C1830
+14:15:24 [Geode]: Enabling hook at function cocos2d::CCTouchDispatcher::addTargetedDelegate with address 698B5020
+14:15:24 [Geode]: Enabling hook at function cocos2d::CCTouchDispatcher::decrementForcePrio with address 698B50A0
+14:15:24 [Geode]: Enabling hook at function cocos2d::CCTouchDispatcher::incrementForcePrio with address 698B5320
+14:15:24 [Geode]: Enabling hook at function AchievementNotifier::willSwitchToScene with address 000BFEA0
+14:15:24 [Geode]: Enabling hook at function AppDelegate::trySaveGame with address 000ED5E0
+14:15:24 [Geode]: Enabling hook at function cocos2d::CCScheduler::update with address 698C3430
+14:15:24 [Geode]: Enabling hook at function LoadingLayer::loadAssets with address 0023C8E0
+14:15:24 [Geode]: Enabling hook at function CCTextInputNode::init with address 000D0E50
+14:15:24 [Geode]: Enabling hook at function CCTextInputNode::updateLabel with address 000D1190
+14:15:24 [Geode]: Enabling hook at function CreatorLayer::init with address 000FDE40
+14:15:24 [Geode]: Enabling hook at function CustomSongWidget::init with address 001185B0
+14:15:24 [Geode]: Enabling hook at function CustomizeObjectLayer::init with address 00103E00
+14:15:24 [Geode]: Enabling hook at function CustomizeObjectLayer::toggleVisible with address 00106FB0
+14:15:24 [Geode]: Enabling hook at function EditLevelLayer::init with address 0011F5D0
+14:15:24 [Geode]: Enabling hook at function EditorPauseLayer::init with address 001230E0
+14:15:24 [Geode]: Enabling hook at function EditorUI::init with address 00126310
+14:15:24 [Geode]: Enabling hook at function GJGarageLayer::init with address 001D55D0
+14:15:24 [Geode]: Enabling hook at function LevelBrowserLayer::init with address 0020A040
+14:15:24 [Geode]: Enabling hook at function LevelInfoLayer::init with address 00225DF0
+14:15:24 [Geode]: Enabling hook at function LevelSearchLayer::init with address 0022DA60
+14:15:24 [Geode]: Enabling hook at function LevelSettingsLayer::init with address 00220E50
+14:15:24 [Geode]: Enabling hook at function PauseLayer::customSetup with address 00294620
+14:15:24 [Geode]: Enabling hook at function UILayer::init with address 0030F3B0
+14:15:24 [Geode]: Enabling hook at function LoadingLayer::loadAssets with address 0023C8E0
+14:15:24 [Geode]: Enabling hook at function MenuLayer::init with address 002407B0
+14:15:24 [Geode]: Loaded hooks
+14:15:24 [Geode]: Setting up IPC...
+14:15:24 [Geode]: IPC set up
+14:15:24 [Geode]: Refreshing mod graph...
+14:15:24 [Geode]:   Queueing mods
+14:15:24 [Geode]:     Searching "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Geometry Dash\\geode\\mods"
+14:15:24 [Geode]:       Found "alk.editorcollab.geode"
+14:15:24 [Geode]:         id: alk.editorcollab
+14:15:24 [Geode]:         version: v1.12.4-beta
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "alk.fps-shower.geode"
+14:15:24 [Geode]:         id: alk.fps-shower
+14:15:24 [Geode]:         version: v1.0.1
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "camila314.acbypass.geode"
+14:15:24 [Geode]:         id: camila314.acbypass
+14:15:24 [Geode]:         version: v1.0.0
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "camila314.demonlist-button.geode"
+14:15:24 [Geode]:         id: camila314.demonlist-button
+14:15:24 [Geode]:         version: v1.0.0
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "camila314.noclip.geode"
+14:15:24 [Geode]:         camila314.noclip: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+14:15:24 [Geode]:         id: camila314.noclip
+14:15:24 [Geode]:         version: v1.0.0
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "chs.confirmquit.geode"
+14:15:24 [Geode]:         id: chs.confirmquit
+14:15:24 [Geode]:         version: v1.0.0
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "chs000.modmenutest.geode"
+14:15:24 [Geode]:         chs000.modmenutest: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+14:15:24 [Geode]:         chs000.modmenutest: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+14:15:24 [Geode]:         id: chs000.modmenutest
+14:15:24 [Geode]:         version: v0.1.2
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "cvolton.betterinfo.geode"
+14:15:24 [Geode]:         id: cvolton.betterinfo
+14:15:24 [Geode]:         version: v3.0.2
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "cvolton.capacity_fix.geode"
+14:15:24 [Geode]:         id: cvolton.capacity_fix
+14:15:24 [Geode]:         version: v1.0.1
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "hjfod.custom-keybinds.geode"
+14:15:24 [Geode]:         id: hjfod.custom-keybinds
+14:15:24 [Geode]:         version: v1.0.0
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "mat.fps-bypass.geode"
+14:15:24 [Geode]:         id: mat.fps-bypass
+14:15:24 [Geode]:         version: v1.0.3
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "mat.practice-music.geode"
+14:15:24 [Geode]:         id: mat.practice-music
+14:15:24 [Geode]:         version: v1.0.3
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "mat.scroll-zoom.geode"
+14:15:24 [Geode]:         id: mat.scroll-zoom
+14:15:24 [Geode]:         version: v1.0.0
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "rlt.gd-platformer.geode"
+14:15:24 [Geode]:         id: rlt.gd-platformer
+14:15:24 [Geode]:         version: v1.0.0
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "ruslan.apm.geode"
+14:15:24 [Geode]:         id: ruslan.apm
+14:15:24 [Geode]:         version: v1.0.0
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:       Found "ruslan.nm.geode"
+14:15:24 [Geode]:         id: ruslan.nm
+14:15:24 [Geode]:         version: v1.0.0
+14:15:24 [Geode]:         early: no
+14:15:24 [Geode]:   Populating mod list
+14:15:24 [Geode]:     alk.editorcollab v1.12.4-beta
+14:15:25 [Geode]:     alk.fps-shower v1.0.1
+14:15:25 [Geode]:     camila314.acbypass v1.0.0
+14:15:25 [Geode]:     camila314.demonlist-button v1.0.0
+14:15:25 [Geode]:     camila314.noclip v1.0.0
+14:15:25 [Geode]:     chs.confirmquit v1.0.0
+14:15:25 [Geode]:     chs000.modmenutest v0.1.2
+14:15:26 [Geode]:     cvolton.betterinfo v3.0.2
+14:15:26 [Geode]:     cvolton.capacity_fix v1.0.1
+14:15:26 [Geode]:     hjfod.custom-keybinds v1.0.0
+14:15:26 [Geode]:     mat.fps-bypass v1.0.3
+14:15:27 [Geode]:     mat.practice-music v1.0.3
+14:15:27 [Geode]:     mat.scroll-zoom v1.0.0
+14:15:27 [Geode]:     rlt.gd-platformer v1.0.0
+14:15:27 [Geode]:     ruslan.apm v1.0.0
+14:15:27 [Geode]:     ruslan.nm v1.0.0
+14:15:27 [Geode]:   Building mod graph
+14:15:27 [Geode]:     camila314.acbypass
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:     chs.confirmquit
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:     geode.loader
+14:15:27 [Geode]:     alk.editorcollab
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:     alk.fps-shower
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:     camila314.demonlist-button
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:     camila314.noclip
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:       camila314.acbypass
+14:15:27 [Geode]:     chs000.modmenutest
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:       camila314.acbypass
+14:15:27 [Geode]:       hjfod.custom-keybinds
+14:15:27 [Geode]:     cvolton.betterinfo
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:     cvolton.capacity_fix
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:     hjfod.custom-keybinds
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:     mat.fps-bypass
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:     mat.practice-music
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:     mat.scroll-zoom
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:     rlt.gd-platformer
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:     ruslan.apm
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:     ruslan.nm
+14:15:27 [Geode]:       geode.loader
+14:15:27 [Geode]:   Loading early mods
+14:15:27 [Geode]:   Took 3.204s. Continuing next frame...
+14:15:27 [Geode]: Set up loader
+14:15:27 [Geode]: Entry done.
+14:15:36 [Geode]: Adding resources for alk.editorcollab
+14:15:36 [Geode]: Adding sheet alk.editorcollab/TulipEditor
+14:15:36 [Geode]: Continuing mod graph refresh...
+14:15:36 [Geode]:   Loading mods
+14:15:36 [Geode]:     camila314.acbypass v1.0.0
+14:15:36 [Geode]:       Load
+14:15:36 [Geode]:       Loading binary for mod camila314.acbypass
+14:15:36 [Geode]:   Took 0.332s
+14:15:36 [Geode]: Continuing mod graph refresh...
+14:15:36 [Geode]:   Loading mods
+14:15:36 [Geode]:     chs.confirmquit v1.0.0
+14:15:36 [Geode]:       Load
+14:15:36 [Geode]:       Loading binary for mod chs.confirmquit
+14:15:37 [Geode]:   Took 0.174s
+14:15:37 [Geode]: Continuing mod graph refresh...
+14:15:37 [Geode]:   Loading mods
+14:15:37 [Geode]:     alk.editorcollab v1.12.4-beta
+14:15:37 [Geode]:       Load
+14:15:37 [Geode]:       Loading binary for mod alk.editorcollab
+14:15:37 [Editor Collab]:       Loaded
+14:15:37 [Geode]:   Took 0.66s
+14:15:37 [Geode]: Continuing mod graph refresh...
+14:15:37 [Geode]:   Loading mods
+14:15:37 [Geode]:     alk.fps-shower v1.0.1
+14:15:37 [Geode]:       Load
+14:15:37 [Geode]:       Loading binary for mod alk.fps-shower
+14:15:37 [Geode]:   Took 0.195s
+14:15:37 [Geode]: Continuing mod graph refresh...
+14:15:37 [Geode]:   Loading mods
+14:15:37 [Geode]:     camila314.demonlist-button v1.0.0
+14:15:37 [Geode]:       Load
+14:15:37 [Geode]:       Loading binary for mod camila314.demonlist-button
+14:15:38 [Geode]:   Took 0.283s
+14:15:38 [Geode]: Continuing mod graph refresh...
+14:15:38 [Geode]:   Loading mods
+14:15:38 [Geode]:     camila314.noclip v1.0.0
+14:15:38 [Geode]:       Load
+14:15:38 [Geode]:       Loading binary for mod camila314.noclip
+14:15:38 [Geode]:   Took 0.293s
+14:15:38 [Geode]: Continuing mod graph refresh...
+14:15:38 [Geode]:   Loading mods
+14:15:38 [Geode]:   Took 0s
+14:15:38 [Geode]: Continuing mod graph refresh...
+14:15:38 [Geode]:   Loading mods
+14:15:38 [Geode]:     cvolton.betterinfo v3.0.2
+14:15:38 [Geode]:       Load
+14:15:38 [Geode]:       Loading binary for mod cvolton.betterinfo
+14:15:38 [BetterInfo]:       Setting up Page Limit Bypass
+14:15:38 [BetterInfo]:       Performing Windows specific loading steps
+14:15:38 [Geode]:   Took 0.266s
+14:15:38 [Geode]: Continuing mod graph refresh...
+14:15:38 [Geode]:   Loading mods
+14:15:38 [Geode]:     cvolton.capacity_fix v1.0.1
+14:15:38 [Geode]:       Load
+14:15:38 [Geode]:       Loading binary for mod cvolton.capacity_fix
+14:15:38 [Geode]:   Took 0.147s
+14:15:38 [Geode]: Continuing mod graph refresh...
+14:15:38 [Geode]:   Loading mods
+14:15:38 [Geode]:     hjfod.custom-keybinds v1.0.0
+14:15:38 [Geode]:       Load
+14:15:38 [Geode]:       Loading binary for mod hjfod.custom-keybinds
+14:15:39 [Geode]:   Took 0.237s
+14:15:39 [Geode]: Continuing mod graph refresh...
+14:15:39 [Geode]:   Loading mods
+14:15:39 [Geode]:     mat.fps-bypass v1.0.3
+14:15:39 [Geode]:       Load
+14:15:39 [Geode]:       Loading binary for mod mat.fps-bypass
+14:15:39 [Geode]:   Took 0.278s
+14:15:39 [Geode]: Continuing mod graph refresh...
+14:15:39 [Geode]:   Loading mods
+14:15:39 [Geode]:     mat.practice-music v1.0.3
+14:15:39 [Geode]:       Load
+14:15:39 [Geode]:       Loading binary for mod mat.practice-music
+14:15:39 [Geode]:   Took 0.168s
+14:15:39 [Geode]: Continuing mod graph refresh...
+14:15:39 [Geode]:   Loading mods
+14:15:39 [Geode]:     mat.scroll-zoom v1.0.0
+14:15:39 [Geode]:       Load
+14:15:39 [Geode]:       Loading binary for mod mat.scroll-zoom
+14:15:39 [Geode]:   Took 0.151s
+14:15:39 [Geode]: Continuing mod graph refresh...
+14:15:39 [Geode]:   Loading mods
+14:15:39 [Geode]:     rlt.gd-platformer v1.0.0
+14:15:39 [Geode]:       Load
+14:15:39 [Geode]:       Loading binary for mod rlt.gd-platformer
+14:15:40 [Geode]:   Took 0.255s
+14:15:40 [Geode]: Continuing mod graph refresh...
+14:15:40 [Geode]:   Loading mods
+14:15:40 [Geode]:     ruslan.apm v1.0.0
+14:15:40 [Geode]:       Load
+14:15:40 [Geode]:       Loading binary for mod ruslan.apm
+14:15:40 [Geode]:   Took 0.316s
+14:15:40 [Geode]: Continuing mod graph refresh...
+14:15:40 [Geode]:   Loading mods
+14:15:40 [Geode]:     ruslan.nm v1.0.0
+14:15:40 [Geode]:       Load
+14:15:40 [Geode]:       Loading binary for mod ruslan.nm
+14:15:40 [Geode]:   Took 0.215s
+14:15:40 [Geode]: Continuing mod graph refresh...
+14:15:40 [Geode]:   Finding problems
+14:15:40 [Geode]:     camila314.acbypass
+14:15:40 [Geode]:     chs.confirmquit
+14:15:40 [Geode]:     geode.loader
+14:15:40 [Geode]:     alk.editorcollab
+14:15:40 [Geode]:     alk.fps-shower
+14:15:40 [Geode]:     camila314.demonlist-button
+14:15:40 [Geode]:     camila314.noclip
+14:15:40 [Geode]:     chs000.modmenutest
+14:15:40 [Geode]:       chs000.modmenutest failed to load for an unknown reason
+14:15:40 [Geode]:     cvolton.betterinfo
+14:15:40 [Geode]:     cvolton.capacity_fix
+14:15:40 [Geode]:     hjfod.custom-keybinds
+14:15:40 [Geode]:     mat.fps-bypass
+14:15:40 [Geode]:     mat.practice-music
+14:15:40 [Geode]:     mat.scroll-zoom
+14:15:40 [Geode]:     rlt.gd-platformer
+14:15:40 [Geode]:     ruslan.apm
+14:15:40 [Geode]:     ruslan.nm
+14:15:40 [Geode]:   Took 0.002s
+14:15:44 [Geode]: Adding resources
+14:15:44 [Geode]: Adding resources for geode.loader
+14:15:44 [Geode]: Adding sheet geode.loader/LogoSheet
+14:15:44 [Geode]: Adding sheet geode.loader/APISheet
+14:15:44 [Geode]: Adding sheet geode.loader/BlankSheet
+14:15:44 [Geode]: Adding resources for alk.editorcollab
+14:15:44 [Geode]: Adding sheet alk.editorcollab/TulipEditor
+14:15:44 [Geode]: Checking updates for index
+14:15:45 [Geode]: Updating local index cache
+14:15:45 [Geode]: balt.freewindow: [mod.json].binary has been removed.
+14:15:45 [Geode]: camila314.noclip: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+14:15:45 [Geode]: camila314.startswitcher: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+14:15:45 [Geode]: chs000.modmenutest: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+14:15:45 [Geode]: chs000.modmenutest: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+14:15:46 [Geode]: hjfod.gdshare: [mod.json].required has been deprecated and will be removed in a future update. Use importance instead (see TODO: DOCS LINK)
+14:15:57 [Geode]: Saving...
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check if auto-check-updates is saved
+14:15:57 [Geode]: Check if show-platform-console is saved
+14:15:57 [Geode]: Check if disable-last-crashed-popup is saved
+14:15:57 [Geode]: Check if auto-update-mods is saved
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check if normal-undo-shared is saved
+14:15:57 [Geode]: Check if move-button is saved
+14:15:57 [Geode]: Check if normal-undo-local is saved
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check if text-color is saved
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check if ShowOnStartup is saved
+14:15:57 [Geode]: Check if isDebugOn is saved
+14:15:57 [Geode]: Check if FontSize is saved
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check if fix-green-users is saved
+14:15:57 [Geode]: Check if show-comment-ids is saved
+14:15:57 [Geode]: Check if white-id is saved
+14:15:57 [Geode]: Check if level-info is saved
+14:15:57 [Geode]: Check if alt-button is saved
+14:15:57 [Geode]: Check if auto-submit is saved
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check if enabled is saved
+14:15:57 [Geode]: Check if fps-value is saved
+14:15:57 [Geode]: Check if fps-label is saved
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check covered
+14:15:57 [Geode]: Check if auto-check-updates is saved
+14:15:57 [Geode]: Check if show-platform-console is saved
+14:15:57 [Geode]: Check if disable-last-crashed-popup is saved
+14:15:57 [Geode]: Check if auto-update-mods is saved
+14:15:57 [Geode]: Saved
+14:15:58 [Editor Collab]: Run thread joined
+14:15:58 [Editor Collab]: Heartbeat thread joined
+14:15:58 [Editor Collab]: Reconnect thread joined
